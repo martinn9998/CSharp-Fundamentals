@@ -1,0 +1,14 @@
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.exe
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.deps.json
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.runtimeconfig.json
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.AssemblyInfoInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.AssemblyInfo.cs
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.csproj.CoreCompileInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net6.0\refint\10. Rage Expenses.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.genruntimeconfig.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net6.0\ref\10. Rage Expenses.dll
