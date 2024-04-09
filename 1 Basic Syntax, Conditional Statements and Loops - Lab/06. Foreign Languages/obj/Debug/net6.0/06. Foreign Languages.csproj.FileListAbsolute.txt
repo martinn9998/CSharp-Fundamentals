@@ -1,0 +1,14 @@
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net6.0\06. Foreign Languages.exe
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net6.0\06. Foreign Languages.deps.json
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net6.0\06. Foreign Languages.runtimeconfig.json
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net6.0\06. Foreign Languages.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net6.0\06. Foreign Languages.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net6.0\06. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net6.0\06. Foreign Languages.AssemblyInfoInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net6.0\06. Foreign Languages.AssemblyInfo.cs
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net6.0\06. Foreign Languages.csproj.CoreCompileInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net6.0\06. Foreign Languages.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net6.0\refint\06. Foreign Languages.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net6.0\06. Foreign Languages.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net6.0\06. Foreign Languages.genruntimeconfig.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net6.0\ref\06. Foreign Languages.dll

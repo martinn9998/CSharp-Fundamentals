@@ -1,0 +1,14 @@
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.exe
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.deps.json
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.runtimeconfig.json
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.AssemblyInfoInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.AssemblyInfo.cs
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.csproj.CoreCompileInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\refint\02. Passed.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.genruntimeconfig.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\ref\02. Passed.dll

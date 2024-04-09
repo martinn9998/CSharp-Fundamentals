@@ -1,0 +1,14 @@
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\net6.0\04. Back In 30 Minutes.exe
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\net6.0\04. Back In 30 Minutes.deps.json
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\net6.0\04. Back In 30 Minutes.runtimeconfig.json
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\net6.0\04. Back In 30 Minutes.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\net6.0\04. Back In 30 Minutes.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.AssemblyInfoInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.AssemblyInfo.cs
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\refint\04. Back In 30 Minutes.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\04. Back In 30 Minutes.genruntimeconfig.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\net6.0\ref\04. Back In 30 Minutes.dll
