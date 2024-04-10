@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net6.0\09. Chars to String.exe
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net6.0\09. Chars to String.deps.json
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net6.0\09. Chars to String.runtimeconfig.json
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net6.0\09. Chars to String.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net6.0\09. Chars to String.pdb
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net6.0\09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net6.0\09. Chars to String.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net6.0\09. Chars to String.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net6.0\09. Chars to String.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net6.0\09. Chars to String.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net6.0\refint\09. Chars to String.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net6.0\09. Chars to String.pdb
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net6.0\09. Chars to String.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net6.0\ref\09. Chars to String.dll

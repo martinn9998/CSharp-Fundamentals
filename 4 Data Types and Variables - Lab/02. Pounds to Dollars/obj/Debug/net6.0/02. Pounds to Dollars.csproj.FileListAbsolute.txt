@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.exe
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.deps.json
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.runtimeconfig.json
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net6.0\02. Pounds to Dollars.pdb
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\refint\02. Pounds to Dollars.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.pdb
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\02. Pounds to Dollars.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net6.0\ref\02. Pounds to Dollars.dll

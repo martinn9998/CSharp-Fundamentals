@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net6.0\06. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net6.0\06. Reversed Chars.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net6.0\06. Reversed Chars.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net6.0\06. Reversed Chars.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net6.0\06. Reversed Chars.exe
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net6.0\06. Reversed Chars.deps.json
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net6.0\06. Reversed Chars.runtimeconfig.json
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net6.0\06. Reversed Chars.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net6.0\06. Reversed Chars.pdb
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net6.0\06. Reversed Chars.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net6.0\refint\06. Reversed Chars.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net6.0\06. Reversed Chars.pdb
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net6.0\06. Reversed Chars.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net6.0\ref\06. Reversed Chars.dll
