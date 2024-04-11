@@ -5,11 +5,11 @@ namespace LowerOrUpper
         public static void Main()
         {
             char character = char.Parse(Console.ReadLine());
-            if (character >= 'A' && character <= 'Z')
+            if (character >= 65 && character <= 90)
             {
                 Console.WriteLine("upper-case");
             }
-            else if (character >= 'a' && character <= 'z')
+            else if (character >= 97 && character <= 122)
             {
                 Console.WriteLine("lower-case");
             }
