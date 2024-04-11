@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net6.0\01. Integer Operations.exe
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net6.0\01. Integer Operations.deps.json
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net6.0\01. Integer Operations.runtimeconfig.json
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net6.0\01. Integer Operations.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net6.0\01. Integer Operations.pdb
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net6.0\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net6.0\01. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net6.0\01. Integer Operations.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net6.0\01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net6.0\01. Integer Operations.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net6.0\refint\01. Integer Operations.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net6.0\01. Integer Operations.pdb
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net6.0\01. Integer Operations.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net6.0\ref\01. Integer Operations.dll

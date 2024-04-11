@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net6.0\02. Sum Digits.exe
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net6.0\02. Sum Digits.deps.json
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net6.0\02. Sum Digits.runtimeconfig.json
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net6.0\02. Sum Digits.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net6.0\02. Sum Digits.pdb
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net6.0\02. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net6.0\02. Sum Digits.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net6.0\02. Sum Digits.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net6.0\02. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net6.0\02. Sum Digits.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net6.0\refint\02. Sum Digits.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net6.0\02. Sum Digits.pdb
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net6.0\02. Sum Digits.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net6.0\ref\02. Sum Digits.dll
