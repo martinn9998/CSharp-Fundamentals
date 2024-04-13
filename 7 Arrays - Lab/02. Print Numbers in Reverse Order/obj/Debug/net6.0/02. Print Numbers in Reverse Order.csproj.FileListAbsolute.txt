@@ -1,0 +1,14 @@
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net6.0\02. Print Numbers in Reverse Order.exe
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net6.0\02. Print Numbers in Reverse Order.deps.json
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net6.0\02. Print Numbers in Reverse Order.runtimeconfig.json
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net6.0\02. Print Numbers in Reverse Order.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net6.0\02. Print Numbers in Reverse Order.pdb
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net6.0\refint\02. Print Numbers in Reverse Order.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.pdb
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net6.0\02. Print Numbers in Reverse Order.genruntimeconfig.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net6.0\ref\02. Print Numbers in Reverse Order.dll

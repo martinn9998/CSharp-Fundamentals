@@ -1,0 +1,14 @@
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\bin\Debug\net6.0\08. Condense Array to Number.exe
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\bin\Debug\net6.0\08. Condense Array to Number.deps.json
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\bin\Debug\net6.0\08. Condense Array to Number.runtimeconfig.json
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\bin\Debug\net6.0\08. Condense Array to Number.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\bin\Debug\net6.0\08. Condense Array to Number.pdb
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\obj\Debug\net6.0\08. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\obj\Debug\net6.0\08. Condense Array to Number.AssemblyInfoInputs.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\obj\Debug\net6.0\08. Condense Array to Number.AssemblyInfo.cs
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\obj\Debug\net6.0\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\obj\Debug\net6.0\08. Condense Array to Number.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\obj\Debug\net6.0\refint\08. Condense Array to Number.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\obj\Debug\net6.0\08. Condense Array to Number.pdb
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\obj\Debug\net6.0\08. Condense Array to Number.genruntimeconfig.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\08. Condense Array to Number\obj\Debug\net6.0\ref\08. Condense Array to Number.dll

@@ -1,0 +1,14 @@
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net6.0\05. Sum Even Numbers.exe
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net6.0\05. Sum Even Numbers.deps.json
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net6.0\05. Sum Even Numbers.runtimeconfig.json
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net6.0\05. Sum Even Numbers.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net6.0\05. Sum Even Numbers.pdb
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net6.0\05. Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net6.0\05. Sum Even Numbers.AssemblyInfoInputs.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net6.0\05. Sum Even Numbers.AssemblyInfo.cs
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net6.0\05. Sum Even Numbers.csproj.CoreCompileInputs.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net6.0\05. Sum Even Numbers.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net6.0\refint\05. Sum Even Numbers.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net6.0\05. Sum Even Numbers.pdb
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net6.0\05. Sum Even Numbers.genruntimeconfig.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net6.0\ref\05. Sum Even Numbers.dll
