@@ -1,0 +1,14 @@
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\bin\Debug\net6.0\Demo.exe
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\bin\Debug\net6.0\Demo.deps.json
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\bin\Debug\net6.0\Demo.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\bin\Debug\net6.0\Demo.pdb
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\obj\Debug\net6.0\Demo.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\obj\Debug\net6.0\refint\Demo.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\obj\Debug\net6.0\Demo.pdb
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Data Types and Variables - More Exercise\Demo\obj\Debug\net6.0\ref\Demo.dll

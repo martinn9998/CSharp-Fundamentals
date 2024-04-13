@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net6.0\06. Balanced Brackets.exe
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net6.0\06. Balanced Brackets.deps.json
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net6.0\06. Balanced Brackets.runtimeconfig.json
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net6.0\06. Balanced Brackets.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net6.0\06. Balanced Brackets.pdb
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\refint\06. Balanced Brackets.dll
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.pdb
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\ref\06. Balanced Brackets.dll
