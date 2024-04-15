@@ -1,0 +1,14 @@
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net6.0\01. Train.exe
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net6.0\01. Train.deps.json
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net6.0\01. Train.runtimeconfig.json
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net6.0\01. Train.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net6.0\01. Train.pdb
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net6.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net6.0\01. Train.AssemblyInfoInputs.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net6.0\01. Train.AssemblyInfo.cs
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net6.0\01. Train.csproj.CoreCompileInputs.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net6.0\01. Train.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net6.0\refint\01. Train.dll
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net6.0\01. Train.pdb
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net6.0\01. Train.genruntimeconfig.cache
+G:\CSharp\Fundamentals\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net6.0\ref\01. Train.dll
