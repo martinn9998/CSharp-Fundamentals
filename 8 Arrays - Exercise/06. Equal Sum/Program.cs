@@ -3,10 +3,9 @@
     .Select(int.Parse)
     .ToArray();
 bool exist = false;
-int element = 0, i = 0;
+int element = 0,i = 0;
 for (; i < array.Length; i++)
 {
-    element = array[i];
     int sumLeft = 0;
     int sumRight = 0;
     for (int x1 = 0; x1 < i; x1++)
