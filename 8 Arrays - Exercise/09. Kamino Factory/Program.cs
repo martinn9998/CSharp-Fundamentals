@@ -1,87 +1,89 @@
 ﻿using System;
 using System.Linq;
-
-class Program
+namespace KaminoFactory
 {
-    static void Main()
+    class Program
     {
-        Console.ReadLine();
-        string[] bestDna = null;
-        int bestLen = -1;
-        int startIndex = -1;
-        int bestDnaSum = 0;
-        int bestSampleIndex = 0;
-
-        int currentSampleIndex = 0;
-
-        while (true)
+        static void Main()
         {
-            string input = Console.ReadLine();
+            Console.ReadLine();
+            string[] bestDna = null;
+            int bestLen = -1;
+            int startIndex = -1;
+            int bestDnaSum = 0;
+            int bestSampleIndex = 0;
 
-            if (input == "Clone them!")
+            int currentSampleIndex = 0;
+
+            while (true)
             {
-                break;
-            }
+                string input = Console.ReadLine();
 
-            string[] currentDna = input.Split('!', StringSplitOptions.RemoveEmptyEntries);
-            int currentLen = 0;
-            int currentBestLen = 0;
-            int currentEndIndex = 0;
-
-            for (int a = 0; a < currentDna.Length; a++)
-            {
-                if (currentDna[a] == "1")
+                if (input == "Clone them!")
                 {
-                    currentLen++;
-                    if (currentLen > currentBestLen)
+                    break;
+                }
+
+                string[] currentDna = input.Split('!', StringSplitOptions.RemoveEmptyEntries);
+                int currentLen = 0;
+                int currentBestLen = 0;
+                int currentEndIndex = 0;
+
+                for (int a = 0; a < currentDna.Length; a++)
+                {
+                    if (currentDna[a] == "1")
                     {
-                        currentEndIndex = a;
-                        currentBestLen = currentLen;
+                        currentLen++;
+                        if (currentLen > currentBestLen)
+                        {
+                            currentEndIndex = a;
+                            currentBestLen = currentLen;
+                        }
+                    }
+                    else
+                    {
+                        currentLen = 0;
                     }
                 }
-                else
-                {
-                    currentLen = 0;
-                }
-            }
 
-            int currentStartIndex = currentEndIndex - currentBestLen + 1;
+                int currentStartIndex = currentEndIndex - currentBestLen + 1;
 
-            bool isCurrentDnaBetter = false;
-            int currentDnaSum = currentDna.Select(int.Parse).Sum();
+                bool isCurrentDnaBetter = false;
+                int currentDnaSum = currentDna.Select(int.Parse).Sum();
 
-            if (currentBestLen > bestLen)
-            {
-                isCurrentDnaBetter = true;
-            }
-            else if (currentBestLen == bestLen)
-            {
-                if (currentStartIndex < startIndex)
+                if (currentBestLen > bestLen)
                 {
                     isCurrentDnaBetter = true;
                 }
-                else if (currentStartIndex == startIndex)
+                else if (currentBestLen == bestLen)
                 {
-                    if (currentDnaSum > bestDnaSum)
+                    if (currentStartIndex < startIndex)
                     {
                         isCurrentDnaBetter = true;
                     }
+                    else if (currentStartIndex == startIndex)
+                    {
+                        if (currentDnaSum > bestDnaSum)
+                        {
+                            isCurrentDnaBetter = true;
+                        }
+                    }
+                }
+
+                currentSampleIndex++;
+
+                if (isCurrentDnaBetter)
+                {
+                    bestDna = currentDna;
+                    bestLen = currentBestLen;
+                    startIndex = currentStartIndex;
+                    bestDnaSum = currentDnaSum;
+                    bestSampleIndex = currentSampleIndex;
                 }
             }
 
-            currentSampleIndex++;
-
-            if (isCurrentDnaBetter)
-            {
-                bestDna = currentDna;
-                bestLen = currentBestLen;
-                startIndex = currentStartIndex;
-                bestDnaSum = currentDnaSum;
-                bestSampleIndex = currentSampleIndex;
-            }
+            Console.WriteLine($"Best DNA sample {bestSampleIndex} with sum: {bestDnaSum}.");
+            Console.WriteLine(string.Join(' ', bestDna));
         }
-
-        Console.WriteLine($"Best DNA sample {bestSampleIndex} with sum: {bestDnaSum}.");
-        Console.WriteLine(string.Join(' ', bestDna));
     }
 }
