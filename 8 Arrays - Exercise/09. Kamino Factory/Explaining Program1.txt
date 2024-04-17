@@ -1,0 +1,5 @@
+1. Reading length of DNA
+Reading array until command "Clone them"
+If the DNA has "1" count them
+Write which array has more "1"
+Write the array
