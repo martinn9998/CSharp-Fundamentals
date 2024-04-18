@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Pascal Triangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f8fffb0bdba794179e2b33d8c5845324a8a48e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5787b92b84e8a9c240ea02d9985dd6e42d8cffff")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Pascal Triangle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Pascal Triangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
