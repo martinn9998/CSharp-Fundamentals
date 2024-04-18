@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. Fold and Sum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f8fffb0bdba794179e2b33d8c5845324a8a48e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. Fold and Sum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. Fold and Sum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

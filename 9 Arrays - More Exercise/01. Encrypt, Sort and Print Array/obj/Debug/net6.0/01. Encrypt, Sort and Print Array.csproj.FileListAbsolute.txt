@@ -26,3 +26,18 @@ C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\3 Arrays - More 
 C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\01. Encrypt, Sort and Print Array.pdb
 C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\01. Encrypt, Sort and Print Array.genruntimeconfig.cache
 C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\ref\01. Encrypt, Sort and Print Array.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net6.0\01. Encrypt, Sort and Print Array.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net6.0\01. Encrypt, Sort and Print Array.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net6.0\01. Encrypt, Sort and Print Array.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net6.0\01. Encrypt, Sort and Print Array.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net6.0\01. Encrypt, Sort and Print Array.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\01. Encrypt, Sort and Print Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\01. Encrypt, Sort and Print Array.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\01. Encrypt, Sort and Print Array.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\refint\01. Encrypt, Sort and Print Array.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\01. Encrypt, Sort and Print Array.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\01. Encrypt, Sort and Print Array.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net6.0\ref\01. Encrypt, Sort and Print Array.dll

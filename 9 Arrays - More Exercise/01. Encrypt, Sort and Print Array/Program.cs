@@ -11,7 +11,7 @@ namespace _01._Encrypt__Sort_and_Print_Array
 
             string[] sequenceOfStrings = new string[arrLength];
 
-            int[] valueOfString = new int[arrLength];
+            int[] valueOfString = new int[arrLength]; 
 
             for (int i = 0; i < sequenceOfStrings.Length; i++)
             {
