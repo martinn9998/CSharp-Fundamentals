@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 namespace KaminoFactory
 {
@@ -6,6 +6,7 @@ namespace KaminoFactory
     {
         static void Main()
         {
+            //Reading DNA length:
             Console.ReadLine();
             string[] bestDna = null;
             int bestOnes = -1;
@@ -16,6 +17,8 @@ namespace KaminoFactory
 
             while (true)
             {
+                //Reading DNA sequence of ones and zeroes until
+                //command "Clone them":
                 string input = Console.ReadLine();
 
                 if (input == "Clone them!")
@@ -27,7 +30,7 @@ namespace KaminoFactory
                 int currentOnes = 0;
                 int currentBestOnes = 0;
                 int currentEndIndex = 0;
-
+                //Counting ones in array:
                 for (int a = 0; a < currentDna.Length; a++)
                 {
                     if (currentDna[a] == "1")
@@ -44,12 +47,14 @@ namespace KaminoFactory
                         currentOnes = 0;
                     }
                 }
-
+                //Calculating currentStartIndex:
                 int currentStartIndex = currentEndIndex - currentBestOnes + 1;
 
                 bool isCurrentDnaBetter = false;
+                //Adding current array to Sum Array:
                 int currentDnaSum = currentDna.Select(int.Parse).Sum();
-
+                //Cheking if current array is bigger from the
+                //best array:
                 if (currentBestOnes > bestOnes)
                 {
                     isCurrentDnaBetter = true;
@@ -68,9 +73,9 @@ namespace KaminoFactory
                         }
                     }
                 }
-
+                //Counting arrays:
                 currentSampleIndex++;
-
+                //Cheking the boolean value:
                 if (isCurrentDnaBetter)
                 {
                     bestDna = currentDna;
@@ -80,7 +85,7 @@ namespace KaminoFactory
                     bestSampleIndex = currentSampleIndex;
                 }
             }
-
+            //Printing the best Array and the values in it:
             Console.WriteLine($"Best DNA sample {bestSampleIndex} with sum: {bestDnaSum}.");
             Console.WriteLine(string.Join(' ', bestDna));
         }
