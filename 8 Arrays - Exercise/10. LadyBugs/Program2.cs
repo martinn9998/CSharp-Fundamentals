@@ -11,18 +11,21 @@ namespace LadyBugs
             int fieldSize = int.Parse(Console.ReadLine());
 
             int[] field = new int[fieldSize];
+            Console.WriteLine(string.Join(" ", field)); //Remove
             //Reading initial indexes separated by " ".
-            int[] ladyBugsPositions = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries)
+            int[] initialIndexes = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToArray();
+            Console.WriteLine(string.Join(" ", initialIndexes)); //Remove
 
-            for (int i = 0; i < ladyBugsPositions.Length; i++)
+            for (int i = 0; i < initialIndexes.Length; i++)
             {
-                if (ladyBugsPositions[i] < fieldSize && ladyBugsPositions[i] >= 0)
+                if (initialIndexes[i] < fieldSize && initialIndexes[i] >= 0)
                 {
-                    field[ladyBugsPositions[i]] = 1;
+                    field[initialIndexes[i]] = 1;
                 }
             }
+            Console.WriteLine(string.Join(" ", field)); //Remove
             //Reading commands in format "{ladybug index} {direction} 
             //{fly length}", until you get the "end" command.
             string input = Console.ReadLine();
@@ -36,7 +39,7 @@ namespace LadyBugs
                 if (bugIndex >= 0 && bugIndex < fieldSize)
                 {
                     string direction = command[1];
-                    int step = int.Parse(command[2]);
+                    int flyLength = int.Parse(command[2]);
 
                     if (field[bugIndex] == 1)
                     {
@@ -44,38 +47,40 @@ namespace LadyBugs
                         // Checking the direction.
                         if (direction == "right")
                         {
-                            while (bugIndex + step < fieldSize && bugIndex + step >= 0)
+                            while (bugIndex + flyLength < fieldSize && bugIndex + flyLength >= 0)
                             {
-                                if (field[bugIndex + step] == 0)
+                                if (field[bugIndex + flyLength] == 0)
                                 {
-                                    field[bugIndex + step] = 1;
+                                    field[bugIndex + flyLength] = 1;
                                     break;
                                 }
                                 else
                                 {
-                                    bugIndex += step;
+                                    bugIndex += flyLength;
                                 }
                             }
                         }
                         else if (direction == "left")
                         {
-                            while (bugIndex - step < fieldSize && bugIndex - step >= 0)
+                            while (bugIndex - flyLength < fieldSize && bugIndex - flyLength >= 0)
                             {
-                                if (field[bugIndex - step] == 0)
+                                if (field[bugIndex - flyLength] == 0)
                                 {
-                                    field[bugIndex - step] = 1;
+                                    field[bugIndex - flyLength] = 1;
                                     break;
                                 }
                                 else
                                 {
-                                    bugIndex -= step;
+                                    bugIndex -= flyLength;
                                 }
                             }
                         }
                     }
                 }
+
                 //Reading next command.
                 input = Console.ReadLine();
+                Console.WriteLine(string.Join(" ", field)); //Remove
             }
 
             Console.WriteLine(string.Join(" ", field));
