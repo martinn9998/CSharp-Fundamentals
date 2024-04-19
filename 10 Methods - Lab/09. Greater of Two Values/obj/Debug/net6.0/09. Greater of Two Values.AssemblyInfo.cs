@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09. Greater of Two Values")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d9247e404c84cad5e5f292ce370239895cd853d")]
 [assembly: System.Reflection.AssemblyProductAttribute("09. Greater of Two Values")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09. Greater of Two Values")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
