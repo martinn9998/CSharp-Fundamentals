@@ -26,3 +26,18 @@ C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\3 Arrays - More 
 C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\3 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\02. Pascal Triangle.pdb
 C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\3 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\02. Pascal Triangle.genruntimeconfig.cache
 C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\3 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\ref\02. Pascal Triangle.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net6.0\02. Pascal Triangle.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net6.0\02. Pascal Triangle.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net6.0\02. Pascal Triangle.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net6.0\02. Pascal Triangle.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net6.0\02. Pascal Triangle.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\02. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\02. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\02. Pascal Triangle.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\02. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\02. Pascal Triangle.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\02. Pascal Triangle.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\refint\02. Pascal Triangle.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\02. Pascal Triangle.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\02. Pascal Triangle.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net6.0\ref\02. Pascal Triangle.dll

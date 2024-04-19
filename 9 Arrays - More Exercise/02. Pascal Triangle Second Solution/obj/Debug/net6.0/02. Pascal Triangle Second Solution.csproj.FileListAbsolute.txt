@@ -12,3 +12,18 @@ C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\3 Arrays - More 
 C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\3 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\02. Pascal Triangle Second Solution.pdb
 C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\3 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\02. Pascal Triangle Second Solution.genruntimeconfig.cache
 C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\3 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\ref\02. Pascal Triangle Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\02. Pascal Triangle Second Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\02. Pascal Triangle Second Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\02. Pascal Triangle Second Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\02. Pascal Triangle Second Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\02. Pascal Triangle Second Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\02. Pascal Triangle Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\refint\02. Pascal Triangle Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\02. Pascal Triangle Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\bin\Debug\net6.0\02. Pascal Triangle Second Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\bin\Debug\net6.0\02. Pascal Triangle Second Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\bin\Debug\net6.0\02. Pascal Triangle Second Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\bin\Debug\net6.0\02. Pascal Triangle Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\bin\Debug\net6.0\02. Pascal Triangle Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\02. Pascal Triangle Second Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\9 Arrays - More Exercise\02. Pascal Triangle Second Solution\obj\Debug\net6.0\ref\02. Pascal Triangle Second Solution.dll

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{848095E5-D9D8-4749-8F59-53216E5EFA91}|02. Pascal Triangle Second Solution\\02. Pascal Triangle Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\9 arrays - more exercise\\02. pascal triangle second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848095E5-D9D8-4749-8F59-53216E5EFA91}|02. Pascal Triangle Second Solution\\02. Pascal Triangle Second Solution.csproj|solutionrelative:02. pascal triangle second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9AF9E6-8527-4085-813C-3AB3E4B5DA58}|02. Pascal Triangle\\02. Pascal Triangle.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\9 arrays - more exercise\\02. pascal triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9AF9E6-8527-4085-813C-3AB3E4B5DA58}|02. Pascal Triangle\\02. Pascal Triangle.csproj|solutionrelative:02. pascal triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF4782BC-F9C8-4AC7-9FD2-512444284ADF}|01. Encrypt, Sort and Print Array Third Solution\\01. Encrypt, Sort and Print Array Third Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\9 arrays - more exercise\\01. encrypt, sort and print array third solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF4782BC-F9C8-4AC7-9FD2-512444284ADF}|01. Encrypt, Sort and Print Array Third Solution\\01. Encrypt, Sort and Print Array Third Solution.csproj|solutionrelative:01. encrypt, sort and print array third solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{D5E0BE93-0F80-4653-BD68-59CA74C2BFD7}|04. Fold and Sum\\04. Fold and Sum.csproj|solutionrelative:04. fold and sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{848095E5-D9D8-4749-8F59-53216E5EFA91}|02. Pascal Triangle Second Solution\\02. Pascal Triangle Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\9 arrays - more exercise\\02. pascal triangle second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{848095E5-D9D8-4749-8F59-53216E5EFA91}|02. Pascal Triangle Second Solution\\02. Pascal Triangle Second Solution.csproj|solutionrelative:02. pascal triangle second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12ECE13A-E872-4CEA-93E3-60EC12B9B66B}|03. Recursive Fibonacci\\03. Recursive Fibonacci.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\9 arrays - more exercise\\03. recursive fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12ECE13A-E872-4CEA-93E3-60EC12B9B66B}|03. Recursive Fibonacci\\03. Recursive Fibonacci.csproj|solutionrelative:03. recursive fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B9AF9E6-8527-4085-813C-3AB3E4B5DA58}|02. Pascal Triangle\\02. Pascal Triangle.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\9 arrays - more exercise\\02. pascal triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B9AF9E6-8527-4085-813C-3AB3E4B5DA58}|02. Pascal Triangle\\02. Pascal Triangle.csproj|solutionrelative:02. pascal triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB85D65E-1B96-4864-988C-F86357C59395}|Demo\\Demo.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\9 arrays - more exercise\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\04. Fold and Sum\\Program.cs",
+              "RelativeDocumentMoniker": "04. Fold and Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\04. Fold and Sum\\Program.cs",
+              "RelativeToolTip": "04. Fold and Sum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:07:46.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\02. Pascal Triangle\\Program.cs",
+              "RelativeDocumentMoniker": "02. Pascal Triangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\02. Pascal Triangle\\Program.cs",
+              "RelativeToolTip": "02. Pascal Triangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:07:46.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\02. Pascal Triangle Second Solution\\Program.cs",
+              "RelativeDocumentMoniker": "02. Pascal Triangle Second Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\02. Pascal Triangle Second Solution\\Program.cs",
+              "RelativeToolTip": "02. Pascal Triangle Second Solution\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:07:46.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\01. Encrypt, Sort and Print Array Third Solution\\Program.cs",
               "RelativeDocumentMoniker": "01. Encrypt, Sort and Print Array Third Solution\\Program.cs",
@@ -66,12 +104,23 @@
               "RelativeToolTip": "01. Encrypt, Sort and Print Array Third Solution\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAcwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T17:24:58.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T17:24:58.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "01. Encrypt, Sort and Print Array.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\01. Encrypt, Sort and Print Array\\01. Encrypt, Sort and Print Array.csproj",
+              "RelativeDocumentMoniker": "01. Encrypt, Sort and Print Array\\01. Encrypt, Sort and Print Array.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\01. Encrypt, Sort and Print Array\\01. Encrypt, Sort and Print Array.csproj",
+              "RelativeToolTip": "01. Encrypt, Sort and Print Array\\01. Encrypt, Sort and Print Array.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T15:07:46.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\01. Encrypt, Sort and Print Array Second Solution\\Program.cs",
               "RelativeDocumentMoniker": "01. Encrypt, Sort and Print Array Second Solution\\Program.cs",
@@ -84,31 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "01. Encrypt, Sort and Print Array.csproj",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\01. Encrypt, Sort and Print Array\\01. Encrypt, Sort and Print Array.csproj",
-              "RelativeDocumentMoniker": "01. Encrypt, Sort and Print Array\\01. Encrypt, Sort and Print Array.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\01. Encrypt, Sort and Print Array\\01. Encrypt, Sort and Print Array.csproj",
-              "RelativeToolTip": "01. Encrypt, Sort and Print Array\\01. Encrypt, Sort and Print Array.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T15:07:46.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\04. Fold and Sum\\Program.cs",
-              "RelativeDocumentMoniker": "04. Fold and Sum\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\04. Fold and Sum\\Program.cs",
-              "RelativeToolTip": "04. Fold and Sum\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:07:46.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\01. Encrypt, Sort and Print Array\\Program.cs",
               "RelativeDocumentMoniker": "01. Encrypt, Sort and Print Array\\Program.cs",
@@ -120,20 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\02. Pascal Triangle Second Solution\\Program.cs",
-              "RelativeDocumentMoniker": "02. Pascal Triangle Second Solution\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\02. Pascal Triangle Second Solution\\Program.cs",
-              "RelativeToolTip": "02. Pascal Triangle Second Solution\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:07:46.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\05. Longest Increasing Subsequence\\Program.cs",
               "RelativeDocumentMoniker": "05. Longest Increasing Subsequence\\Program.cs",
@@ -145,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\04. Fold and Sum Second Solution\\Program.cs",
               "RelativeDocumentMoniker": "04. Fold and Sum Second Solution\\Program.cs",
@@ -158,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\03. Recursive Fibonacci\\Program.cs",
               "RelativeDocumentMoniker": "03. Recursive Fibonacci\\Program.cs",
@@ -167,19 +179,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T15:07:46.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\02. Pascal Triangle\\Program.cs",
-              "RelativeDocumentMoniker": "02. Pascal Triangle\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\02. Pascal Triangle\\Program.cs",
-              "RelativeToolTip": "02. Pascal Triangle\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:07:46.895Z",
               "EditorCaption": ""
             },
             {

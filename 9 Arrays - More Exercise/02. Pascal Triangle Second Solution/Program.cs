@@ -1,32 +1,30 @@
 ﻿using System;
-
+using System.Numerics;
 namespace PascalTriangle
 {
     class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
-            int n = int.Parse(Console.ReadLine());
-            var s = new int[n][];
-
-            for (int i = 0; i < n; i++)
+           int height = int.Parse(Console.ReadLine());
+            long[][] arr = new long[height][];
+            arr[0] = new long[1];
+            arr[0][0] = 1;
+            for (long i = 1; i < arr.Length; i++)
             {
-                s[i] = new int[i + 1];
-                s[i][0] = 1;  // first element is 1
-                s[i][^1] = 1; // last element is 1
-
-                for (int d = 1; d < i; d++)
+                arr[i] = new long[i + 1];
+                arr[i][0] = 1;
+                arr[i][arr[i].Length - 1] = 1;
+                for (long j = 1; j < arr[i].Length - 1; j++)
                 {
-                    Console.WriteLine(s[i][d]);
-                    s[i][d] = s[i - 1][d - 1] + s[i - 1][d];
-                    Console.WriteLine(s[i][d]);
+                    long l = arr[i - 1][j - 1];
+                    long r = arr[i - 1][j];
+                    arr[i][j] = l + r;
                 }
-                Console.WriteLine(string.Join(" ", s[i]));
             }
-
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < height; i++)
             {
-                Console.WriteLine(string.Join(" ", s[i]));
+                Console.WriteLine(string.Join(" ", arr[i]));
             }
         }
     }
