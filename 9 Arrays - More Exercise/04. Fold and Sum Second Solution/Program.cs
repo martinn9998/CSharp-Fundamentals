@@ -37,10 +37,7 @@ namespace FoldAndSum
                 Console.WriteLine(string.Join(" ", sumArray));  //Remove
             }
 
-            foreach (int values in sumArray)
-            {
-                Console.Write($"{values} ");
-            }
+            Console.WriteLine(string.Join(" ", sumArray));
         }
     }
 }
