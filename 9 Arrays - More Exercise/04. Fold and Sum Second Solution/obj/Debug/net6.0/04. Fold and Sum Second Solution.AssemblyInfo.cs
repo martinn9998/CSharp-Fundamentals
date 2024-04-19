@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. Fold and Sum Second Solution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b64ef44ae139551bac64ccfe6e9aa189945429a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3939ca68a1edef48429fe9843358aa8505d049dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. Fold and Sum Second Solution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. Fold and Sum Second Solution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

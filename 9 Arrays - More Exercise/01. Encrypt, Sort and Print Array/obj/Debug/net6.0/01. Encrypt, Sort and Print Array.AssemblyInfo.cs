@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. Encrypt, Sort and Print Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d79a1107b667babfe98d8c6a248dc26ca36c78dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3939ca68a1edef48429fe9843358aa8505d049dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. Encrypt, Sort and Print Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. Encrypt, Sort and Print Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

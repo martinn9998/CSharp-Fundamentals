@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\03. Recursive Fibonacci Second Solution\\03. Recursive Fibonacci Second Solution.csproj": {}
+    "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\03. Recursive Fibonacci Second Solution\\03. Recursive Fibonacci Second Solution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\03. Recursive Fibonacci Second Solution\\03. Recursive Fibonacci Second Solution.csproj": {
+    "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\03. Recursive Fibonacci Second Solution\\03. Recursive Fibonacci Second Solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\03. Recursive Fibonacci Second Solution\\03. Recursive Fibonacci Second Solution.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\03. Recursive Fibonacci Second Solution\\03. Recursive Fibonacci Second Solution.csproj",
         "projectName": "03. Recursive Fibonacci Second Solution",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\03. Recursive Fibonacci Second Solution\\03. Recursive Fibonacci Second Solution.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\03. Recursive Fibonacci Second Solution\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\03. Recursive Fibonacci Second Solution\\03. Recursive Fibonacci Second Solution.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\9 Arrays - More Exercise\\03. Recursive Fibonacci Second Solution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
