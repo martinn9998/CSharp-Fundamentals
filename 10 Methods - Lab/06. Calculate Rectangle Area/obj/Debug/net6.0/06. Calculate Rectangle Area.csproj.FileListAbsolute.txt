@@ -1,0 +1,14 @@
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net6.0\06. Calculate Rectangle Area.exe
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net6.0\06. Calculate Rectangle Area.deps.json
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net6.0\06. Calculate Rectangle Area.runtimeconfig.json
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net6.0\06. Calculate Rectangle Area.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net6.0\06. Calculate Rectangle Area.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net6.0\06. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net6.0\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net6.0\06. Calculate Rectangle Area.AssemblyInfo.cs
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net6.0\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net6.0\06. Calculate Rectangle Area.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net6.0\refint\06. Calculate Rectangle Area.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net6.0\06. Calculate Rectangle Area.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net6.0\06. Calculate Rectangle Area.genruntimeconfig.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net6.0\ref\06. Calculate Rectangle Area.dll

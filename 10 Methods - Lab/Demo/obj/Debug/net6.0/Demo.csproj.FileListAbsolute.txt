@@ -1,0 +1,21 @@
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\bin\Debug\net6.0\Demo.exe
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\bin\Debug\net6.0\Demo.deps.json
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\bin\Debug\net6.0\Demo.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\bin\Debug\net6.0\Demo.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\obj\Debug\net6.0\Demo.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\obj\Debug\net6.0\refint\Demo.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\obj\Debug\net6.0\Demo.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Lab\Demo\obj\Debug\net6.0\ref\Demo.dll
+C:\Users\Тотка\Desktop\Methods - Lab\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\Methods - Lab\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\Methods - Lab\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\Methods - Lab\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\Methods - Lab\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\Тотка\Desktop\Methods - Lab\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\Users\Тотка\Desktop\Methods - Lab\Demo\obj\Debug\net6.0\Demo.pdb
