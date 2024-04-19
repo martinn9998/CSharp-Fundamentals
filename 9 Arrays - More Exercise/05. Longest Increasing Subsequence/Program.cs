@@ -12,12 +12,10 @@ namespace LongestIncreasingSubsequence
                 .Select(x => int.Parse(x))
                 .ToArray();
 
-            Console.WriteLine(string.Join(" ", subsequence));
-
             int[] longestIncreasingSubsequence;
 
             int[] length = new int[subsequence.Length];
-            int[] previousElement = new int[subsequence.Length]; //remove
+            int[] previousElement = new int[subsequence.Length];
 
             int maxLength = 0;
             int lastIndex = -1;
@@ -32,9 +30,7 @@ namespace LongestIncreasingSubsequence
                     if (subsequence[j] < subsequence[i] && length[j] >= length[i])
                     {
                         length[i] = 1 + length[j];
-                        Console.WriteLine(string.Join(" ", length));  //remove
                         previousElement[i] = j;
-                        Console.WriteLine(string.Join(" ", previousElement));  //remove
                     }
                 }
 
