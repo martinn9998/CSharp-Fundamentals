@@ -11,7 +11,7 @@ namespace LongestIncreasingSubsequence
                 .Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
                 .Select(x => int.Parse(x))
                 .ToArray();
-
+            Console.WriteLine(string.Join(' ', subsequence));  //remove
             int[] longestIncreasingSubsequence;
 
             int[] length = new int[subsequence.Length];
