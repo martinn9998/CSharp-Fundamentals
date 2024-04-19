@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace P5CalculateSequenceWithQueue
+namespace RecursiveFibonacci
 {
     class Program
     {
