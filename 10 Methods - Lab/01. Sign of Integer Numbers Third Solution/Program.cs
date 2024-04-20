@@ -9,14 +9,18 @@
         }
         static void SignOfInteger(int number)
         {
-            int result = int.CompareTo(0);
+            int result = number.CompareTo(0);
             if (result > 0)
                 {
                 Console.WriteLine($"The number {number} is positive.");
             }
             else if (result < 0)
             {
-                C
+                Console.WriteLine($"The number {number} is negative. ");
+            }
+            else
+            {
+                Console.WriteLine($"The number {number} is zero. ");
             }
         }
     }

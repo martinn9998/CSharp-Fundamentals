@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\bin\Debug\net6.0\03. Calculations Second Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\bin\Debug\net6.0\03. Calculations Second Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\bin\Debug\net6.0\03. Calculations Second Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\bin\Debug\net6.0\03. Calculations Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\bin\Debug\net6.0\03. Calculations Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\obj\Debug\net6.0\03. Calculations Second Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\obj\Debug\net6.0\03. Calculations Second Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\obj\Debug\net6.0\03. Calculations Second Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\obj\Debug\net6.0\03. Calculations Second Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\obj\Debug\net6.0\03. Calculations Second Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\obj\Debug\net6.0\03. Calculations Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\obj\Debug\net6.0\refint\03. Calculations Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\obj\Debug\net6.0\03. Calculations Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\obj\Debug\net6.0\03. Calculations Second Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\03. Calculations Second Solution\obj\Debug\net6.0\ref\03. Calculations Second Solution.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\bin\Debug\net6.0\01. Sign of Integer Numbers Third Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\bin\Debug\net6.0\01. Sign of Integer Numbers Third Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\bin\Debug\net6.0\01. Sign of Integer Numbers Third Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\bin\Debug\net6.0\01. Sign of Integer Numbers Third Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\bin\Debug\net6.0\01. Sign of Integer Numbers Third Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\obj\Debug\net6.0\01. Sign of Integer Numbers Third Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\obj\Debug\net6.0\01. Sign of Integer Numbers Third Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\obj\Debug\net6.0\01. Sign of Integer Numbers Third Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\obj\Debug\net6.0\01. Sign of Integer Numbers Third Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\obj\Debug\net6.0\01. Sign of Integer Numbers Third Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\obj\Debug\net6.0\01. Sign of Integer Numbers Third Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\obj\Debug\net6.0\refint\01. Sign of Integer Numbers Third Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\obj\Debug\net6.0\01. Sign of Integer Numbers Third Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\obj\Debug\net6.0\01. Sign of Integer Numbers Third Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\01. Sign of Integer Numbers Third Solution\obj\Debug\net6.0\ref\01. Sign of Integer Numbers Third Solution.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06. Calculate Rectangle Area")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a13657164a4336ab184a4d7f0a20d91edacba3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2ebe6237438aedf0df921555c5976d4e7d0b78d")]
 [assembly: System.Reflection.AssemblyProductAttribute("06. Calculate Rectangle Area")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06. Calculate Rectangle Area")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
