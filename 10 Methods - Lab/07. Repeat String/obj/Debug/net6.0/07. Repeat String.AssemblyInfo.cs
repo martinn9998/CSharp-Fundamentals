@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07. Repeat String")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2ebe6237438aedf0df921555c5976d4e7d0b78d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de38c29342b30cd6b899bdff701c5e976718d6f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("07. Repeat String")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07. Repeat String")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

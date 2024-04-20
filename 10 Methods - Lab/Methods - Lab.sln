@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Sign of Integer Numbers
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Sign of Integer Numbers Third Solution", "01. Sign of Integer Numbers Third Solution\01. Sign of Integer Numbers Third Solution.csproj", "{F2FBDBE1-2B3B-415E-A67A-C7765B62302F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Grades Second Solution", "02. Grades Second Solution\02. Grades Second Solution.csproj", "{CB104B6A-43C1-43EA-B7E4-7AD10FD2E9C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Grades Second Solution", "02. Grades Second Solution\02. Grades Second Solution.csproj", "{CB104B6A-43C1-43EA-B7E4-7AD10FD2E9C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Calculations Second Solution", "03. Calculations Second Solution\03. Calculations Second Solution.csproj", "{7B3E7FCA-7929-4BAA-A900-CAD5FBFD5A3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Calculations Second Solution", "03. Calculations Second Solution\03. Calculations Second Solution.csproj", "{7B3E7FCA-7929-4BAA-A900-CAD5FBFD5A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Printing Triangle Second Solution", "04. Printing Triangle Second Solution\04. Printing Triangle Second Solution.csproj", "{F12A21E9-7E2E-4E4C-BF50-694ECBE9B722}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{7B3E7FCA-7929-4BAA-A900-CAD5FBFD5A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B3E7FCA-7929-4BAA-A900-CAD5FBFD5A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B3E7FCA-7929-4BAA-A900-CAD5FBFD5A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F12A21E9-7E2E-4E4C-BF50-694ECBE9B722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12A21E9-7E2E-4E4C-BF50-694ECBE9B722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12A21E9-7E2E-4E4C-BF50-694ECBE9B722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12A21E9-7E2E-4E4C-BF50-694ECBE9B722}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

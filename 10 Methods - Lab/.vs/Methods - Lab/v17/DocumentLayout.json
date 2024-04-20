@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4256F157-DE5F-498A-AF8B-7BB14380B32D}|05. Orders\\05. Orders.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\05. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4256F157-DE5F-498A-AF8B-7BB14380B32D}|05. Orders\\05. Orders.csproj|solutionrelative:05. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A21E9-7E2E-4E4C-BF50-694ECBE9B722}|04. Printing Triangle Second Solution\\04. Printing Triangle Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\04. printing triangle second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12A21E9-7E2E-4E4C-BF50-694ECBE9B722}|04. Printing Triangle Second Solution\\04. Printing Triangle Second Solution.csproj|solutionrelative:04. printing triangle second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A4C1BC-D3DE-47FA-A3F2-E537CC3FF9D8}|04. Printing Triangle\\04. Printing Triangle.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\04. printing triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A4C1BC-D3DE-47FA-A3F2-E537CC3FF9D8}|04. Printing Triangle\\04. Printing Triangle.csproj|solutionrelative:04. printing triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B3E7FCA-7929-4BAA-A900-CAD5FBFD5A3A}|03. Calculations Second Solution\\03. Calculations Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\03. calculations second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B3E7FCA-7929-4BAA-A900-CAD5FBFD5A3A}|03. Calculations Second Solution\\03. Calculations Second Solution.csproj|solutionrelative:03. calculations second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB104B6A-43C1-43EA-B7E4-7AD10FD2E9C6}|02. Grades Second Solution\\02. Grades Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\02. grades second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB104B6A-43C1-43EA-B7E4-7AD10FD2E9C6}|02. Grades Second Solution\\02. Grades Second Solution.csproj|solutionrelative:02. grades second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08A4C1BC-D3DE-47FA-A3F2-E537CC3FF9D8}|04. Printing Triangle\\04. Printing Triangle.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\04. printing triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A4C1BC-D3DE-47FA-A3F2-E537CC3FF9D8}|04. Printing Triangle\\04. Printing Triangle.csproj|solutionrelative:04. printing triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D00DD155-7CF3-47FD-A1DE-42033498A22D}|02. Grades\\02. Grades.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\02. grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{38189109-63C2-40CE-940D-1DBBA35763D4}|06. Calculate Rectangle Area\\06. Calculate Rectangle Area.csproj|solutionrelative:06. calculate rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4256F157-DE5F-498A-AF8B-7BB14380B32D}|05. Orders\\05. Orders.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\05. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4256F157-DE5F-498A-AF8B-7BB14380B32D}|05. Orders\\05. Orders.csproj|solutionrelative:05. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{127BA47C-7508-4366-BD87-A0711254EAE4}|Demo\\Demo.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{127BA47C-7508-4366-BD87-A0711254EAE4}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -74,50 +78,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\03. Calculations Second Solution\\Program.cs",
-              "RelativeDocumentMoniker": "03. Calculations Second Solution\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\03. Calculations Second Solution\\Program.cs",
-              "RelativeToolTip": "03. Calculations Second Solution\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowCQAAAA6AAAA",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\04. Printing Triangle Second Solution\\Program.cs",
+              "RelativeDocumentMoniker": "04. Printing Triangle Second Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\04. Printing Triangle Second Solution\\Program.cs",
+              "RelativeToolTip": "04. Printing Triangle Second Solution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T07:15:42.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\02. Grades Second Solution\\Program.cs",
-              "RelativeDocumentMoniker": "02. Grades Second Solution\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\02. Grades Second Solution\\Program.cs",
-              "RelativeToolTip": "02. Grades Second Solution\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBQAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T06:26:59.038Z",
+              "WhenOpened": "2024-04-20T07:45:49.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\02. Grades\\Program.cs",
-              "RelativeDocumentMoniker": "02. Grades\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\02. Grades\\Program.cs",
-              "RelativeToolTip": "02. Grades\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:34:08.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\03. Calculations\\Program.cs",
               "RelativeDocumentMoniker": "03. Calculations\\Program.cs",
@@ -125,25 +103,74 @@
               "RelativeToolTip": "03. Calculations\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:34:08.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T14:34:08.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\04. Printing Triangle\\Program.cs",
               "RelativeDocumentMoniker": "04. Printing Triangle\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\04. Printing Triangle\\Program.cs",
               "RelativeToolTip": "04. Printing Triangle\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T14:34:08.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\05. Orders\\Program.cs",
+              "RelativeDocumentMoniker": "05. Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\05. Orders\\Program.cs",
+              "RelativeToolTip": "05. Orders\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:34:08.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\02. Grades\\Program.cs",
+              "RelativeDocumentMoniker": "02. Grades\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\02. Grades\\Program.cs",
+              "RelativeToolTip": "02. Grades\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:34:08.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\03. Calculations Second Solution\\Program.cs",
+              "RelativeDocumentMoniker": "03. Calculations Second Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\03. Calculations Second Solution\\Program.cs",
+              "RelativeToolTip": "03. Calculations Second Solution\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:15:42.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\02. Grades Second Solution\\Program.cs",
+              "RelativeDocumentMoniker": "02. Grades Second Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\02. Grades Second Solution\\Program.cs",
+              "RelativeToolTip": "02. Grades Second Solution\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:26:59.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\01. Sign of Integer Numbers\\Program.cs",
               "RelativeDocumentMoniker": "01. Sign of Integer Numbers\\Program.cs",
@@ -155,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\01. Sign of Integer Numbers Third Solution\\Program.cs",
               "RelativeDocumentMoniker": "01. Sign of Integer Numbers Third Solution\\Program.cs",
@@ -163,12 +190,11 @@
               "RelativeToolTip": "01. Sign of Integer Numbers Third Solution\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:57:19.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T05:57:19.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\11. Math operations\\Program.cs",
               "RelativeDocumentMoniker": "11. Math operations\\Program.cs",
@@ -180,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\01. Sign of Integer Numbers Second Solution\\Program.cs",
               "RelativeDocumentMoniker": "01. Sign of Integer Numbers Second Solution\\Program.cs",
@@ -192,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\06. Calculate Rectangle Area\\Program.cs",
               "RelativeDocumentMoniker": "06. Calculate Rectangle Area\\Program.cs",
@@ -204,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\10. Multiply Evens by Odds\\Program.cs",
               "RelativeDocumentMoniker": "10. Multiply Evens by Odds\\Program.cs",
@@ -216,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\07. Repeat String\\Program.cs",
               "RelativeDocumentMoniker": "07. Repeat String\\Program.cs",
@@ -228,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\09. Greater of Two Values\\Program.cs",
               "RelativeDocumentMoniker": "09. Greater of Two Values\\Program.cs",
@@ -240,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\08. Math Power\\Program.cs",
               "RelativeDocumentMoniker": "08. Math Power\\Program.cs",
@@ -252,19 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\05. Orders\\Program.cs",
-              "RelativeDocumentMoniker": "05. Orders\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\05. Orders\\Program.cs",
-              "RelativeToolTip": "05. Orders\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:34:08.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\Demo\\Program.cs",
               "RelativeDocumentMoniker": "Demo\\Program.cs",

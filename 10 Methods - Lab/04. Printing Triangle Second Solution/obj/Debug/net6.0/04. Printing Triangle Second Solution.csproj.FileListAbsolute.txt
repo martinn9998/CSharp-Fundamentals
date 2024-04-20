@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\bin\Debug\net6.0\04. Printing Triangle Second Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\bin\Debug\net6.0\04. Printing Triangle Second Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\bin\Debug\net6.0\04. Printing Triangle Second Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\bin\Debug\net6.0\04. Printing Triangle Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\bin\Debug\net6.0\04. Printing Triangle Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\obj\Debug\net6.0\04. Printing Triangle Second Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\obj\Debug\net6.0\04. Printing Triangle Second Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\obj\Debug\net6.0\04. Printing Triangle Second Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\obj\Debug\net6.0\04. Printing Triangle Second Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\obj\Debug\net6.0\04. Printing Triangle Second Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\obj\Debug\net6.0\04. Printing Triangle Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\obj\Debug\net6.0\refint\04. Printing Triangle Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\obj\Debug\net6.0\04. Printing Triangle Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\obj\Debug\net6.0\04. Printing Triangle Second Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\04. Printing Triangle Second Solution\obj\Debug\net6.0\ref\04. Printing Triangle Second Solution.dll
