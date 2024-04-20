@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. Sign of Integer Numbers Third Solution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04a9c949745d5a8cba2faabc2c8565dac2220e4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a167b3f46fac262245b8483eaf5b96ad05a64dab")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. Sign of Integer Numbers Third Solution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. Sign of Integer Numbers Third Solution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
