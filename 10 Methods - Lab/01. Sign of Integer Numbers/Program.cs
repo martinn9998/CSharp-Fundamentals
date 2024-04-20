@@ -1,25 +1,28 @@
-﻿class SignOfIntegerNumbers
+﻿namespace SignOfIntegerNumbers
 {
-    static void Input()
+    class Program
     {
-        int n = int.Parse(Console.ReadLine());
-        if (n < 0)
+        static void Input()
         {
-            Console.WriteLine($"The number {n} is negative.");
+            int n = int.Parse(Console.ReadLine());
+            if (n < 0)
+            {
+                Console.WriteLine($"The number {n} is negative.");
+            }
+            else if (n > 0)
+            {
+                Console.WriteLine($"The number {n} is positive.");
+            }
+            else if (n == 0)
+            {
+                Console.WriteLine($"The number {n} is zero.");
+            }
+
         }
-        else if (n > 0)
+        static void Main(String[] args)
         {
-            Console.WriteLine($"The number {n} is positive.");
-        }
-        else if (n == 0)
-        {
-            Console.WriteLine($"The number {n} is zero.");
+            Input();
         }
 
     }
-    static void Main(String[] args)
-    {
-        Input();
-    }
-
 }
