@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{473E62F7-2F55-4023-9D75-C425F765A104}|01. Sign of Integer Numbers Second Solution\\01. Sign of Integer Numbers Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\01. sign of integer numbers second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{473E62F7-2F55-4023-9D75-C425F765A104}|01. Sign of Integer Numbers Second Solution\\01. Sign of Integer Numbers Second Solution.csproj|solutionrelative:01. sign of integer numbers second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2FBDBE1-2B3B-415E-A67A-C7765B62302F}|01. Sign of Integer Numbers Third Solution\\01. Sign of Integer Numbers Third Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\01. sign of integer numbers third solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FBDBE1-2B3B-415E-A67A-C7765B62302F}|01. Sign of Integer Numbers Third Solution\\01. Sign of Integer Numbers Third Solution.csproj|solutionrelative:01. sign of integer numbers third solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B136424-73B0-42CB-8A6A-7C3E7AE2F8CE}|01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\01. sign of integer numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B136424-73B0-42CB-8A6A-7C3E7AE2F8CE}|01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj|solutionrelative:01. sign of integer numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473E62F7-2F55-4023-9D75-C425F765A104}|01. Sign of Integer Numbers Second Solution\\01. Sign of Integer Numbers Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\01. sign of integer numbers second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473E62F7-2F55-4023-9D75-C425F765A104}|01. Sign of Integer Numbers Second Solution\\01. Sign of Integer Numbers Second Solution.csproj|solutionrelative:01. sign of integer numbers second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D67E384C-5E32-4CCE-AB8A-7A7F3BF3B7BA}|11. Math operations\\11. Math operations.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\10 methods - lab\\11. math operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -68,18 +72,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\01. Sign of Integer Numbers Third Solution\\Program.cs",
+              "RelativeDocumentMoniker": "01. Sign of Integer Numbers Third Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\01. Sign of Integer Numbers Third Solution\\Program.cs",
+              "RelativeToolTip": "01. Sign of Integer Numbers Third Solution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:57:19.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\01. Sign of Integer Numbers Second Solution\\Program.cs",
               "RelativeDocumentMoniker": "01. Sign of Integer Numbers Second Solution\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\01. Sign of Integer Numbers Second Solution\\Program.cs",
               "RelativeToolTip": "01. Sign of Integer Numbers Second Solution\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T17:52:19.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\11. Math operations\\Program.cs",
               "RelativeDocumentMoniker": "11. Math operations\\Program.cs",
@@ -104,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\06. Calculate Rectangle Area\\Program.cs",
               "RelativeDocumentMoniker": "06. Calculate Rectangle Area\\Program.cs",
@@ -116,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\10. Multiply Evens by Odds\\Program.cs",
               "RelativeDocumentMoniker": "10. Multiply Evens by Odds\\Program.cs",
@@ -128,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\03. Calculations\\Program.cs",
               "RelativeDocumentMoniker": "03. Calculations\\Program.cs",
@@ -140,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\04. Printing Triangle\\Program.cs",
               "RelativeDocumentMoniker": "04. Printing Triangle\\Program.cs",
@@ -152,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\07. Repeat String\\Program.cs",
               "RelativeDocumentMoniker": "07. Repeat String\\Program.cs",
@@ -164,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\09. Greater of Two Values\\Program.cs",
               "RelativeDocumentMoniker": "09. Greater of Two Values\\Program.cs",
@@ -176,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\08. Math Power\\Program.cs",
               "RelativeDocumentMoniker": "08. Math Power\\Program.cs",
@@ -188,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\05. Orders\\Program.cs",
               "RelativeDocumentMoniker": "05. Orders\\Program.cs",
@@ -200,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\Demo\\Program.cs",
               "RelativeDocumentMoniker": "Demo\\Program.cs",
@@ -212,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\10 Methods - Lab\\02. Grades\\Program.cs",
               "RelativeDocumentMoniker": "02. Grades\\Program.cs",
