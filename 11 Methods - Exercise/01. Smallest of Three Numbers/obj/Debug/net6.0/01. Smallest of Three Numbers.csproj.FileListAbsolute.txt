@@ -1,0 +1,14 @@
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.exe
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.deps.json
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.runtimeconfig.json
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net6.0\01. Smallest of Three Numbers.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.AssemblyInfo.cs
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\refint\01. Smallest of Three Numbers.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\01. Smallest of Three Numbers.genruntimeconfig.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net6.0\ref\01. Smallest of Three Numbers.dll

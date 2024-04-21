@@ -1,0 +1,14 @@
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.AssemblyInfoInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.AssemblyInfo.cs
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.csproj.CoreCompileInputs.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\bin\Debug\net6.0\02. Vowels Count.exe
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\bin\Debug\net6.0\02. Vowels Count.deps.json
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\bin\Debug\net6.0\02. Vowels Count.runtimeconfig.json
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\bin\Debug\net6.0\02. Vowels Count.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\bin\Debug\net6.0\02. Vowels Count.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\refint\02. Vowels Count.dll
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.pdb
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\02. Vowels Count.genruntimeconfig.cache
+D:\CSharp\Fundamentals\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\net6.0\ref\02. Vowels Count.dll
