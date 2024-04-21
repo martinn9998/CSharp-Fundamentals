@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\bin\Debug\net6.0\09. Greater of Two Values Second Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\bin\Debug\net6.0\09. Greater of Two Values Second Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\bin\Debug\net6.0\09. Greater of Two Values Second Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\bin\Debug\net6.0\09. Greater of Two Values Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\bin\Debug\net6.0\09. Greater of Two Values Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\obj\Debug\net6.0\09. Greater of Two Values Second Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\obj\Debug\net6.0\09. Greater of Two Values Second Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\obj\Debug\net6.0\09. Greater of Two Values Second Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\obj\Debug\net6.0\09. Greater of Two Values Second Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\obj\Debug\net6.0\09. Greater of Two Values Second Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\obj\Debug\net6.0\09. Greater of Two Values Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\obj\Debug\net6.0\refint\09. Greater of Two Values Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\obj\Debug\net6.0\09. Greater of Two Values Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\obj\Debug\net6.0\09. Greater of Two Values Second Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\09. Greater of Two Values Second Solution\obj\Debug\net6.0\ref\09. Greater of Two Values Second Solution.dll

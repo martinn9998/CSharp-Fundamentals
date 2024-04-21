@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp2
+namespace MultiplyEvensByOdds
 {
     class Program
     {
@@ -16,7 +16,8 @@ namespace ConsoleApp2
         }
         static int FindResult(int num)
         {
-            int rezult = FindSumOfOdds(num) * FindSumOfEvens(num);
+            int rezult = FindSumOfOdds               
+                (num) * FindSumOfEvens(num);
             return rezult;
         }
 

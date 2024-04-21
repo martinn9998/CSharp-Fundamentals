@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\bin\Debug\net6.0\08. Math Power Second Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\bin\Debug\net6.0\08. Math Power Second Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\bin\Debug\net6.0\08. Math Power Second Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\bin\Debug\net6.0\08. Math Power Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\bin\Debug\net6.0\08. Math Power Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\obj\Debug\net6.0\08. Math Power Second Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\obj\Debug\net6.0\08. Math Power Second Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\obj\Debug\net6.0\08. Math Power Second Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\obj\Debug\net6.0\08. Math Power Second Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\obj\Debug\net6.0\08. Math Power Second Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\obj\Debug\net6.0\08. Math Power Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\obj\Debug\net6.0\refint\08. Math Power Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\obj\Debug\net6.0\08. Math Power Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\obj\Debug\net6.0\08. Math Power Second Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\10 Methods - Lab\08. Math Power Second Solution\obj\Debug\net6.0\ref\08. Math Power Second Solution.dll

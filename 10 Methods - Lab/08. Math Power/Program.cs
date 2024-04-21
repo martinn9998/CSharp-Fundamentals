@@ -12,6 +12,6 @@
     {
         double calculation = Math.Pow(theBase, thePower);
         Console.WriteLine(calculation);
-        return (calculation);
+        return calculation;
     }
 }

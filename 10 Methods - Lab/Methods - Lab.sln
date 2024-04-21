@@ -41,7 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Orders Second Solution"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Calculate Rectangle Area Second Solution", "06. Calculate Rectangle Area Second Solution\06. Calculate Rectangle Area Second Solution.csproj", "{C9EA39CC-FFDC-4287-95DA-40D100FD2312}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Repeat String Second Solution", "07. Repeat String Second Solution\07. Repeat String Second Solution.csproj", "{A8BD8472-D029-4FE4-BA4D-71DBFCD0D19A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Repeat String Second Solution", "07. Repeat String Second Solution\07. Repeat String Second Solution.csproj", "{A8BD8472-D029-4FE4-BA4D-71DBFCD0D19A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Math Power Second Solution", "08. Math Power Second Solution\08. Math Power Second Solution.csproj", "{F192E073-3CE0-4CF6-BE80-210CF0C11E10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Greater of Two Values Second Solution", "09. Greater of Two Values Second Solution\09. Greater of Two Values Second Solution.csproj", "{BEC3F566-D5F9-4075-9212-D13C426906FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Multiply Evens by Odds Second Solution", "10. Multiply Evens by Odds Second Solution\10. Multiply Evens by Odds Second Solution.csproj", "{274BDEA6-EB45-4256-A27C-63BA6983858C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +135,18 @@ Global
 		{A8BD8472-D029-4FE4-BA4D-71DBFCD0D19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8BD8472-D029-4FE4-BA4D-71DBFCD0D19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8BD8472-D029-4FE4-BA4D-71DBFCD0D19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F192E073-3CE0-4CF6-BE80-210CF0C11E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F192E073-3CE0-4CF6-BE80-210CF0C11E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F192E073-3CE0-4CF6-BE80-210CF0C11E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F192E073-3CE0-4CF6-BE80-210CF0C11E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC3F566-D5F9-4075-9212-D13C426906FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC3F566-D5F9-4075-9212-D13C426906FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC3F566-D5F9-4075-9212-D13C426906FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC3F566-D5F9-4075-9212-D13C426906FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274BDEA6-EB45-4256-A27C-63BA6983858C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274BDEA6-EB45-4256-A27C-63BA6983858C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274BDEA6-EB45-4256-A27C-63BA6983858C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274BDEA6-EB45-4256-A27C-63BA6983858C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

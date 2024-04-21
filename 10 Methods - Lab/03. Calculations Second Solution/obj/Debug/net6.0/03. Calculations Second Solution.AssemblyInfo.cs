@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03. Calculations Second Solution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0030410d363c7d5a0863047dce4d06670f4066b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0edc8d45601e14ce6b500717bb6a1d566e918143")]
 [assembly: System.Reflection.AssemblyProductAttribute("03. Calculations Second Solution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03. Calculations Second Solution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
