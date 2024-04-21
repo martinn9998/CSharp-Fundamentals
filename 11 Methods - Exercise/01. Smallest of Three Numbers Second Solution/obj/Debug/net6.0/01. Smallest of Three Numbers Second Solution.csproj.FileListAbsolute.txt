@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\bin\Debug\net6.0\01. Smallest of Three Numbers Second Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\bin\Debug\net6.0\01. Smallest of Three Numbers Second Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\bin\Debug\net6.0\01. Smallest of Three Numbers Second Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\bin\Debug\net6.0\01. Smallest of Three Numbers Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\bin\Debug\net6.0\01. Smallest of Three Numbers Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\obj\Debug\net6.0\01. Smallest of Three Numbers Second Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\obj\Debug\net6.0\01. Smallest of Three Numbers Second Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\obj\Debug\net6.0\01. Smallest of Three Numbers Second Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\obj\Debug\net6.0\01. Smallest of Three Numbers Second Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\obj\Debug\net6.0\01. Smallest of Three Numbers Second Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\obj\Debug\net6.0\01. Smallest of Three Numbers Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\obj\Debug\net6.0\refint\01. Smallest of Three Numbers Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\obj\Debug\net6.0\01. Smallest of Three Numbers Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\obj\Debug\net6.0\01. Smallest of Three Numbers Second Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\01. Smallest of Three Numbers Second Solution\obj\Debug\net6.0\ref\01. Smallest of Three Numbers Second Solution.dll
