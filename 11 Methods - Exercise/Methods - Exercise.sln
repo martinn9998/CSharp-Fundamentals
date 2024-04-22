@@ -27,7 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Array Manipulator", "11
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "Demo\Demo.csproj", "{56A15036-18EC-4BEF-B86D-FB05F4730CCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Smallest of Three Numbers Second Solution", "01. Smallest of Three Numbers Second Solution\01. Smallest of Three Numbers Second Solution.csproj", "{6F95C72D-4E7F-4A72-82FB-7F949C4156A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Smallest of Three Numbers Second Solution", "01. Smallest of Three Numbers Second Solution\01. Smallest of Three Numbers Second Solution.csproj", "{6F95C72D-4E7F-4A72-82FB-7F949C4156A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Vowels Count Second Solution", "02. Vowels Count Second Solution\02. Vowels Count Second Solution.csproj", "{E0F4DCD0-DB28-4790-8C63-02C439A7419B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Characters in Range Second Solution", "03. Characters in Range Second Solution\03. Characters in Range Second Solution.csproj", "{DDF32BAC-FC08-43A4-9FD1-AAF59527E721}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{6F95C72D-4E7F-4A72-82FB-7F949C4156A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F95C72D-4E7F-4A72-82FB-7F949C4156A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F95C72D-4E7F-4A72-82FB-7F949C4156A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F4DCD0-DB28-4790-8C63-02C439A7419B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F4DCD0-DB28-4790-8C63-02C439A7419B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F4DCD0-DB28-4790-8C63-02C439A7419B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F4DCD0-DB28-4790-8C63-02C439A7419B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF32BAC-FC08-43A4-9FD1-AAF59527E721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF32BAC-FC08-43A4-9FD1-AAF59527E721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF32BAC-FC08-43A4-9FD1-AAF59527E721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF32BAC-FC08-43A4-9FD1-AAF59527E721}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
