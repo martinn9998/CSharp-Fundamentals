@@ -12,7 +12,7 @@
         {
             for (int i = Math.Min(start, end) + 1; i < Math.Max(start, end); i++)
             {
-                Console.WriteLine((char)i + " ");
+                Console.Write((char)i + " ");
             }
         }
     }
