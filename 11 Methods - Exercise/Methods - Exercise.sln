@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Add and Subtract Second
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Middle Characters Second Solution", "06. Middle Characters Second Solution\06. Middle Characters Second Solution.csproj", "{3DB654D2-962A-488A-92AD-B56A8C4A6A74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. NxN Matrix Second Solution", "07. NxN Matrix Second Solution\07. NxN Matrix Second Solution.csproj", "{E9E56079-653E-497F-9F1F-BC7376171809}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. NxN Matrix Second Solution", "07. NxN Matrix Second Solution\07. NxN Matrix Second Solution.csproj", "{E9E56079-653E-497F-9F1F-BC7376171809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Factorial Division Second Solution", "08. Factorial Division Second Solution\08. Factorial Division Second Solution.csproj", "{EB18BC97-7416-41DF-AF7B-820B117FBAA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{E9E56079-653E-497F-9F1F-BC7376171809}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9E56079-653E-497F-9F1F-BC7376171809}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9E56079-653E-497F-9F1F-BC7376171809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB18BC97-7416-41DF-AF7B-820B117FBAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB18BC97-7416-41DF-AF7B-820B117FBAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB18BC97-7416-41DF-AF7B-820B117FBAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB18BC97-7416-41DF-AF7B-820B117FBAA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
