@@ -5,7 +5,7 @@
         static void Main()
         {
             string passwordInput = Console.ReadLine();
-
+            CheckingPasswrodParameters(passwordInput);
         }
         static void CheckingPasswrodParameters(string passwordInput)
         {
@@ -34,7 +34,7 @@
         {
             for (int i = 0; i < passwordInput.Length; i++)
             {
-                if (char.IsLetterOrDigit(passwordInput[i]))
+                if (!char.IsLetterOrDigit(passwordInput[i]))
                 {
                     return false;
                 }

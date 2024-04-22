@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{6C190386-61F3-4874-9144-D87817B04525}|04. Password Validator Second Solution\\04. Password Validator Second Solution.csproj|solutionrelative:04. password validator second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{39F2CD39-E5E8-492F-8937-F9970E76BE6B}|03. Characters in Range\\03. Characters in Range.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\11 methods - exercise\\03. characters in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F2CD39-E5E8-492F-8937-F9970E76BE6B}|03. Characters in Range\\03. Characters in Range.csproj|solutionrelative:03. characters in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223DB955-BC98-499F-9273-BFFE923FF3C7}|02. Vowels Count\\02. Vowels Count.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\11 methods - exercise\\02. vowels count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223DB955-BC98-499F-9273-BFFE923FF3C7}|02. Vowels Count\\02. Vowels Count.csproj|solutionrelative:02. vowels count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8A79058-DBBD-4821-B200-ED97A9A93F80}|04. Password Validator\\04. Password Validator.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\11 methods - exercise\\04. password validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8A79058-DBBD-4821-B200-ED97A9A93F80}|04. Password Validator\\04. Password Validator.csproj|solutionrelative:04. password validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{DDF32BAC-FC08-43A4-9FD1-AAF59527E721}|03. Characters in Range Second Solution\\03. Characters in Range Second Solution.csproj|solutionrelative:03. characters in range second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39F2CD39-E5E8-492F-8937-F9970E76BE6B}|03. Characters in Range\\03. Characters in Range.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\11 methods - exercise\\03. characters in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F2CD39-E5E8-492F-8937-F9970E76BE6B}|03. Characters in Range\\03. Characters in Range.csproj|solutionrelative:03. characters in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0F4DCD0-DB28-4790-8C63-02C439A7419B}|02. Vowels Count Second Solution\\02. Vowels Count Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\11 methods - exercise\\02. vowels count second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F4DCD0-DB28-4790-8C63-02C439A7419B}|02. Vowels Count Second Solution\\02. Vowels Count Second Solution.csproj|solutionrelative:02. vowels count second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{223DB955-BC98-499F-9273-BFFE923FF3C7}|02. Vowels Count\\02. Vowels Count.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\11 methods - exercise\\02. vowels count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{223DB955-BC98-499F-9273-BFFE923FF3C7}|02. Vowels Count\\02. Vowels Count.csproj|solutionrelative:02. vowels count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB2D3D5B-A131-40AA-9A7D-A2BE7FCA3258}|01. Smallest of Three Numbers\\01. Smallest of Three Numbers.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\11 methods - exercise\\01. smallest of three numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -84,27 +84,14 @@
               "RelativeDocumentMoniker": "04. Password Validator Second Solution\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\04. Password Validator Second Solution\\Program.cs",
               "RelativeToolTip": "04. Password Validator Second Solution\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowCoAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T07:17:21.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\03. Characters in Range Second Solution\\Program.cs",
-              "RelativeDocumentMoniker": "03. Characters in Range Second Solution\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\03. Characters in Range Second Solution\\Program.cs",
-              "RelativeToolTip": "03. Characters in Range Second Solution\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T06:26:57.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\03. Characters in Range\\Program.cs",
               "RelativeDocumentMoniker": "03. Characters in Range\\Program.cs",
@@ -117,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\02. Vowels Count Second Solution\\Program.cs",
               "RelativeDocumentMoniker": "02. Vowels Count Second Solution\\Program.cs",
@@ -129,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\04. Password Validator\\Program.cs",
               "RelativeDocumentMoniker": "04. Password Validator\\Program.cs",
@@ -138,6 +125,32 @@
               "ViewState": "AQIAAD4AAAAAAAAAAAAAwFMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T17:22:21.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\02. Vowels Count\\Program.cs",
+              "RelativeDocumentMoniker": "02. Vowels Count\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\02. Vowels Count\\Program.cs",
+              "RelativeToolTip": "02. Vowels Count\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:22:21.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\03. Characters in Range Second Solution\\Program.cs",
+              "RelativeDocumentMoniker": "03. Characters in Range Second Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\03. Characters in Range Second Solution\\Program.cs",
+              "RelativeToolTip": "03. Characters in Range Second Solution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:26:57.732Z",
               "EditorCaption": ""
             },
             {
@@ -164,18 +177,6 @@
               "ViewState": "AQIAAAwAAAAAAAAAAAAowB0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T17:22:21.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\02. Vowels Count\\Program.cs",
-              "RelativeDocumentMoniker": "02. Vowels Count\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\02. Vowels Count\\Program.cs",
-              "RelativeToolTip": "02. Vowels Count\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowBMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T17:22:21.321Z"
             },
             {
               "$type": "Document",
