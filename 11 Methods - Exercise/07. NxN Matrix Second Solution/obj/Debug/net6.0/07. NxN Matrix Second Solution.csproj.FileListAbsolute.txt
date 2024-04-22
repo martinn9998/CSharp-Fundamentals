@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\bin\Debug\net6.0\07. NxN Matrix Second Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\bin\Debug\net6.0\07. NxN Matrix Second Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\bin\Debug\net6.0\07. NxN Matrix Second Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\bin\Debug\net6.0\07. NxN Matrix Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\bin\Debug\net6.0\07. NxN Matrix Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\obj\Debug\net6.0\07. NxN Matrix Second Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\obj\Debug\net6.0\07. NxN Matrix Second Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\obj\Debug\net6.0\07. NxN Matrix Second Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\obj\Debug\net6.0\07. NxN Matrix Second Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\obj\Debug\net6.0\07. NxN Matrix Second Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\obj\Debug\net6.0\07. NxN Matrix Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\obj\Debug\net6.0\refint\07. NxN Matrix Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\obj\Debug\net6.0\07. NxN Matrix Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\obj\Debug\net6.0\07. NxN Matrix Second Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\07. NxN Matrix Second Solution\obj\Debug\net6.0\ref\07. NxN Matrix Second Solution.dll
