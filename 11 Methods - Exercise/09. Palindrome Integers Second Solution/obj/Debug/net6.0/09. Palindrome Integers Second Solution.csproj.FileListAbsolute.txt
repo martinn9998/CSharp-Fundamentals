@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\bin\Debug\net6.0\09. Palindrome Integers Second Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\bin\Debug\net6.0\09. Palindrome Integers Second Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\bin\Debug\net6.0\09. Palindrome Integers Second Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\bin\Debug\net6.0\09. Palindrome Integers Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\bin\Debug\net6.0\09. Palindrome Integers Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\obj\Debug\net6.0\09. Palindrome Integers Second Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\obj\Debug\net6.0\09. Palindrome Integers Second Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\obj\Debug\net6.0\09. Palindrome Integers Second Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\obj\Debug\net6.0\09. Palindrome Integers Second Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\obj\Debug\net6.0\09. Palindrome Integers Second Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\obj\Debug\net6.0\09. Palindrome Integers Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\obj\Debug\net6.0\refint\09. Palindrome Integers Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\obj\Debug\net6.0\09. Palindrome Integers Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\obj\Debug\net6.0\09. Palindrome Integers Second Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\09. Palindrome Integers Second Solution\obj\Debug\net6.0\ref\09. Palindrome Integers Second Solution.dll

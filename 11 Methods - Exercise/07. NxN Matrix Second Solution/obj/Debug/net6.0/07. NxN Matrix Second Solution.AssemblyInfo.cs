@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07. NxN Matrix Second Solution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17979203a442bbc16d4fd779378435b7d5d0e596")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23eb82ee3cff8c118292a0d7c5ee389c4836248f")]
 [assembly: System.Reflection.AssemblyProductAttribute("07. NxN Matrix Second Solution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07. NxN Matrix Second Solution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
