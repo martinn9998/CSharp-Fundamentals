@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03. Characters in Range Second Solution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+169e6c01163c41b1ce2389adfbab3db549a9954d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea257747f4fd5f4934b6805444c379cfca2b7ed8")]
 [assembly: System.Reflection.AssemblyProductAttribute("03. Characters in Range Second Solution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03. Characters in Range Second Solution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

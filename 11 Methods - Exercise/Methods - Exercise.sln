@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Vowels Count Second Sol
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Characters in Range Second Solution", "03. Characters in Range Second Solution\03. Characters in Range Second Solution.csproj", "{DDF32BAC-FC08-43A4-9FD1-AAF59527E721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Password Validator Second Solution", "04. Password Validator Second Solution\04. Password Validator Second Solution.csproj", "{6C190386-61F3-4874-9144-D87817B04525}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Password Validator Second Solution", "04. Password Validator Second Solution\04. Password Validator Second Solution.csproj", "{6C190386-61F3-4874-9144-D87817B04525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Add and Subtract Second Solution", "05. Add and Subtract Second Solution\05. Add and Subtract Second Solution.csproj", "{5C93E3C5-4593-4AEE-A261-260E51EA8CCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{6C190386-61F3-4874-9144-D87817B04525}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C190386-61F3-4874-9144-D87817B04525}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C190386-61F3-4874-9144-D87817B04525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C93E3C5-4593-4AEE-A261-260E51EA8CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C93E3C5-4593-4AEE-A261-260E51EA8CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C93E3C5-4593-4AEE-A261-260E51EA8CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C93E3C5-4593-4AEE-A261-260E51EA8CCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
