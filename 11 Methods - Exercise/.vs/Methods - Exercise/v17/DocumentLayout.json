@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDF32BAC-FC08-43A4-9FD1-AAF59527E721}|03. Characters in Range Second Solution\\03. Characters in Range Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\11 methods - exercise\\03. characters in range second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDF32BAC-FC08-43A4-9FD1-AAF59527E721}|03. Characters in Range Second Solution\\03. Characters in Range Second Solution.csproj|solutionrelative:03. characters in range second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C190386-61F3-4874-9144-D87817B04525}|04. Password Validator Second Solution\\04. Password Validator Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\11 methods - exercise\\04. password validator second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C190386-61F3-4874-9144-D87817B04525}|04. Password Validator Second Solution\\04. Password Validator Second Solution.csproj|solutionrelative:04. password validator second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8A79058-DBBD-4821-B200-ED97A9A93F80}|04. Password Validator\\04. Password Validator.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\11 methods - exercise\\04. password validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8A79058-DBBD-4821-B200-ED97A9A93F80}|04. Password Validator\\04. Password Validator.csproj|solutionrelative:04. password validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF32BAC-FC08-43A4-9FD1-AAF59527E721}|03. Characters in Range Second Solution\\03. Characters in Range Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\11 methods - exercise\\03. characters in range second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF32BAC-FC08-43A4-9FD1-AAF59527E721}|03. Characters in Range Second Solution\\03. Characters in Range Second Solution.csproj|solutionrelative:03. characters in range second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39F2CD39-E5E8-492F-8937-F9970E76BE6B}|03. Characters in Range\\03. Characters in Range.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\11 methods - exercise\\03. characters in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -76,6 +80,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\04. Password Validator Second Solution\\Program.cs",
+              "RelativeDocumentMoniker": "04. Password Validator Second Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\04. Password Validator Second Solution\\Program.cs",
+              "RelativeToolTip": "04. Password Validator Second Solution\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:17:21.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\03. Characters in Range Second Solution\\Program.cs",
               "RelativeDocumentMoniker": "03. Characters in Range Second Solution\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\03. Characters in Range Second Solution\\Program.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\03. Characters in Range\\Program.cs",
               "RelativeDocumentMoniker": "03. Characters in Range\\Program.cs",
@@ -95,11 +112,12 @@
               "RelativeToolTip": "03. Characters in Range\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T17:22:21.311Z"
+              "WhenOpened": "2024-04-21T17:22:21.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\02. Vowels Count Second Solution\\Program.cs",
               "RelativeDocumentMoniker": "02. Vowels Count Second Solution\\Program.cs",
@@ -117,14 +135,14 @@
               "RelativeDocumentMoniker": "04. Password Validator\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\04. Password Validator\\Program.cs",
               "RelativeToolTip": "04. Password Validator\\Program.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAAwFgAAAAAAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAwFMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T17:22:21.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\01. Smallest of Three Numbers Second Solution\\Program.cs",
               "RelativeDocumentMoniker": "01. Smallest of Three Numbers Second Solution\\Program.cs",
@@ -132,11 +150,12 @@
               "RelativeToolTip": "01. Smallest of Three Numbers Second Solution\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:23:07.114Z"
+              "WhenOpened": "2024-04-21T18:23:07.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\01. Smallest of Three Numbers\\Program.cs",
               "RelativeDocumentMoniker": "01. Smallest of Three Numbers\\Program.cs",
@@ -148,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\02. Vowels Count\\Program.cs",
               "RelativeDocumentMoniker": "02. Vowels Count\\Program.cs",
@@ -160,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\07. NxN Matrix\\Program.cs",
               "RelativeDocumentMoniker": "07. NxN Matrix\\Program.cs",
@@ -172,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\11. Array Manipulator\\Program.cs",
               "RelativeDocumentMoniker": "11. Array Manipulator\\Program.cs",
@@ -184,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\08. Factorial Division\\Program.cs",
               "RelativeDocumentMoniker": "08. Factorial Division\\Program.cs",
@@ -196,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\10. Top Number\\Program.cs",
               "RelativeDocumentMoniker": "10. Top Number\\Program.cs",
@@ -208,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\09. Palindrome Integers\\Program.cs",
               "RelativeDocumentMoniker": "09. Palindrome Integers\\Program.cs",
@@ -220,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\06. Middle Characters\\Program.cs",
               "RelativeDocumentMoniker": "06. Middle Characters\\Program.cs",
@@ -232,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\05. Add and Subtract\\Program.cs",
               "RelativeDocumentMoniker": "05. Add and Subtract\\Program.cs",
@@ -244,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\11 Methods - Exercise\\Demo\\Program.cs",
               "RelativeDocumentMoniker": "Demo\\Program.cs",
@@ -252,7 +271,8 @@
               "RelativeToolTip": "Demo\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T17:22:21.326Z"
+              "WhenOpened": "2024-04-21T17:22:21.326Z",
+              "EditorCaption": ""
             }
           ]
         }
