@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\bin\Debug\net6.0\10. Top Number Second  Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\bin\Debug\net6.0\10. Top Number Second  Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\bin\Debug\net6.0\10. Top Number Second  Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\bin\Debug\net6.0\10. Top Number Second  Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\bin\Debug\net6.0\10. Top Number Second  Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\obj\Debug\net6.0\10. Top Number Second  Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\obj\Debug\net6.0\10. Top Number Second  Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\obj\Debug\net6.0\10. Top Number Second  Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\obj\Debug\net6.0\10. Top Number Second  Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\obj\Debug\net6.0\10. Top Number Second  Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\obj\Debug\net6.0\10. Top Number Second  Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\obj\Debug\net6.0\refint\10. Top Number Second  Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\obj\Debug\net6.0\10. Top Number Second  Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\obj\Debug\net6.0\10. Top Number Second  Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\11 Methods - Exercise\10. Top Number Second  Solution\obj\Debug\net6.0\ref\10. Top Number Second  Solution.dll

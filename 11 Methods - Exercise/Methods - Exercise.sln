@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. NxN Matrix Second Solut
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Factorial Division Second Solution", "08. Factorial Division Second Solution\08. Factorial Division Second Solution.csproj", "{EB18BC97-7416-41DF-AF7B-820B117FBAA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Palindrome Integers Second Solution", "09. Palindrome Integers Second Solution\09. Palindrome Integers Second Solution.csproj", "{CD93CC3D-5F45-4DF7-98FB-54193BFF2C48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Palindrome Integers Second Solution", "09. Palindrome Integers Second Solution\09. Palindrome Integers Second Solution.csproj", "{CD93CC3D-5F45-4DF7-98FB-54193BFF2C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Top Number Second  Solution", "10. Top Number Second  Solution\10. Top Number Second  Solution.csproj", "{E06CB015-B93C-41FF-BD03-2F6E2C13DE1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{CD93CC3D-5F45-4DF7-98FB-54193BFF2C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD93CC3D-5F45-4DF7-98FB-54193BFF2C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD93CC3D-5F45-4DF7-98FB-54193BFF2C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E06CB015-B93C-41FF-BD03-2F6E2C13DE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06CB015-B93C-41FF-BD03-2F6E2C13DE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06CB015-B93C-41FF-BD03-2F6E2C13DE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06CB015-B93C-41FF-BD03-2F6E2C13DE1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
