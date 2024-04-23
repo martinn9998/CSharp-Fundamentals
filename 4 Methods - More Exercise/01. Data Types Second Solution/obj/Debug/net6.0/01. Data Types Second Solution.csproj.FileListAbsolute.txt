@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\bin\Debug\net6.0\01. Data Types Second Solution.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\bin\Debug\net6.0\01. Data Types Second Solution.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\bin\Debug\net6.0\01. Data Types Second Solution.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\bin\Debug\net6.0\01. Data Types Second Solution.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\bin\Debug\net6.0\01. Data Types Second Solution.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\obj\Debug\net6.0\01. Data Types Second Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\obj\Debug\net6.0\01. Data Types Second Solution.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\obj\Debug\net6.0\01. Data Types Second Solution.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\obj\Debug\net6.0\01. Data Types Second Solution.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\obj\Debug\net6.0\01. Data Types Second Solution.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\obj\Debug\net6.0\refint\01. Data Types Second Solution.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\obj\Debug\net6.0\01. Data Types Second Solution.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\obj\Debug\net6.0\01. Data Types Second Solution.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\01. Data Types Second Solution\obj\Debug\net6.0\ref\01. Data Types Second Solution.dll
