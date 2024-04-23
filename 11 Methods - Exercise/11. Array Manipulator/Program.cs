@@ -18,14 +18,14 @@ namespace _11._Array_Manipulator
                 if (commands[0] == "exchange")
                 {
                     int index = int.Parse(commands[1]);
-                    if (index < 0 || index > arr.Length-1)
+                    if (index < 0 || index > arr.Length - 1)
                     {
                         Console.WriteLine("Invalid index");
                         continue;
                     }
                     ExchangingTheArrayByIndex(arr, index);
                 }
-                else if (commands[0] == "max" || commands == "min")
+                else if (commands[0] == "max" || commands[0] == "min")
                 {
                     string evenOrOdd = commands[1];
                     if (commands[0] == "max" && commands[1] == "even")
@@ -72,240 +72,241 @@ namespace _11._Array_Manipulator
                 }
                 Console.WriteLine($"[{string.Join(".", arr)}]");
             }
-        }
-        static void ExchangingTheArrayByIndex(int[] array, int index)
-        {
-            int[] firstArray =  new int[array.Length - index - 1];
-            int[] secondArray = new int[index + 1];
-            int counter = 0;
-            for (int i = index + 1; i < array.Length; i++)
+
+            static void ExchangingTheArrayByIndex(int[] array, int index)
             {
-                firstArray[counter] = array[i];
-                counter++;
-            }
-            for (int i = 0; i < index + 1; i++)
-            {
-                secondArray[i] = firstArray[i];
-            }
-            for (int i = 0; i < firstArray.Length; i++)
-            {
-                array[i] = firstArray[i];
-            }
-            for (int i = 0; i < secondArray.Length; i++)
-            {
-                array[firstArray.Length + i] = secondArray[i];
-            }
-        }
-        static void MaxEvenElements(int[] array)
-        {
-            int maxValue = int.MinValue;
-            int indexCounter = 0;
-            bool isFound = false;
-            for (int i = 0; i < array.Length; i++)
-            {
-                if (array[i] % 2 == 0)
+                int[] firstArray = new int[array.Length - index - 1];
+                int[] secondArray = new int[index + 1];
+                int counter = 0;
+                for (int i = index + 1; i < array.Length; i++)
                 {
-                    if (array[i] >= maxValue)
-                    {
-                        maxValue = array[i];
-                        indexCounter = i;
-                        isFound = true;
-                    }
+                    firstArray[counter] = array[i];
+                    counter++;
+                }
+                for (int i = 0; i < index + 1; i++)
+                {
+                    secondArray[i] = firstArray[i];
+                }
+                for (int i = 0; i < firstArray.Length; i++)
+                {
+                    array[i] = firstArray[i];
+                }
+                for (int i = 0; i < secondArray.Length; i++)
+                {
+                    array[firstArray.Length + i] = secondArray[i];
                 }
             }
-            if (!isFound)
+            static void MaxEvenElements(int[] array)
             {
-                Console.WriteLine("No matches");
-            }
-            else
-            {
-                Console.WriteLine(indexCounter);
-            }
-        }
-        static void MinEvenElements(int[] array)
-        {
-            int minValue = int.MinValue;
-            int indexCounter = 0;
-            bool isFound = false;
-            for (int i = 0; i < array.Length; i++)
-            {
-                if (array[i] % 2 == 0)
+                int maxValue = int.MinValue;
+                int indexCounter = 0;
+                bool isFound = false;
+                for (int i = 0; i < array.Length; i++)
                 {
-                    if (array[i] <= minValue)
+                    if (array[i] % 2 == 0)
                     {
-                        minValue = array[i];
-                        indexCounter = i;
-                        isFound = true;
+                        if (array[i] >= maxValue)
+                        {
+                            maxValue = array[i];
+                            indexCounter = i;
+                            isFound = true;
+                        }
                     }
                 }
-            }
-            if (!isFound)
-            {
-                Console.WriteLine("No matches");
-            }
-            else
-            {
-                Console.WriteLine(indexCounter);
-            }
-        }
-        static void MaxOddelement(int[] array)
-        {
-            int maxValue = int.MaxValue;
-            int indexCounter = 0;
-            bool isFound = false;
-            for (int i = 0;i < array.Length;i++)
-            {
-                if (array[i] % 2 != 0)
+                if (!isFound)
                 {
-                    if (array[i] >= maxValue)
-                    {
-                        maxValue = array[i];
-                        indexCounter = i;
-                        isFound = true;
-                    }
+                    Console.WriteLine("No matches");
+                }
+                else
+                {
+                    Console.WriteLine(indexCounter);
                 }
             }
-            if (isFound)
+            static void MinEvenElements(int[] array)
             {
-                Console.WriteLine("No matches");
-            }
-            else
-            {
-                Console.WriteLine(indexCounter);
-            }
-        }
-        static void MinOddElement(int[] array)
-        {
-            int minValue = int.MinValue;
-            int indexCounter = 0;
-            bool isFound = false;
-            for (int i = 0;i < array.Length;i++)
-            {
-                if (array[i] % 2 != 0)
+                int minValue = int.MinValue;
+                int indexCounter = 0;
+                bool isFound = false;
+                for (int i = 0; i < array.Length; i++)
                 {
-                    if (array[i] <= minValue)
+                    if (array[i] % 2 == 0)
                     {
-                        minValue = array[i];
-                        indexCounter = i;
-                        isFound = true;
+                        if (array[i] <= minValue)
+                        {
+                            minValue = array[i];
+                            indexCounter = i;
+                            isFound = true;
+                        }
                     }
                 }
-            }
-            if (isFound)
-            {
-                Console.WriteLine("No matches");
-            }
-            else
-            {
-                Console.WriteLine(indexCounter);
-            }
-        }
-        static void FirstEvenCount(int[] array, int counter)
-        {
-            int evensCounter = 0;
-            string numbers = string.Empty;
-            for (int i = 0; i < array.Length; i++)
-            {
-                if (array[i] % 2 == 0)
+                if (!isFound)
                 {
-                    if (evensCounter == counter)
-                    {
-                        break;
-                    }
-                    numbers += array[i] + " ";
-                    evensCounter++;
+                    Console.WriteLine("No matches");
+                }
+                else
+                {
+                    Console.WriteLine(indexCounter);
                 }
             }
-            var result = numbers.Split(" ", StringSplitOptions
-                .RemoveEmptyEntries);
-            if ((evensCounter > 0) && (evensCounter <= counter))
+            static void MaxOddelement(int[] array)
             {
-                Console.WriteLine($"[{string.Join(",", result)}]");
-            }
-            else
-            {
-                Console.WriteLine("[]");
-            }
-        }
-        static void LastEvensCount(int[] array, int counter)
-        {
-            int evensCounter = 0;
-            string numbers = string.Empty;
-            for (int i = array.Length - 1; i >= 0; i--)
-            {
-                if (array[i] % 2 == 0)
+                int maxValue = int.MaxValue;
+                int indexCounter = 0;
+                bool isFound = false;
+                for (int i = 0; i < array.Length; i++)
                 {
-                    if (evensCounter == counter)
+                    if (array[i] % 2 != 0)
                     {
-                        break;
+                        if (array[i] >= maxValue)
+                        {
+                            maxValue = array[i];
+                            indexCounter = i;
+                            isFound = true;
+                        }
                     }
-                    numbers += array[i] + " ";
-                    evensCounter++;
+                }
+                if (isFound)
+                {
+                    Console.WriteLine("No matches");
+                }
+                else
+                {
+                    Console.WriteLine(indexCounter);
                 }
             }
-            var result = numbers.Split(" ", 
-                StringSplitOptions.RemoveEmptyEntries).Reverse();
-            if ((evensCounter > 0) && (evensCounter <= counter))
+            static void MinOddElement(int[] array)
             {
-                Console.WriteLine($"[{string.Join(",", result)}]");
-            }
-            else
-            {
-                Console.WriteLine("[]");
-            }
-        }
-        static void FirstOddsCount(int[] array, int counter)
-        {
-            int oddsCounter = 0;
-            string numbers = string.Empty;
-            for (int i = 0; i < array.Length; i++)
-            {
-                if (array[i] % 2 == 0)
+                int minValue = int.MinValue;
+                int indexCounter = 0;
+                bool isFound = false;
+                for (int i = 0; i < array.Length; i++)
                 {
-                    if (oddsCounter == counter)
+                    if (array[i] % 2 != 0)
                     {
-                        break;
+                        if (array[i] <= minValue)
+                        {
+                            minValue = array[i];
+                            indexCounter = i;
+                            isFound = true;
+                        }
                     }
-                    numbers += array[i] + " ";
-                    oddsCounter++;
+                }
+                if (isFound)
+                {
+                    Console.WriteLine("No matches");
+                }
+                else
+                {
+                    Console.WriteLine(indexCounter);
                 }
             }
-            var result = numbers.Split(" ",
-                StringSplitOptions.RemoveEmptyEntries);
-            if ((oddsCounter > 0) && (oddsCounter <= counter))
+            static void FirstEvenCount(int[] array, int counter)
             {
-                Console.WriteLine($"[{string.Join(",", result)}]");
-            }
-            else
-            {
-                Console.WriteLine("[]");
-            }
-        }
-        static void LastOddCount(int[] array, int counter)
-        {
-            int oddCounter = 0;
-            string numbers = string.Empty;
-            for (int i = array.Length - 1; i >= 0; i--)
-            {
-                if (array[i] % 2 != 0)
+                int evensCounter = 0;
+                string numbers = string.Empty;
+                for (int i = 0; i < array.Length; i++)
                 {
-                    if (oddCounter == counter)
+                    if (array[i] % 2 == 0)
                     {
-                        break;
+                        if (evensCounter == counter)
+                        {
+                            break;
+                        }
+                        numbers += array[i] + " ";
+                        evensCounter++;
                     }
-                    numbers += array[i] + " ";
-                    oddCounter++;
+                }
+                var result = numbers.Split(" ", StringSplitOptions
+                    .RemoveEmptyEntries);
+                if ((evensCounter > 0) && (evensCounter <= counter))
+                {
+                    Console.WriteLine($"[{string.Join(",", result)}]");
+                }
+                else
+                {
+                    Console.WriteLine("[]");
                 }
             }
-            var result = numbers.Split(" ",
-                StringSplitOptions.RemoveEmptyEntries).Reverse();
-            if ((oddCounter > 0) && (oddCounter <= counter))
+            static void LastEvensCount(int[] array, int counter)
             {
-                Console.WriteLine($"[{string.Join(",", result)}]");
+                int evensCounter = 0;
+                string numbers = string.Empty;
+                for (int i = array.Length - 1; i >= 0; i--)
+                {
+                    if (array[i] % 2 == 0)
+                    {
+                        if (evensCounter == counter)
+                        {
+                            break;
+                        }
+                        numbers += array[i] + " ";
+                        evensCounter++;
+                    }
+                }
+                var result = numbers.Split(" ",
+                    StringSplitOptions.RemoveEmptyEntries).Reverse();
+                if ((evensCounter > 0) && (evensCounter <= counter))
+                {
+                    Console.WriteLine($"[{string.Join(",", result)}]");
+                }
+                else
+                {
+                    Console.WriteLine("[]");
+                }
             }
-            else
+            static void FirstOddsCount(int[] array, int counter)
             {
-                Console.WriteLine("[]");
+                int oddsCounter = 0;
+                string numbers = string.Empty;
+                for (int i = 0; i < array.Length; i++)
+                {
+                    if (array[i] % 2 == 0)
+                    {
+                        if (oddsCounter == counter)
+                        {
+                            break;
+                        }
+                        numbers += array[i] + " ";
+                        oddsCounter++;
+                    }
+                }
+                var result = numbers.Split(" ",
+                    StringSplitOptions.RemoveEmptyEntries);
+                if ((oddsCounter > 0) && (oddsCounter <= counter))
+                {
+                    Console.WriteLine($"[{string.Join(",", result)}]");
+                }
+                else
+                {
+                    Console.WriteLine("[]");
+                }
+            }
+            static void LastOddCount(int[] array, int counter)
+            {
+                int oddCounter = 0;
+                string numbers = string.Empty;
+                for (int i = array.Length - 1; i >= 0; i--)
+                {
+                    if (array[i] % 2 != 0)
+                    {
+                        if (oddCounter == counter)
+                        {
+                            break;
+                        }
+                        numbers += array[i] + " ";
+                        oddCounter++;
+                    }
+                }
+                var result = numbers.Split(" ",
+                    StringSplitOptions.RemoveEmptyEntries).Reverse();
+                if ((oddCounter > 0) && (oddCounter <= counter))
+                {
+                    Console.WriteLine($"[{string.Join(",", result)}]");
+                }
+                else
+                {
+                    Console.WriteLine("[]");
+                }
             }
         }
     }
