@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\bin\Debug\net6.0\02. Center Point.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\bin\Debug\net6.0\02. Center Point.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\bin\Debug\net6.0\02. Center Point.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\bin\Debug\net6.0\02. Center Point.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\bin\Debug\net6.0\02. Center Point.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\obj\Debug\net6.0\refint\02. Center Point.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\obj\Debug\net6.0\02. Center Point.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\4 Methods - More Exercise\02. Center Point\obj\Debug\net6.0\ref\02. Center Point.dll
