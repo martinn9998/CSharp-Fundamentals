@@ -1,8 +1,8 @@
-﻿using System.Text.RegularExpressions;
-
+﻿using System;
+using System.Linq;
 namespace _11._Array_Manipulator
 {
-    internal class Program
+    class Program
     {
         static void Main()
         {
@@ -42,36 +42,36 @@ namespace _11._Array_Manipulator
                     }
                     else if (commands[0] == "min" && commands[1] == "odd")
                     {
-                        MinEvenElements(arr);
+                        MinOddElement(arr);
                     }
-                    else if (commands[0] == "first" || commands[0] == "last")
-                    {
-                        int counter = int.Parse(commands[1]);
-                        if (counter > arr.Length)
-                        {
-                            Console.WriteLine("Invalid count");
-                            continue;
-                        }
-                        if (commands[0] == "first" && commands[2] == "even")
-                        {
-                            FirstEvenCount(arr, counter);
-                        }
-                        else if (commands[0] == "last" && commands[2] == "even")
-                        {
-                            LastEvensCount(arr, counter);
-                        }
-                        else if (commands[0] == "first" && commands[2] == "odd")
-                        {
-                            FirstOddsCount(arr, counter);
-                        }
-                        else if (commands[0] == "last" && commands[2] == "odd")
-                        {
-                            LastOddCount(arr, counter);
-                        }
-                    }
-                }
-                Console.WriteLine($"[{string.Join(",", arr)}]");
+				}
+				else if (commands[0] == "first" || commands[0] == "last")
+				{
+					int counter = int.Parse(commands[1]);
+					if (counter > arr.Length)
+					{
+						Console.WriteLine("Invalid count");
+						continue;
+					}
+					if (commands[0] == "first" && commands[2] == "even")
+					{
+						FirstEvenCount(arr, counter);
+					}
+					else if (commands[0] == "last" && commands[2] == "even")
+					{
+						LastEvensCount(arr, counter);
+					}
+					else if (commands[0] == "first" && commands[2] == "odd")
+					{
+						FirstOddsCount(arr, counter);
+					}
+					else if (commands[0] == "last" && commands[2] == "odd")
+					{
+						LastOddCount(arr, counter);
+					}
+				}
             }
+			Console.WriteLine($"[{string.Join(",", arr)}]");
 		}
 		static void ExchangingTheArrayByIndex(int[] array, int index)
 		{
@@ -150,7 +150,7 @@ namespace _11._Array_Manipulator
 		}
 		static void MaxOddelement(int[] array)
 		{
-			int maxValue = int.MaxValue;
+			int maxValue = int.MinValue;
 			int indexCounter = 0;
 			bool isFound = false;
 			for (int i = 0; i < array.Length; i++)
@@ -165,7 +165,7 @@ namespace _11._Array_Manipulator
 					}
 				}
 			}
-			if (isFound)
+			if (!isFound)
 			{
 				Console.WriteLine("No matches");
 			}
@@ -176,7 +176,7 @@ namespace _11._Array_Manipulator
 		}
 		static void MinOddElement(int[] array)
 		{
-			int minValue = int.MinValue;
+			int minValue = int.MaxValue;
 			int indexCounter = 0;
 			bool isFound = false;
 			for (int i = 0; i < array.Length; i++)
@@ -191,7 +191,7 @@ namespace _11._Array_Manipulator
 					}
 				}
 			}
-			if (isFound)
+			if (!isFound)
 			{
 				Console.WriteLine("No matches");
 			}
@@ -308,6 +308,6 @@ namespace _11._Array_Manipulator
 				Console.WriteLine("[]");
 			}
 		}
-        
     }
 }
+
