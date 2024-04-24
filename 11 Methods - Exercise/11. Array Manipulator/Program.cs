@@ -71,7 +71,7 @@ namespace _11._Array_Manipulator
 					}
 				}
             }
-			Console.WriteLine($"[{string.Join(",", arr)}]");
+			Console.WriteLine($"[{string.Join(", ", arr)}]");
 		}
 		static void ExchangingTheArrayByIndex(int[] array, int index)
 		{
@@ -124,7 +124,7 @@ namespace _11._Array_Manipulator
 		}
 		static void MinEvenElements(int[] array)
 		{
-			int minValue = int.MinValue;
+			int minValue = int.MaxValue;
 			int indexCounter = 0;
 			bool isFound = false;
 			for (int i = 0; i < array.Length; i++)
@@ -220,7 +220,7 @@ namespace _11._Array_Manipulator
 				.RemoveEmptyEntries);
 			if ((evensCounter > 0) && (evensCounter <= counter))
 			{
-				Console.WriteLine($"[{string.Join(",", result)}]");
+				Console.WriteLine($"[{string.Join(", ", result)}]");
 			}
 			else
 			{
@@ -247,7 +247,7 @@ namespace _11._Array_Manipulator
 				StringSplitOptions.RemoveEmptyEntries).Reverse();
 			if ((evensCounter > 0) && (evensCounter <= counter))
 			{
-				Console.WriteLine($"[{string.Join(",", result)}]");
+				Console.WriteLine($"[{string.Join(", ", result)}]");
 			}
 			else
 			{
@@ -260,7 +260,7 @@ namespace _11._Array_Manipulator
 			string numbers = string.Empty;
 			for (int i = 0; i < array.Length; i++)
 			{
-				if (array[i] % 2 == 0)
+				if (array[i] % 2 != 0)
 				{
 					if (oddsCounter == counter)
 					{
@@ -274,7 +274,7 @@ namespace _11._Array_Manipulator
 				StringSplitOptions.RemoveEmptyEntries);
 			if ((oddsCounter > 0) && (oddsCounter <= counter))
 			{
-				Console.WriteLine($"[{string.Join(",", result)}]");
+				Console.WriteLine($"[{string.Join(", ", result)}]");
 			}
 			else
 			{
@@ -301,7 +301,7 @@ namespace _11._Array_Manipulator
 				StringSplitOptions.RemoveEmptyEntries).Reverse();
 			if ((oddCounter > 0) && (oddCounter <= counter))
 			{
-				Console.WriteLine($"[{string.Join(",", result)}]");
+				Console.WriteLine($"[{string.Join(", ", result)}]");
 			}
 			else
 			{
