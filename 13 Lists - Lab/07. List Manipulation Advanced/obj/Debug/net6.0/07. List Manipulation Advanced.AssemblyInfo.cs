@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07. List Manipulation Advanced")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88f9c156d4edb963e8bcdbaf2d16ab5fd03df426")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8178a6c679a86ce4090036d69bd2621b54df78d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("07. List Manipulation Advanced")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07. List Manipulation Advanced")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

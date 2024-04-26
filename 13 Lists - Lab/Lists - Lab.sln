@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. List Manipulation Basic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. List Manipulation Advanced", "07. List Manipulation Advanced\07. List Manipulation Advanced.csproj", "{1E039EE9-8846-478F-BCE7-99C735C4AF75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sum Adjacent Equal Numbers Second Solution", "01. Sum Adjacent Equal Numbers Second Solution\01. Sum Adjacent Equal Numbers Second Solution.csproj", "{0622AC22-29D3-4CE9-AA77-5064494FF2FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Sum Adjacent Equal Numbers Second Solution", "01. Sum Adjacent Equal Numbers Second Solution\01. Sum Adjacent Equal Numbers Second Solution.csproj", "{0622AC22-29D3-4CE9-AA77-5064494FF2FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

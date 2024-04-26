@@ -24,12 +24,15 @@ namespace GaussTrick
 
             for (int i = 0; i < numbers.Count / 2; i++)
             {
-                newNumbers.Add(numbers[i] + numbers[numbers.Count - i - 1]);
+                newNumbers.Add(numbers[i] + 
+                    numbers[numbers.Count - i - 1]);
+                Console.WriteLine(string.Join(" ", newNumbers)); //Remove
             }
 
             if (numbers.Count % 2 == 1)
             {
                 newNumbers.Add(numbers[numbers.Count / 2]);
+                Console.WriteLine(string.Join(" ", newNumbers)); //Remove
             }
 
             Console.WriteLine(string.Join(" ", newNumbers));
