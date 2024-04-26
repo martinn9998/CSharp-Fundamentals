@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0622AC22-29D3-4CE9-AA77-5064494FF2FA}|01. Sum Adjacent Equal Numbers Second Solution\\01. Sum Adjacent Equal Numbers Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\13 lists - lab\\01. sum adjacent equal numbers second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0622AC22-29D3-4CE9-AA77-5064494FF2FA}|01. Sum Adjacent Equal Numbers Second Solution\\01. Sum Adjacent Equal Numbers Second Solution.csproj|solutionrelative:01. sum adjacent equal numbers second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A91F80A-214E-40D3-92B2-BDA1DA5D3D85}|01. Sum Adjacent Equal Numbers\\01. Sum Adjacent Equal Numbers.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\13 lists - lab\\01. sum adjacent equal numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A91F80A-214E-40D3-92B2-BDA1DA5D3D85}|01. Sum Adjacent Equal Numbers\\01. Sum Adjacent Equal Numbers.csproj|solutionrelative:01. sum adjacent equal numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6251FB-E92C-4091-A426-F350B8A259D8}|06. List Manipulation Basics\\06. List Manipulation Basics.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\13 lists - lab\\06. list manipulation basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6251FB-E92C-4091-A426-F350B8A259D8}|06. List Manipulation Basics\\06. List Manipulation Basics.csproj|solutionrelative:06. list manipulation basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C90BD82-5690-4DC3-8ED0-7AEA82489286}|04. List of Products\\04. List of Products.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\13 lists - lab\\04. list of products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C90BD82-5690-4DC3-8ED0-7AEA82489286}|04. List of Products\\04. List of Products.csproj|solutionrelative:04. list of products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C0E027-AB86-42E1-A96A-497FFABCFF46}|03. Merging Lists\\03. Merging Lists.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\13 lists - lab\\03. merging lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C0E027-AB86-42E1-A96A-497FFABCFF46}|03. Merging Lists\\03. Merging Lists.csproj|solutionrelative:03. merging lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8146345A-821E-40DC-B9C3-BD907B69A252}|02. Gauss\u0027 Trick\\02. Gauss\u0027 Trick.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\13 lists - lab\\02. gauss\u0027 trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8146345A-821E-40DC-B9C3-BD907B69A252}|02. Gauss\u0027 Trick\\02. Gauss\u0027 Trick.csproj|solutionrelative:02. gauss\u0027 trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E039EE9-8846-478F-BCE7-99C735C4AF75}|07. List Manipulation Advanced\\07. List Manipulation Advanced.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\13 lists - lab\\07. list manipulation advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E039EE9-8846-478F-BCE7-99C735C4AF75}|07. List Manipulation Advanced\\07. List Manipulation Advanced.csproj|solutionrelative:07. list manipulation advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201AD12D-04F3-4296-8E77-9D1E23DEDCBB}|05. Remove Negatives and Reverse\\05. Remove Negatives and Reverse.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\13 lists - lab\\05. remove negatives and reverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201AD12D-04F3-4296-8E77-9D1E23DEDCBB}|05. Remove Negatives and Reverse\\05. Remove Negatives and Reverse.csproj|solutionrelative:05. remove negatives and reverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\01. Sum Adjacent Equal Numbers Second Solution\\Program.cs",
+              "RelativeDocumentMoniker": "01. Sum Adjacent Equal Numbers Second Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\01. Sum Adjacent Equal Numbers Second Solution\\Program.cs",
+              "RelativeToolTip": "01. Sum Adjacent Equal Numbers Second Solution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:41:49.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\01. Sum Adjacent Equal Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. Sum Adjacent Equal Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\01. Sum Adjacent Equal Numbers\\Program.cs",
+              "RelativeToolTip": "01. Sum Adjacent Equal Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:34:57.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\02. Gauss\u0027 Trick\\Program.cs",
+              "RelativeDocumentMoniker": "02. Gauss\u0027 Trick\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\02. Gauss\u0027 Trick\\Program.cs",
+              "RelativeToolTip": "02. Gauss\u0027 Trick\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:34:57.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\06. List Manipulation Basics\\Program.cs",
+              "RelativeDocumentMoniker": "06. List Manipulation Basics\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\06. List Manipulation Basics\\Program.cs",
+              "RelativeToolTip": "06. List Manipulation Basics\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:34:57.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\03. Merging Lists\\Program.cs",
+              "RelativeDocumentMoniker": "03. Merging Lists\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\03. Merging Lists\\Program.cs",
+              "RelativeToolTip": "03. Merging Lists\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:34:57.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\04. List of Products\\Program.cs",
+              "RelativeDocumentMoniker": "04. List of Products\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\04. List of Products\\Program.cs",
+              "RelativeToolTip": "04. List of Products\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:34:57.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\07. List Manipulation Advanced\\Program.cs",
+              "RelativeDocumentMoniker": "07. List Manipulation Advanced\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\07. List Manipulation Advanced\\Program.cs",
+              "RelativeToolTip": "07. List Manipulation Advanced\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAqwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:34:57.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\05. Remove Negatives and Reverse\\Program.cs",
+              "RelativeDocumentMoniker": "05. Remove Negatives and Reverse\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\13 Lists - Lab\\05. Remove Negatives and Reverse\\Program.cs",
+              "RelativeToolTip": "05. Remove Negatives and Reverse\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswCYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:34:57.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

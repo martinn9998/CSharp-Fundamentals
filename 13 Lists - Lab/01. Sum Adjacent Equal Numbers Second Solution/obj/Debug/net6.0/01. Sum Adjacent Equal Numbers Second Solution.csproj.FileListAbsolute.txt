@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\bin\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\bin\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\bin\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\bin\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\bin\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\obj\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\obj\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\obj\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\obj\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\obj\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\obj\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\obj\Debug\net6.0\refint\01. Sum Adjacent Equal Numbers Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\obj\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\obj\Debug\net6.0\01. Sum Adjacent Equal Numbers Second Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\13 Lists - Lab\01. Sum Adjacent Equal Numbers Second Solution\obj\Debug\net6.0\ref\01. Sum Adjacent Equal Numbers Second Solution.dll

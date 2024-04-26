@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. Sum Adjacent Equal Numbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3c4c86419969a9d9169ca0d6986c6f71e7a99e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. Sum Adjacent Equal Numbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. Sum Adjacent Equal Numbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
