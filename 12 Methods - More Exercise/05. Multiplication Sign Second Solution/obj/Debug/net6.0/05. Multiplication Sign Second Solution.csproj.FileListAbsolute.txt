@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\obj\Debug\net6.0\05. Multiplication Sign Second Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\obj\Debug\net6.0\05. Multiplication Sign Second Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\obj\Debug\net6.0\05. Multiplication Sign Second Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\obj\Debug\net6.0\05. Multiplication Sign Second Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\obj\Debug\net6.0\05. Multiplication Sign Second Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\bin\Debug\net6.0\05. Multiplication Sign Second Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\bin\Debug\net6.0\05. Multiplication Sign Second Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\bin\Debug\net6.0\05. Multiplication Sign Second Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\bin\Debug\net6.0\05. Multiplication Sign Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\bin\Debug\net6.0\05. Multiplication Sign Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\obj\Debug\net6.0\05. Multiplication Sign Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\obj\Debug\net6.0\refint\05. Multiplication Sign Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\obj\Debug\net6.0\05. Multiplication Sign Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\obj\Debug\net6.0\05. Multiplication Sign Second Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\12 Methods - More Exercise\05. Multiplication Sign Second Solution\obj\Debug\net6.0\ref\05. Multiplication Sign Second Solution.dll

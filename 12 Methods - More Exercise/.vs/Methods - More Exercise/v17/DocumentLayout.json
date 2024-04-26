@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAE5CFA-69AC-4FFF-8CD3-CA2AA4AA56AD}|05. Multiplication Sign Second Solution\\05. Multiplication Sign Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\12 methods - more exercise\\05. multiplication sign second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAE5CFA-69AC-4FFF-8CD3-CA2AA4AA56AD}|05. Multiplication Sign Second Solution\\05. Multiplication Sign Second Solution.csproj|solutionrelative:05. multiplication sign second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38B12E6-0D7F-4D30-BC81-59A584CA8CCB}|05. Multiplication Sign\\05. Multiplication Sign.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\12 methods - more exercise\\05. multiplication sign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38B12E6-0D7F-4D30-BC81-59A584CA8CCB}|05. Multiplication Sign\\05. Multiplication Sign.csproj|solutionrelative:05. multiplication sign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528A4907-D217-4614-B9A6-57AD4E70D8DC}|04. Tribonacci Sequence\\04. Tribonacci Sequence.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\12 methods - more exercise\\04. tribonacci sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528A4907-D217-4614-B9A6-57AD4E70D8DC}|04. Tribonacci Sequence\\04. Tribonacci Sequence.csproj|solutionrelative:04. tribonacci sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914333DC-F3D4-4B60-9736-6C4DDCF7C9DB}|03. Longer Line\\03. Longer Line.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\12 methods - more exercise\\03. longer line\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914333DC-F3D4-4B60-9736-6C4DDCF7C9DB}|03. Longer Line\\03. Longer Line.csproj|solutionrelative:03. longer line\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4B024E-5B42-4EB7-9A44-50B176C6E27B}|02. Center Point\\02. Center Point.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\12 methods - more exercise\\02. center point\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4B024E-5B42-4EB7-9A44-50B176C6E27B}|02. Center Point\\02. Center Point.csproj|solutionrelative:02. center point\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BCE46C-7BE4-4759-BCB2-0216785F4DE3}|01. Data Types Second Solution\\01. Data Types Second Solution.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\12 methods - more exercise\\01. data types second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BCE46C-7BE4-4759-BCB2-0216785F4DE3}|01. Data Types Second Solution\\01. Data Types Second Solution.csproj|solutionrelative:01. data types second solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E6017F-F73F-47B4-8D69-E9DBEA0C7BB1}|01. Data Types\\01. Data Types.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\12 methods - more exercise\\01. data types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E6017F-F73F-47B4-8D69-E9DBEA0C7BB1}|01. Data Types\\01. Data Types.csproj|solutionrelative:01. data types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\05. Multiplication Sign Second Solution\\Program.cs",
+              "RelativeDocumentMoniker": "05. Multiplication Sign Second Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\05. Multiplication Sign Second Solution\\Program.cs",
+              "RelativeToolTip": "05. Multiplication Sign Second Solution\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA5wAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T04:24:03.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\03. Longer Line\\Program.cs",
+              "RelativeDocumentMoniker": "03. Longer Line\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\03. Longer Line\\Program.cs",
+              "RelativeToolTip": "03. Longer Line\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:59:37.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\04. Tribonacci Sequence\\Program.cs",
+              "RelativeDocumentMoniker": "04. Tribonacci Sequence\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\04. Tribonacci Sequence\\Program.cs",
+              "RelativeToolTip": "04. Tribonacci Sequence\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvzMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:59:37.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\05. Multiplication Sign\\Program.cs",
+              "RelativeDocumentMoniker": "05. Multiplication Sign\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\05. Multiplication Sign\\Program.cs",
+              "RelativeToolTip": "05. Multiplication Sign\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:59:37.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\02. Center Point\\Program.cs",
+              "RelativeDocumentMoniker": "02. Center Point\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\02. Center Point\\Program.cs",
+              "RelativeToolTip": "02. Center Point\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:59:37.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\01. Data Types Second Solution\\Program.cs",
+              "RelativeDocumentMoniker": "01. Data Types Second Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\01. Data Types Second Solution\\Program.cs",
+              "RelativeToolTip": "01. Data Types Second Solution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:59:37.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\01. Data Types\\Program.cs",
+              "RelativeDocumentMoniker": "01. Data Types\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\12 Methods - More Exercise\\01. Data Types\\Program.cs",
+              "RelativeToolTip": "01. Data Types\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:59:37.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

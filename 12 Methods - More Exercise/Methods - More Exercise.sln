@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Tribonacci Sequence", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Multiplication Sign", "05. Multiplication Sign\05. Multiplication Sign.csproj", "{A38B12E6-0D7F-4D30-BC81-59A584CA8CCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Data Types Second Solution", "01. Data Types Second Solution\01. Data Types Second Solution.csproj", "{25BCE46C-7BE4-4759-BCB2-0216785F4DE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Data Types Second Solution", "01. Data Types Second Solution\01. Data Types Second Solution.csproj", "{25BCE46C-7BE4-4759-BCB2-0216785F4DE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Multiplication Sign Second Solution", "05. Multiplication Sign Second Solution\05. Multiplication Sign Second Solution.csproj", "{FEAE5CFA-69AC-4FFF-8CD3-CA2AA4AA56AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{25BCE46C-7BE4-4759-BCB2-0216785F4DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25BCE46C-7BE4-4759-BCB2-0216785F4DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25BCE46C-7BE4-4759-BCB2-0216785F4DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAE5CFA-69AC-4FFF-8CD3-CA2AA4AA56AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAE5CFA-69AC-4FFF-8CD3-CA2AA4AA56AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAE5CFA-69AC-4FFF-8CD3-CA2AA4AA56AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAE5CFA-69AC-4FFF-8CD3-CA2AA4AA56AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

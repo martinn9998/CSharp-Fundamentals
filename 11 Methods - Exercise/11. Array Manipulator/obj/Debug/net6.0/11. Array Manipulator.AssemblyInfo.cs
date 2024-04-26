@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11. Array Manipulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+833a9355927cea136427fdb6815c7e3b96e0a36e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58a5ac80811218de36c3dc992af6768f12e93ce5")]
 [assembly: System.Reflection.AssemblyProductAttribute("11. Array Manipulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11. Array Manipulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
