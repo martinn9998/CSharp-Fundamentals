@@ -18,7 +18,7 @@ namespace _01._Sum_Adjacent_Equal_Numbers_Second_Solution
                 {
                     numbers[i] = numbers[i] + numbers[i + 1];
                     numbers.RemoveAt(i + 1);
-                    i--;
+                    i = -1;
                 }
             }
             Console.WriteLine(string.Join(" ", numbers));
