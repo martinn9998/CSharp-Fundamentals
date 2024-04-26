@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\net6.0\06. List Manipulation Basics.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\net6.0\06. List Manipulation Basics.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\net6.0\06. List Manipulation Basics.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\net6.0\06. List Manipulation Basics.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\net6.0\06. List Manipulation Basics.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net6.0\06. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net6.0\06. List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net6.0\06. List Manipulation Basics.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net6.0\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net6.0\06. List Manipulation Basics.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net6.0\refint\06. List Manipulation Basics.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net6.0\06. List Manipulation Basics.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net6.0\06. List Manipulation Basics.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net6.0\ref\06. List Manipulation Basics.dll

@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net6.0\05. Remove Negatives and Reverse.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net6.0\05. Remove Negatives and Reverse.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net6.0\05. Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net6.0\05. Remove Negatives and Reverse.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net6.0\05. Remove Negatives and Reverse.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net6.0\05. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net6.0\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net6.0\05. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net6.0\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net6.0\05. Remove Negatives and Reverse.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net6.0\refint\05. Remove Negatives and Reverse.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net6.0\05. Remove Negatives and Reverse.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net6.0\05. Remove Negatives and Reverse.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net6.0\ref\05. Remove Negatives and Reverse.dll
