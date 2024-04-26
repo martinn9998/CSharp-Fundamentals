@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\net6.0\04. List Operations.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\net6.0\04. List Operations.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\net6.0\04. List Operations.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\net6.0\04. List Operations.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\net6.0\04. List Operations.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\net6.0\04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\net6.0\04. List Operations.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\net6.0\04. List Operations.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\net6.0\04. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\net6.0\04. List Operations.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\net6.0\refint\04. List Operations.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\net6.0\04. List Operations.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\net6.0\04. List Operations.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\net6.0\ref\04. List Operations.dll

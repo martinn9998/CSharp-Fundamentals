@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\bin\Debug\net6.0\07. Append Arrays.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\bin\Debug\net6.0\07. Append Arrays.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\bin\Debug\net6.0\07. Append Arrays.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\bin\Debug\net6.0\07. Append Arrays.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\bin\Debug\net6.0\07. Append Arrays.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net6.0\07. Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net6.0\07. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net6.0\07. Append Arrays.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net6.0\07. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net6.0\07. Append Arrays.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net6.0\refint\07. Append Arrays.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net6.0\07. Append Arrays.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net6.0\07. Append Arrays.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net6.0\ref\07. Append Arrays.dll

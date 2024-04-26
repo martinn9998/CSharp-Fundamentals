@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net6.0\02. Change List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net6.0\02. Change List.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net6.0\02. Change List.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net6.0\02. Change List.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net6.0\02. Change List.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net6.0\02. Change List.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net6.0\02. Change List.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net6.0\02. Change List.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net6.0\02. Change List.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net6.0\02. Change List.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net6.0\refint\02. Change List.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net6.0\02. Change List.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net6.0\02. Change List.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net6.0\ref\02. Change List.dll
