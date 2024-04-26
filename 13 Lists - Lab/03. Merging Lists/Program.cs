@@ -23,7 +23,8 @@ namespace MergingLists
             MergingTwoLists(firstList, secondList);
         }
 
-        static void MergingTwoLists(List<int> firstList, List<int> secondList)
+        static void MergingTwoLists(List<int> firstList,
+            List<int> secondList)
         {
             List<int> finalList = new List<int>();
 
