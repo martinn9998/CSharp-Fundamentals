@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("08. Anonymous Threat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92aa9022bb173433b6c349785ac8a7f57cf2dc76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+020eb2cd3d1b7556076551edefdb6af127623486")]
 [assembly: System.Reflection.AssemblyProductAttribute("08. Anonymous Threat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("08. Anonymous Threat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
