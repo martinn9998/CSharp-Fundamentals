@@ -29,7 +29,6 @@
             }
             Console.WriteLine(string.Join(" ", numbers));
         }
-    
         static void Removing(List<int> numbers, int number)
         {
             numbers.Remove(number);

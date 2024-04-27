@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\bin\Debug\net6.0\02. Change List Second Solution.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\bin\Debug\net6.0\02. Change List Second Solution.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\bin\Debug\net6.0\02. Change List Second Solution.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\bin\Debug\net6.0\02. Change List Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\bin\Debug\net6.0\02. Change List Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\obj\Debug\net6.0\02. Change List Second Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\obj\Debug\net6.0\02. Change List Second Solution.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\obj\Debug\net6.0\02. Change List Second Solution.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\obj\Debug\net6.0\02. Change List Second Solution.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\obj\Debug\net6.0\02. Change List Second Solution.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\obj\Debug\net6.0\02. Change List Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\obj\Debug\net6.0\refint\02. Change List Second Solution.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\obj\Debug\net6.0\02. Change List Second Solution.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\obj\Debug\net6.0\02. Change List Second Solution.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\14 Lists - Exercise\02. Change List Second Solution\obj\Debug\net6.0\ref\02. Change List Second Solution.dll
