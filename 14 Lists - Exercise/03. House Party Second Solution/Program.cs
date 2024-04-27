@@ -16,7 +16,7 @@
                 {
                     if (ExistingPerson(command[0], guests))
                     {
-                        guests.Add(command[0]);
+                        guests.Ad9d(command[0]);
                     }
                     else
                     {
