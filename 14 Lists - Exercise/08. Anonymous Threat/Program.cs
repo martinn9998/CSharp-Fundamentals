@@ -21,6 +21,7 @@
                         break;
                     case "divide":
                         int index = int.Parse(command[1]);
+
                         int partitions = int.Parse(command[2]);
                         Dividing(data, index, partitions);
                         break;
@@ -44,8 +45,15 @@
             }
             else if (endIndex > data.Count )
             {
-
+                endIndex = data.Count - 1;
             }
+            List<string> temp = new List<string>();
+            for (int i = startIndex; i <= endIndex; i++)
+            {
+                temp.Add(data[i]);
+            }
+            data[startIndex] = string.Join("", temp);
+            for (int i = startIndex + 1;)
         }
     }
 }
