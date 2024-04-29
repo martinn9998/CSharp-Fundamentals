@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA9F02DF-B6FD-4F01-9A46-9BAC5BE7D831}|09. Pokemon Don\u0027t Go\\09. Pokemon Don\u0027t Go.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\14 lists - exercise\\09. pokemon don\u0027t go\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9F02DF-B6FD-4F01-9A46-9BAC5BE7D831}|09. Pokemon Don\u0027t Go\\09. Pokemon Don\u0027t Go.csproj|solutionrelative:09. pokemon don\u0027t go\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D451F03-589D-49DB-A320-B741A86FB0F6}|08. Anonymous Threat\\08. Anonymous Threat.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\14 lists - exercise\\08. anonymous threat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D451F03-589D-49DB-A320-B741A86FB0F6}|08. Anonymous Threat\\08. Anonymous Threat.csproj|solutionrelative:08. anonymous threat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7221F5FB-2AF0-44A8-9E31-8F5F2942D1DF}|10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\14 lists - exercise\\10. softuni course planning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7221F5FB-2AF0-44A8-9E31-8F5F2942D1DF}|10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj|solutionrelative:10. softuni course planning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA9F02DF-B6FD-4F01-9A46-9BAC5BE7D831}|09. Pokemon Don\u0027t Go\\09. Pokemon Don\u0027t Go.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\14 lists - exercise\\09. pokemon don\u0027t go\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA9F02DF-B6FD-4F01-9A46-9BAC5BE7D831}|09. Pokemon Don\u0027t Go\\09. Pokemon Don\u0027t Go.csproj|solutionrelative:09. pokemon don\u0027t go\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\03. House Party Second Solution\\Program.cs",
               "RelativeDocumentMoniker": "03. House Party Second Solution\\Program.cs",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\02. Change List Second Solution\\Program.cs",
               "RelativeDocumentMoniker": "02. Change List Second Solution\\Program.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\01. Train\\Program.cs",
               "RelativeDocumentMoniker": "01. Train\\Program.cs",
@@ -102,20 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\08. Anonymous Threat\\Program.cs",
               "RelativeDocumentMoniker": "08. Anonymous Threat\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\08. Anonymous Threat\\Program.cs",
               "RelativeToolTip": "08. Anonymous Threat\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowC4AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T15:34:09.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\01. Train Second Solution\\Program.cs",
               "RelativeDocumentMoniker": "01. Train Second Solution\\Program.cs",
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\02. Change List\\Program.cs",
               "RelativeDocumentMoniker": "02. Change List\\Program.cs",
@@ -135,11 +135,12 @@
               "RelativeToolTip": "02. Change List\\Program.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAowCcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:34:08.778Z"
+              "WhenOpened": "2024-04-26T15:34:08.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\05. Bomb Numbers\\Program.cs",
               "RelativeDocumentMoniker": "05. Bomb Numbers\\Program.cs",
@@ -147,11 +148,12 @@
               "RelativeToolTip": "05. Bomb Numbers\\Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAB0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:34:09.456Z"
+              "WhenOpened": "2024-04-26T15:34:09.456Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\04. List Operations\\Program.cs",
               "RelativeDocumentMoniker": "04. List Operations\\Program.cs",
@@ -159,11 +161,12 @@
               "RelativeToolTip": "04. List Operations\\Program.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAIwC8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:34:09.44Z"
+              "WhenOpened": "2024-04-26T15:34:09.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\07. Append Arrays\\Program.cs",
               "RelativeDocumentMoniker": "07. Append Arrays\\Program.cs",
@@ -171,11 +174,12 @@
               "RelativeToolTip": "07. Append Arrays\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:34:09.449Z"
+              "WhenOpened": "2024-04-26T15:34:09.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\06. Cards Game\\Program.cs",
               "RelativeDocumentMoniker": "06. Cards Game\\Program.cs",
@@ -183,11 +187,12 @@
               "RelativeToolTip": "06. Cards Game\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:34:09.433Z"
+              "WhenOpened": "2024-04-26T15:34:09.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\03. House Party\\Program.cs",
               "RelativeDocumentMoniker": "03. House Party\\Program.cs",
@@ -199,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\10. SoftUni Course Planning\\Program.cs",
               "RelativeDocumentMoniker": "10. SoftUni Course Planning\\Program.cs",
@@ -211,15 +216,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\09. Pokemon Don\u0027t Go\\Program.cs",
               "RelativeDocumentMoniker": "09. Pokemon Don\u0027t Go\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\14 Lists - Exercise\\09. Pokemon Don\u0027t Go\\Program.cs",
               "RelativeToolTip": "09. Pokemon Don\u0027t Go\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:34:09.485Z"
+              "WhenOpened": "2024-04-26T15:34:09.485Z",
+              "EditorCaption": ""
             }
           ]
         }

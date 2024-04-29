@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Change List Second Solution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f1dda9795d57d8f684fb59075fabe7ce230e1d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f83c84eb720f12331045ab1857c68d69c5f06ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Change List Second Solution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Change List Second Solution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
