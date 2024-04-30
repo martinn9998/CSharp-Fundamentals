@@ -92,26 +92,31 @@
                 lessons.Remove(removeLessonName);
             }
         }
-        static void SwapTwoLessons(List<string> lessons,
+        public static void SwapTwoLessons(List<string> lessons,
             string firstLessonToSwap, string secondLessonToSwap)
         {
             bool isFirstExisiting = false;
             bool isSecondExisiting = false;
-            int indexOffFirst = 0;
-            int indexOffSecond = 0;
+            int indexOfFirst = 0;
+            int indexOfSecond = 0;
             for (int i = 0; i < lessons.Count; i++)
             {
                 if (lessons[i] == firstLessonToSwap)
                 {
                     isFirstExisiting = true;
-                    indexOffFirst = lessons.IndexOf(firstLessonToSwap);
+                    indexOfFirst = lessons.IndexOf(firstLessonToSwap);
+                }
+                if (lessons[i] == secondLessonToSwap)
+                {
+                    isSecondExisiting = true;
+                    indexOfSecond = lessons.IndexOf(secondLessonToSwap);
                 }
             }
             if (isFirstExisiting && isSecondExisiting)
             {
-                string temp = lessons[indexOffFirst];
-                lessons[indexOffFirst] = lessons[indexOffSecond];
-                lessons[indexOffFirst] = temp;
+                string temp = lessons[indexOfFirst];
+                lessons[indexOfFirst] = lessons[indexOfSecond];
+                lessons[indexOfFirst] = temp;
             }
         }
         static void AddingExercise(List<string> lessons,
