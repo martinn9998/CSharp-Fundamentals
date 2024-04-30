@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\18 Objects and Classes - More Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9163D2-0894-4145-8BFF-0A1A2AD4A265}|01. Company Roster\\01. Company Roster.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\18 objects and classes - more exercise\\01. company roster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9163D2-0894-4145-8BFF-0A1A2AD4A265}|01. Company Roster\\01. Company Roster.csproj|solutionrelative:01. company roster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BFE108-7676-44DB-9B0E-3B5B178003C1}|04. Raw Data\\04. Raw Data.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\18 objects and classes - more exercise\\04. raw data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BFE108-7676-44DB-9B0E-3B5B178003C1}|04. Raw Data\\04. Raw Data.csproj|solutionrelative:04. raw data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E714B6B-8CB2-47FF-8172-4963990336E9}|05. Shopping Spree\\05. Shopping Spree.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\18 objects and classes - more exercise\\05. shopping spree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E714B6B-8CB2-47FF-8172-4963990336E9}|05. Shopping Spree\\05. Shopping Spree.csproj|solutionrelative:05. shopping spree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED74E90D-5BB6-4314-B88D-3B039B836612}|03. Speed Racing\\03. Speed Racing.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\18 objects and classes - more exercise\\03. speed racing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED74E90D-5BB6-4314-B88D-3B039B836612}|03. Speed Racing\\03. Speed Racing.csproj|solutionrelative:03. speed racing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324F13BD-1EBB-44D3-BA38-949E4883E8B3}|02. Oldest Family Member\\02. Oldest Family Member.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\18 objects and classes - more exercise\\02. oldest family member\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324F13BD-1EBB-44D3-BA38-949E4883E8B3}|02. Oldest Family Member\\02. Oldest Family Member.csproj|solutionrelative:02. oldest family member\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\18 Objects and Classes - More Exercise\\05. Shopping Spree\\Program.cs",
+              "RelativeDocumentMoniker": "05. Shopping Spree\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\18 Objects and Classes - More Exercise\\05. Shopping Spree\\Program.cs",
+              "RelativeToolTip": "05. Shopping Spree\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:47:34.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\18 Objects and Classes - More Exercise\\04. Raw Data\\Program.cs",
+              "RelativeDocumentMoniker": "04. Raw Data\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\18 Objects and Classes - More Exercise\\04. Raw Data\\Program.cs",
+              "RelativeToolTip": "04. Raw Data\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:47:34.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\18 Objects and Classes - More Exercise\\03. Speed Racing\\Program.cs",
+              "RelativeDocumentMoniker": "03. Speed Racing\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\18 Objects and Classes - More Exercise\\03. Speed Racing\\Program.cs",
+              "RelativeToolTip": "03. Speed Racing\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwFoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:47:34.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\18 Objects and Classes - More Exercise\\02. Oldest Family Member\\Program.cs",
+              "RelativeDocumentMoniker": "02. Oldest Family Member\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\18 Objects and Classes - More Exercise\\02. Oldest Family Member\\Program.cs",
+              "RelativeToolTip": "02. Oldest Family Member\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA2wDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:47:34.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\18 Objects and Classes - More Exercise\\01. Company Roster\\Program.cs",
+              "RelativeDocumentMoniker": "01. Company Roster\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\18 Objects and Classes - More Exercise\\01. Company Roster\\Program.cs",
+              "RelativeToolTip": "01. Company Roster\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:47:34.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,49 +2,77 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace OrderByAge
+namespace CompanyRoster
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string input;
+            int employeesCount = int.Parse(Console.ReadLine());
 
-            var personsList = new List<PersonInfo>();
+            var empList = new List<Employee>();
+            var depList = new List<string>();
 
-            while ((input = Console.ReadLine()) != "End")
+            for (int i = 0; i < employeesCount; i++)
             {
-                var splitInput = input
+                var input = Console
+                    .ReadLine()
                     .Split()
                     .ToList();
 
-                string name = splitInput[0];
-                string ID = splitInput[1];
-                int age = int.Parse(splitInput[2]);
+                string name = input[0];
+                double salary = double.Parse(input[1]);
+                string department = input[2];
 
-                PersonInfo personInfo = new PersonInfo(name, ID, age);
+                Employee employee = new Employee(name, salary, department);
 
-                personsList.Add(personInfo);
+                empList.Add(employee);
+                depList.Add(department);
             }
 
-            foreach (var person in personsList.OrderBy(x => x.Age))
+            depList = depList
+                .Distinct()
+                .ToList();
+
+            double highestSalary = 0;
+            string maxSalaryDep = "";
+
+            foreach (var item in depList)
             {
-                Console.WriteLine($"{person.Name} with ID: {person.ID} is {person.Age} years old.");
+                double averageSalary = empList
+                    .Where(x => x.Department == item)
+                    .Select(x => x.Salary)
+                    .Average();
+
+                if (averageSalary > highestSalary)
+                {
+                    highestSalary = averageSalary;
+                    maxSalaryDep = item;
+                }
+            }
+
+            Console.WriteLine($"Highest Average Salary: {maxSalaryDep}");
+
+            foreach (var item in empList
+                .Where(x => x.Department == maxSalaryDep)
+                .OrderByDescending(x => x.Salary))
+            {
+                Console.WriteLine($"{item.Name} {item.Salary:f2}");
             }
         }
     }
 
-    class PersonInfo
+    public class Employee
     {
         public string Name { get; set; }
-        public string ID { get; set; }
-        public int Age { get; set; }
+        public double Salary { get; set; }
+        public string Department { get; set; }
 
-        public PersonInfo(string name, string ID, int age)
+        public Employee(string name, double salary, string department)
         {
             this.Name = name;
-            this.ID = ID;
-            this.Age = age;
+            this.Salary = salary;
+            this.Department = department;
         }
     }
 }
