@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net6.0\06. Store Boxes.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net6.0\06. Store Boxes.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net6.0\06. Store Boxes.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net6.0\06. Store Boxes.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net6.0\06. Store Boxes.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net6.0\refint\06. Store Boxes.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net6.0\06. Store Boxes.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net6.0\ref\06. Store Boxes.dll
