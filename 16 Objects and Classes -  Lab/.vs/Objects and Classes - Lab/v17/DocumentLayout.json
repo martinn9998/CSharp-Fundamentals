@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC054B28-A682-4413-81BD-46AC7CE2EC0E}|07. Vehicle Catalogue\\07. Vehicle Catalogue.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\16 objects and classes -  lab\\07. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC054B28-A682-4413-81BD-46AC7CE2EC0E}|07. Vehicle Catalogue\\07. Vehicle Catalogue.csproj|solutionrelative:07. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BDB446-3B0F-45C0-98F1-0650BC290EE0}|06. Store Boxes\\06. Store Boxes.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\16 objects and classes -  lab\\06. store boxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BDB446-3B0F-45C0-98F1-0650BC290EE0}|06. Store Boxes\\06. Store Boxes.csproj|solutionrelative:06. store boxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9585FAD6-0B8C-4D76-B68E-B68579595BD2}|05. Students 2.0\\05. Students 2.0.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\16 objects and classes -  lab\\05. students 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9585FAD6-0B8C-4D76-B68E-B68579595BD2}|05. Students 2.0\\05. Students 2.0.csproj|solutionrelative:05. students 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F39B7-079D-4FE0-B724-8CC719D51DFD}|04. Students\\04. Students.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\16 objects and classes -  lab\\04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F39B7-079D-4FE0-B724-8CC719D51DFD}|04. Students\\04. Students.csproj|solutionrelative:04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E7D9BF-EA9C-47C5-A632-32682E42E657}|03. Songs\\03. Songs.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\16 objects and classes -  lab\\03. songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E7D9BF-EA9C-47C5-A632-32682E42E657}|03. Songs\\03. Songs.csproj|solutionrelative:03. songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB5BDF0-3CDA-488A-BE17-4F9A434446E9}|02. Big Factorial\\02. Big Factorial.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\16 objects and classes -  lab\\02. big factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB5BDF0-3CDA-488A-BE17-4F9A434446E9}|02. Big Factorial\\02. Big Factorial.csproj|solutionrelative:02. big factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8AEE82-3D6E-4A29-9604-75FEAEA0AD9D}|01. Randomize Words\\01. Randomize Words.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\16 objects and classes -  lab\\01. randomize words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8AEE82-3D6E-4A29-9604-75FEAEA0AD9D}|01. Randomize Words\\01. Randomize Words.csproj|solutionrelative:01. randomize words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8AEE82-3D6E-4A29-9604-75FEAEA0AD9D}|01. Randomize Words\\01. Randomize Words.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\16 objects and classes -  lab\\01. randomize words\\01. randomize words.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F8AEE82-3D6E-4A29-9604-75FEAEA0AD9D}|01. Randomize Words\\01. Randomize Words.csproj|solutionrelative:01. randomize words\\01. randomize words.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\03. Songs\\Program.cs",
+              "RelativeDocumentMoniker": "03. Songs\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\03. Songs\\Program.cs",
+              "RelativeToolTip": "03. Songs\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:08:11.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\04. Students\\Program.cs",
+              "RelativeDocumentMoniker": "04. Students\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\04. Students\\Program.cs",
+              "RelativeToolTip": "04. Students\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:08:11.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\05. Students 2.0\\Program.cs",
+              "RelativeDocumentMoniker": "05. Students 2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\05. Students 2.0\\Program.cs",
+              "RelativeToolTip": "05. Students 2.0\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwE8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:08:11.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\06. Store Boxes\\Program.cs",
+              "RelativeDocumentMoniker": "06. Store Boxes\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\06. Store Boxes\\Program.cs",
+              "RelativeToolTip": "06. Store Boxes\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:08:11.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\07. Vehicle Catalogue\\Program.cs",
+              "RelativeDocumentMoniker": "07. Vehicle Catalogue\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\07. Vehicle Catalogue\\Program.cs",
+              "RelativeToolTip": "07. Vehicle Catalogue\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:08:11.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\02. Big Factorial\\Program.cs",
+              "RelativeDocumentMoniker": "02. Big Factorial\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\02. Big Factorial\\Program.cs",
+              "RelativeToolTip": "02. Big Factorial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:08:11.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\01. Randomize Words\\Program.cs",
+              "RelativeDocumentMoniker": "01. Randomize Words\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\01. Randomize Words\\Program.cs",
+              "RelativeToolTip": "01. Randomize Words\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:08:11.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "01. Randomize Words.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\01. Randomize Words\\01. Randomize Words.csproj",
+              "RelativeDocumentMoniker": "01. Randomize Words\\01. Randomize Words.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\16 Objects and Classes -  Lab\\01. Randomize Words\\01. Randomize Words.csproj",
+              "RelativeToolTip": "01. Randomize Words\\01. Randomize Words.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T14:08:10.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

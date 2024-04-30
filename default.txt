@@ -1,61 +1,74 @@
 ﻿﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
-namespace DrumSet
+namespace AdvertisementMessage
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double savings = double.Parse(Console.ReadLine());
-
-            List<int> drumSet = Console
-                .ReadLine()
-                .Split()
-                .Select(int.Parse)
-                .ToList();
-
-            List<int> drumSetCopy = new List<int>();
-
-            for (int i = 0; i < drumSet.Count; i++)
+            var phrases = new List<string>
             {
-                drumSetCopy.Add(drumSet[i]);
-            }
+                "Excellent product. ",
+                "Such a great product. ",
+                "I always use that product. ",
+                "Best product of its category. ",
+                "Exceptional product. ",
+                "I can’t live without this product. "
+            };
 
-            string command;
-            
-            while ((command = Console.ReadLine()) != "Hit it again, Gabsy!")
+            var events = new List<string>
             {
-                int hitPower = int.Parse(command);
+                "Now I feel good. ",
+                "I have succeeded with this product. ",
+                "Makes miracles. I am happy of the results! ",
+                "I cannot believe but now I feel awesome. ",
+                "Try it yourself, I am very satisfied. ",
+                "I feel great! "
+            };
 
-                for (int i = 0; i < drumSetCopy.Count; i++)
-                {
-                    drumSetCopy[i] -= hitPower;
-                    if (drumSetCopy[i] <= 0)
-                    {
-                        int price = drumSet[i] * 3;
+            var authors = new List<string>
+            {
+                "Diana - ",
+                "Petya - ",
+                "Stella - ",
+                "Elena - ",
+                "Katya - ",
+                "Iva - ",
+                "Annie - ",
+                "Eva - "
+            };
 
-                        if (savings >= price)
-                        {
-                            savings -= price;
-                            drumSetCopy[i] = drumSet[i];
-                        }
-                    }
-                }
+            var cities = new List<string>
+            {
+                "Burgas",
+                "Sofia",
+                "Plovdiv",
+                "Varna",
+                "Ruse"
+            };
 
-                for (int i = 0; i < drumSetCopy.Count; i++)
-                {
-                    if (drumSetCopy[i] <= 0)
-                    {
-                        drumSet.Remove(drumSet[i]);
-                        drumSetCopy.Remove(drumSetCopy[i]);
-                    }
-                }
+
+            int messagesCount = int.Parse(Console.ReadLine());
+            var random = new Random();
+
+            for (int i = 0; i < messagesCount; i++)
+            {
+                string message = string.Empty;
+                int rand = random.Next(0, phrases.Count);
+                message += phrases[rand];
+
+                rand = random.Next(0, events.Count);
+                message += events[rand];
+
+                rand = random.Next(0, authors.Count);
+                message += authors[rand];
+
+                rand = random.Next(0, cities.Count);
+                message += cities[rand];
+
+                Console.WriteLine(message);
             }
-
-            Console.WriteLine(string.Join(" ", drumSetCopy));
-            Console.WriteLine($"Gabsy has {savings:f2}lv.");
         }
     }
 }
