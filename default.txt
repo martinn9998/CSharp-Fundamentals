@@ -1,74 +1,50 @@
 ﻿﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
-namespace AdvertisementMessage
+namespace OrderByAge
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var phrases = new List<string>
+            string input;
+
+            var personsList = new List<PersonInfo>();
+
+            while ((input = Console.ReadLine()) != "End")
             {
-                "Excellent product. ",
-                "Such a great product. ",
-                "I always use that product. ",
-                "Best product of its category. ",
-                "Exceptional product. ",
-                "I can’t live without this product. "
-            };
+                var splitInput = input
+                    .Split()
+                    .ToList();
 
-            var events = new List<string>
-            {
-                "Now I feel good. ",
-                "I have succeeded with this product. ",
-                "Makes miracles. I am happy of the results! ",
-                "I cannot believe but now I feel awesome. ",
-                "Try it yourself, I am very satisfied. ",
-                "I feel great! "
-            };
+                string name = splitInput[0];
+                string ID = splitInput[1];
+                int age = int.Parse(splitInput[2]);
 
-            var authors = new List<string>
-            {
-                "Diana - ",
-                "Petya - ",
-                "Stella - ",
-                "Elena - ",
-                "Katya - ",
-                "Iva - ",
-                "Annie - ",
-                "Eva - "
-            };
+                PersonInfo personInfo = new PersonInfo(name, ID, age);
 
-            var cities = new List<string>
-            {
-                "Burgas",
-                "Sofia",
-                "Plovdiv",
-                "Varna",
-                "Ruse"
-            };
-
-
-            int messagesCount = int.Parse(Console.ReadLine());
-            var random = new Random();
-
-            for (int i = 0; i < messagesCount; i++)
-            {
-                string message = string.Empty;
-                int rand = random.Next(0, phrases.Count);
-                message += phrases[rand];
-
-                rand = random.Next(0, events.Count);
-                message += events[rand];
-
-                rand = random.Next(0, authors.Count);
-                message += authors[rand];
-
-                rand = random.Next(0, cities.Count);
-                message += cities[rand];
-
-                Console.WriteLine(message);
+                personsList.Add(personInfo);
             }
+
+            foreach (var person in personsList.OrderBy(x => x.Age))
+            {
+                Console.WriteLine($"{person.Name} with ID: {person.ID} is {person.Age} years old.");
+            }
+        }
+    }
+
+    class PersonInfo
+    {
+        public string Name { get; set; }
+        public string ID { get; set; }
+        public int Age { get; set; }
+
+        public PersonInfo(string name, string ID, int age)
+        {
+            this.Name = name;
+            this.ID = ID;
+            this.Age = age;
         }
     }
 }

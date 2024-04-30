@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79395089-0AD1-434E-910A-59384AE34AA0}|07. Order by Age\\07. Order by Age.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\17 objects and classes - exercise\\07. order by age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79395089-0AD1-434E-910A-59384AE34AA0}|07. Order by Age\\07. Order by Age.csproj|solutionrelative:07. order by age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928A97F5-F178-4BA1-981F-BD6178152A30}|06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\17 objects and classes - exercise\\06. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928A97F5-F178-4BA1-981F-BD6178152A30}|06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj|solutionrelative:06. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA96149A-F3BD-41C0-A051-B267D68BCF6F}|05. Teamwork Projects\\05. Teamwork Projects.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\17 objects and classes - exercise\\05. teamwork projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA96149A-F3BD-41C0-A051-B267D68BCF6F}|05. Teamwork Projects\\05. Teamwork Projects.csproj|solutionrelative:05. teamwork projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F50187C-94EA-412E-B187-D1083289BA00}|03. Articles 2.0\\03. Articles 2.0.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\17 objects and classes - exercise\\03. articles 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F50187C-94EA-412E-B187-D1083289BA00}|03. Articles 2.0\\03. Articles 2.0.csproj|solutionrelative:03. articles 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B59B2BB-299F-40FF-8F3C-D5EC512771D6}|02. Articles\\02. Articles.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\17 objects and classes - exercise\\02. articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B59B2BB-299F-40FF-8F3C-D5EC512771D6}|02. Articles\\02. Articles.csproj|solutionrelative:02. articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247BDC59-4EAB-4E8C-8963-274D69B80F39}|01. Advertisement Message\\01. Advertisement Message.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\17 objects and classes - exercise\\01. advertisement message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247BDC59-4EAB-4E8C-8963-274D69B80F39}|01. Advertisement Message\\01. Advertisement Message.csproj|solutionrelative:01. advertisement message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8917356-33D7-49E4-BA60-7D5B2B086FDE}|04. Students\\04. Students.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\17 objects and classes - exercise\\04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8917356-33D7-49E4-BA60-7D5B2B086FDE}|04. Students\\04. Students.csproj|solutionrelative:04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C24CF5E-C857-493C-88DB-EDA23554C7AE}|Demo\\Demo.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\17 objects and classes - exercise\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C24CF5E-C857-493C-88DB-EDA23554C7AE}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\05. Teamwork Projects\\Program.cs",
+              "RelativeDocumentMoniker": "05. Teamwork Projects\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\05. Teamwork Projects\\Program.cs",
+              "RelativeToolTip": "05. Teamwork Projects\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwHYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:36:09.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\02. Articles\\Program.cs",
+              "RelativeDocumentMoniker": "02. Articles\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\02. Articles\\Program.cs",
+              "RelativeToolTip": "02. Articles\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:36:09.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\03. Articles 2.0\\Program.cs",
+              "RelativeDocumentMoniker": "03. Articles 2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\03. Articles 2.0\\Program.cs",
+              "RelativeToolTip": "03. Articles 2.0\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwCoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:36:09.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\06. Vehicle Catalogue\\Program.cs",
+              "RelativeDocumentMoniker": "06. Vehicle Catalogue\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\06. Vehicle Catalogue\\Program.cs",
+              "RelativeToolTip": "06. Vehicle Catalogue\\Program.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAmwGQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:36:09.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\07. Order by Age\\Program.cs",
+              "RelativeDocumentMoniker": "07. Order by Age\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\07. Order by Age\\Program.cs",
+              "RelativeToolTip": "07. Order by Age\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:36:09.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\01. Advertisement Message\\Program.cs",
+              "RelativeDocumentMoniker": "01. Advertisement Message\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\01. Advertisement Message\\Program.cs",
+              "RelativeToolTip": "01. Advertisement Message\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:36:09.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\04. Students\\Program.cs",
+              "RelativeDocumentMoniker": "04. Students\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\04. Students\\Program.cs",
+              "RelativeToolTip": "04. Students\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:36:09.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\17 Objects and Classes - Exercise\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:36:09.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
