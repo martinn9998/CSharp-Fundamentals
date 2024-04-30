@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07. Append Arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f21df327ac4d961f0181170ba067ea9969abe44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf590506d33c62f66ba92a16b3a77fb72f88249f")]
 [assembly: System.Reflection.AssemblyProductAttribute("07. Append Arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07. Append Arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -83,7 +83,8 @@ namespace SoftUniCoursePlanning
             }
         }
 
-        static void RemovingLesson(List<string> lessons, string removeLessonName)
+        static void RemovingLesson(List<string> lessons,
+               string removeLessonName)
         {
             bool isExisting = false;
             for (int i = 0; i < lessons.Count; i++)
@@ -101,7 +102,8 @@ namespace SoftUniCoursePlanning
             }
         }
 
-        public static void SwapTwoLessons(List<string> lessons, string firstLessonToSwap, string secondLessonToSwap)
+        public static void SwapTwoLessons(List<string> lessons, 
+string firstLessonToSwap, string secondLessonToSwap)
         {
             bool isFirstExisting = false;
             bool isSecondExisting = false;
@@ -135,7 +137,8 @@ namespace SoftUniCoursePlanning
             }
         }
 
-        static void AddingExercise(List<string> lessons, string exerciseToBeAdded, string exercise)
+        static void AddingExercise(List<string> lessons, 
+string exerciseToBeAdded, string exercise)
         {
             bool isExisting = false;
             int indexOfLesson = 0;
