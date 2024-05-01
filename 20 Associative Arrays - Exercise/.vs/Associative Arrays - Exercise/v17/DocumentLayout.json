@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76607619-A543-458F-A14C-7379C9B8178A}|01. Count Chars in a String\\01. Count Chars in a String.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\20 associative arrays - exercise\\01. count chars in a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76607619-A543-458F-A14C-7379C9B8178A}|01. Count Chars in a String\\01. Count Chars in a String.csproj|solutionrelative:01. count chars in a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7941430-0EEA-464E-8E06-11732AC92177}|07. Company Users\\07. Company Users.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\20 associative arrays - exercise\\07. company users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7941430-0EEA-464E-8E06-11732AC92177}|07. Company Users\\07. Company Users.csproj|solutionrelative:07. company users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B628D-F5DE-4AE3-82D9-7236460E298F}|06. Student Academy\\06. Student Academy.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\20 associative arrays - exercise\\06. student academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD6B628D-F5DE-4AE3-82D9-7236460E298F}|06. Student Academy\\06. Student Academy.csproj|solutionrelative:06. student academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FF6AA25-0E6A-4E39-9040-E9D2D0FA1D89}|05. Courses\\05. Courses.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\20 associative arrays - exercise\\05. courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FF6AA25-0E6A-4E39-9040-E9D2D0FA1D89}|05. Courses\\05. Courses.csproj|solutionrelative:05. courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,6 +17,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{8DFD8EFE-3115-4F9A-83F0-6AA7C8E13916}|02. A Miner Task\\02. A Miner Task.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\20 associative arrays - exercise\\02. a miner task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DFD8EFE-3115-4F9A-83F0-6AA7C8E13916}|02. A Miner Task\\02. A Miner Task.csproj|solutionrelative:02. a miner task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76607619-A543-458F-A14C-7379C9B8178A}|01. Count Chars in a String\\01. Count Chars in a String.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\20 associative arrays - exercise\\01. count chars in a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76607619-A543-458F-A14C-7379C9B8178A}|01. Count Chars in a String\\01. Count Chars in a String.csproj|solutionrelative:01. count chars in a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7941430-0EEA-464E-8E06-11732AC92177}|07. Company Users\\07. Company Users.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\20 associative arrays - exercise\\07. company users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7941430-0EEA-464E-8E06-11732AC92177}|07. Company Users\\07. Company Users.csproj|solutionrelative:07. company users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B628D-F5DE-4AE3-82D9-7236460E298F}|06. Student Academy\\06. Student Academy.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\20 associative arrays - exercise\\06. student academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6B628D-F5DE-4AE3-82D9-7236460E298F}|06. Student Academy\\06. Student Academy.csproj|solutionrelative:06. student academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,31 +44,57 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\05. Courses\\Program.cs",
-              "RelativeDocumentMoniker": "05. Courses\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\05. Courses\\Program.cs",
-              "RelativeToolTip": "05. Courses\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\02. A Miner Task\\Program.cs",
+              "RelativeDocumentMoniker": "02. A Miner Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\02. A Miner Task\\Program.cs",
+              "RelativeToolTip": "02. A Miner Task\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T05:27:38.291Z",
+              "WhenOpened": "2024-05-01T05:27:38.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\06. Student Academy\\Program.cs",
-              "RelativeDocumentMoniker": "06. Student Academy\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\06. Student Academy\\Program.cs",
-              "RelativeToolTip": "06. Student Academy\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\03. Orders\\Program.cs",
+              "RelativeDocumentMoniker": "03. Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\03. Orders\\Program.cs",
+              "RelativeToolTip": "03. Orders\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T05:27:38.35Z",
+              "WhenOpened": "2024-05-01T05:27:38.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\04. SoftUni Parking\\Program.cs",
+              "RelativeDocumentMoniker": "04. SoftUni Parking\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\04. SoftUni Parking\\Program.cs",
+              "RelativeToolTip": "04. SoftUni Parking\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:27:38.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\05. Courses\\Program.cs",
+              "RelativeDocumentMoniker": "05. Courses\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\05. Courses\\Program.cs",
+              "RelativeToolTip": "05. Courses\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:27:38.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\07. Company Users\\Program.cs",
               "RelativeDocumentMoniker": "07. Company Users\\Program.cs",
@@ -76,12 +102,23 @@
               "RelativeToolTip": "07. Company Users\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T05:27:38.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T05:27:38.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\06. Student Academy\\Program.cs",
+              "RelativeDocumentMoniker": "06. Student Academy\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\06. Student Academy\\Program.cs",
+              "RelativeToolTip": "06. Student Academy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:27:38.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\01. Count Chars in a String\\Program.cs",
               "RelativeDocumentMoniker": "01. Count Chars in a String\\Program.cs",
@@ -90,45 +127,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T05:27:38.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\04. SoftUni Parking\\Program.cs",
-              "RelativeDocumentMoniker": "04. SoftUni Parking\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\04. SoftUni Parking\\Program.cs",
-              "RelativeToolTip": "04. SoftUni Parking\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T05:27:38.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\03. Orders\\Program.cs",
-              "RelativeDocumentMoniker": "03. Orders\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\03. Orders\\Program.cs",
-              "RelativeToolTip": "03. Orders\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T05:27:38.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\02. A Miner Task\\Program.cs",
-              "RelativeDocumentMoniker": "02. A Miner Task\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\20 Associative Arrays - Exercise\\02. A Miner Task\\Program.cs",
-              "RelativeToolTip": "02. A Miner Task\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T05:27:38.528Z",
               "EditorCaption": ""
             }
           ]
