@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\bin\Debug\net6.0\07. String Explosion.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\bin\Debug\net6.0\07. String Explosion.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\bin\Debug\net6.0\07. String Explosion.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\bin\Debug\net6.0\07. String Explosion.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\bin\Debug\net6.0\07. String Explosion.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\obj\Debug\net6.0\refint\07. String Explosion.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\obj\Debug\net6.0\07. String Explosion.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\07. String Explosion\obj\Debug\net6.0\ref\07. String Explosion.dll
