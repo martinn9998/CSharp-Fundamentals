@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\19  Associative Arrays - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10810C0B-2714-4E16-96C0-081C991F2E00}|04. Word Filter\\04. Word Filter.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\19  associative arrays - lab\\04. word filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10810C0B-2714-4E16-96C0-081C991F2E00}|04. Word Filter\\04. Word Filter.csproj|solutionrelative:04. word filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E571D208-4409-440A-9D9F-3B95ACB7373D}|03. Word Synonyms\\03. Word Synonyms.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\19  associative arrays - lab\\03. word synonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E571D208-4409-440A-9D9F-3B95ACB7373D}|03. Word Synonyms\\03. Word Synonyms.csproj|solutionrelative:03. word synonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D24EF6-E7FB-44B6-A126-1D072C4920EE}|02. Odd Occurrences\\02. Odd Occurrences.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\19  associative arrays - lab\\02. odd occurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D24EF6-E7FB-44B6-A126-1D072C4920EE}|02. Odd Occurrences\\02. Odd Occurrences.csproj|solutionrelative:02. odd occurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1056A4-F655-4D4A-9AAD-FD7097932FBB}|01. Count Real Numbers\\01. Count Real Numbers.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\19  associative arrays - lab\\01. count real numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1056A4-F655-4D4A-9AAD-FD7097932FBB}|01. Count Real Numbers\\01. Count Real Numbers.csproj|solutionrelative:01. count real numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\19  Associative Arrays - Lab\\04. Word Filter\\Program.cs",
+              "RelativeDocumentMoniker": "04. Word Filter\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\19  Associative Arrays - Lab\\04. Word Filter\\Program.cs",
+              "RelativeToolTip": "04. Word Filter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:20:38.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\19  Associative Arrays - Lab\\03. Word Synonyms\\Program.cs",
+              "RelativeDocumentMoniker": "03. Word Synonyms\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\19  Associative Arrays - Lab\\03. Word Synonyms\\Program.cs",
+              "RelativeToolTip": "03. Word Synonyms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:20:38.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\19  Associative Arrays - Lab\\02. Odd Occurrences\\Program.cs",
+              "RelativeDocumentMoniker": "02. Odd Occurrences\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\19  Associative Arrays - Lab\\02. Odd Occurrences\\Program.cs",
+              "RelativeToolTip": "02. Odd Occurrences\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:20:38.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\19  Associative Arrays - Lab\\01. Count Real Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. Count Real Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\19  Associative Arrays - Lab\\01. Count Real Numbers\\Program.cs",
+              "RelativeToolTip": "01. Count Real Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:20:38.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
