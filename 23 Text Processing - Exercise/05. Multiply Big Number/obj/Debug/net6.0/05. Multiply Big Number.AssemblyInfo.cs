@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05. Multiply Big Number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56bb85f4b3c612521c25dc225a639b45eb4c634c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fcfa04eee2500fa370a3fc21c7a536c3010aaba")]
 [assembly: System.Reflection.AssemblyProductAttribute("05. Multiply Big Number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05. Multiply Big Number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

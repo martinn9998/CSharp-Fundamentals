@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03. Substring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1f992b552e3061e5b8121bac38e3c7c2e503575")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d40739608a76a12a743d661e919755c3d710bcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("03. Substring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03. Substring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

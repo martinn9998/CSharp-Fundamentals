@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\01. Reverse Strings\\01. Reverse Strings.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\01. Reverse Strings\\01. Reverse Strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\01. Reverse Strings\\01. Reverse Strings.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\01. Reverse Strings\\01. Reverse Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\01. Reverse Strings\\01. Reverse Strings.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\01. Reverse Strings\\01. Reverse Strings.csproj",
         "projectName": "01. Reverse Strings",
-        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\01. Reverse Strings\\01. Reverse Strings.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\01. Reverse Strings\\obj\\",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\01. Reverse Strings\\01. Reverse Strings.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\01. Reverse Strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

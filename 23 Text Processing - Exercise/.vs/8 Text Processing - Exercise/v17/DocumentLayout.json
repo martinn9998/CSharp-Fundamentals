@@ -42,19 +42,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\23 Text Processing - Exercise\\04. Caesar Cipher\\Program.cs",
-              "RelativeDocumentMoniker": "04. Caesar Cipher\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\23 Text Processing - Exercise\\04. Caesar Cipher\\Program.cs",
-              "RelativeToolTip": "04. Caesar Cipher\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\23 Text Processing - Exercise\\06. Replace Repeating Chars\\Program.cs",
+              "RelativeDocumentMoniker": "06. Replace Repeating Chars\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\23 Text Processing - Exercise\\06. Replace Repeating Chars\\Program.cs",
+              "RelativeToolTip": "06. Replace Repeating Chars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:24:32.709Z",
+              "WhenOpened": "2024-05-01T13:24:32.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\23 Text Processing - Exercise\\08. Letters Change Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "08. Letters Change Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\23 Text Processing - Exercise\\08. Letters Change Numbers\\Program.cs",
+              "RelativeToolTip": "08. Letters Change Numbers\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:24:32.884Z",
               "EditorCaption": ""
             },
             {
@@ -67,21 +79,7 @@
               "RelativeToolTip": "05. Multiply Big Number\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:24:32.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\23 Text Processing - Exercise\\06. Replace Repeating Chars\\Program.cs",
-              "RelativeDocumentMoniker": "06. Replace Repeating Chars\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\23 Text Processing - Exercise\\06. Replace Repeating Chars\\Program.cs",
-              "RelativeToolTip": "06. Replace Repeating Chars\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:24:32.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:24:32.84Z"
             },
             {
               "$type": "Document",
@@ -93,21 +91,19 @@
               "RelativeToolTip": "07. String Explosion\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:24:32.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:24:32.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\23 Text Processing - Exercise\\08. Letters Change Numbers\\Program.cs",
-              "RelativeDocumentMoniker": "08. Letters Change Numbers\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\23 Text Processing - Exercise\\08. Letters Change Numbers\\Program.cs",
-              "RelativeToolTip": "08. Letters Change Numbers\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\23 Text Processing - Exercise\\04. Caesar Cipher\\Program.cs",
+              "RelativeDocumentMoniker": "04. Caesar Cipher\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\23 Text Processing - Exercise\\04. Caesar Cipher\\Program.cs",
+              "RelativeToolTip": "04. Caesar Cipher\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:24:32.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:24:32.709Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "03. Extract File\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:24:32.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:24:32.863Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "02. Character Multiplier\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAgwCcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:24:32.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:24:32.87Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "01. Valid Usernames\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwCYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:24:32.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:24:32.877Z"
             }
           ]
         }

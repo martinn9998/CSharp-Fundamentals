@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F9635D-3CC4-49BD-88B7-65722131132C}|05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\22 text processing - lab\\05. digits, letters and other\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F9635D-3CC4-49BD-88B7-65722131132C}|05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj|solutionrelative:05. digits, letters and other\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DEDDB4-383E-48D3-B3E2-1DF025B1BCBD}|04. Text Filter\\04. Text Filter.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\22 text processing - lab\\04. text filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DEDDB4-383E-48D3-B3E2-1DF025B1BCBD}|04. Text Filter\\04. Text Filter.csproj|solutionrelative:04. text filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43239748-36BE-4F48-88CE-237D7D412713}|03. Substring\\03. Substring.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\22 text processing - lab\\03. substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43239748-36BE-4F48-88CE-237D7D412713}|03. Substring\\03. Substring.csproj|solutionrelative:03. substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B412D-097F-4D5D-BEB0-6D2287FAACC6}|02. Repeat Strings\\02. Repeat Strings.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\22 text processing - lab\\02. repeat strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B412D-097F-4D5D-BEB0-6D2287FAACC6}|02. Repeat Strings\\02. Repeat Strings.csproj|solutionrelative:02. repeat strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B287C114-ACCC-4B17-AE17-50E39B09647A}|01. Reverse Strings\\01. Reverse Strings.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\22 text processing - lab\\01. reverse strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B287C114-ACCC-4B17-AE17-50E39B09647A}|01. Reverse Strings\\01. Reverse Strings.csproj|solutionrelative:01. reverse strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\04. Text Filter\\Program.cs",
+              "RelativeDocumentMoniker": "04. Text Filter\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\04. Text Filter\\Program.cs",
+              "RelativeToolTip": "04. Text Filter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:54:15.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\03. Substring\\Program.cs",
+              "RelativeDocumentMoniker": "03. Substring\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\03. Substring\\Program.cs",
+              "RelativeToolTip": "03. Substring\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:54:15.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\02. Repeat Strings\\Program.cs",
+              "RelativeDocumentMoniker": "02. Repeat Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\02. Repeat Strings\\Program.cs",
+              "RelativeToolTip": "02. Repeat Strings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:54:15.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\05. Digits, Letters and Other\\Program.cs",
+              "RelativeDocumentMoniker": "05. Digits, Letters and Other\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\05. Digits, Letters and Other\\Program.cs",
+              "RelativeToolTip": "05. Digits, Letters and Other\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:54:15.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\01. Reverse Strings\\Program.cs",
+              "RelativeDocumentMoniker": "01. Reverse Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\01. Reverse Strings\\Program.cs",
+              "RelativeToolTip": "01. Reverse Strings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:54:15.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
