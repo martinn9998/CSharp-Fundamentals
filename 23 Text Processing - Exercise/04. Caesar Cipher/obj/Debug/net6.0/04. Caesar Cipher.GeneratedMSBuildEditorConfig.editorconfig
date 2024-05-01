@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _04._Caesar_Cipher
-build_property.ProjectDir = C:\Users\Administrator\Desktop\CSharp\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Exercise\04. Caesar Cipher\
+build_property.ProjectDir = C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\23 Text Processing - Exercise\04. Caesar Cipher\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

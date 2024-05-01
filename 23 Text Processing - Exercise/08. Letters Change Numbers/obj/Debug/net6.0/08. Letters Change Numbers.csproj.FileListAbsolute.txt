@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\23 Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net6.0\08. Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\23 Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net6.0\08. Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\23 Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net6.0\08. Letters Change Numbers.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\23 Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net6.0\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\23 Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net6.0\08. Letters Change Numbers.sourcelink.json

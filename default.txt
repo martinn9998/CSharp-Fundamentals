@@ -1,32 +1,61 @@
 ﻿﻿using System;
+using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
-namespace ReverseStrings
+namespace LettersChangeNumbers
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string word;
+            List<string> str = Console
+                .ReadLine()
+                .Split(" ",StringSplitOptions.RemoveEmptyEntries)
+                .ToList();
 
-            var sb = new StringBuilder();
-            var sbTwo = new StringBuilder();
+            List<double> sums = new List<double>();
 
-            while ((word = Console.ReadLine()) != "end")
+
+            for (int i = 0; i < str.Count; i++)
             {
+                double currSum = 0;
+                string currStringNumber = "";
+                int numbersCount = 1;
 
-                for (int i = word.Length - 1; i >= 0; i--)
+                for (int j = 0; j < str[i].Length; j++)
                 {
-                    sbTwo.Append(word[i]);
+                    if (str[i][j] >= 48 && str[i][j] <= 57)
+                    {
+                        currStringNumber += str[i][j];
+                        numbersCount++;
+                    }
                 }
 
-                sb.AppendLine($"{word} = {sbTwo}");
+                double currNumber = double.Parse(currStringNumber);
+                currSum = currNumber;
 
-                sbTwo.Clear();
+                if (str[i][0] >= 65 && str[i][0] <= 90)
+                {
+                    currSum /= (str[i][0] - 64);
+                }
+                else
+                {
+                    currSum *= (str[i][0] - 96);
+                }
+
+                if (str[i][numbersCount] >= 65 && str[i][numbersCount] <= 90)
+                {
+                    currSum -= (str[i][numbersCount] - 64);
+                }
+                else
+                {
+                    currSum += (str[i][numbersCount] - 96);
+                }
+
+                sums.Add(currSum);
             }
 
-            Console.WriteLine(sb.ToString());
+            Console.WriteLine($"{sums.Sum():f2}");
         }
     }
 }
