@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _04._SoftUni_Parking
-build_property.ProjectDir = C:\Users\Administrator\Desktop\CSharp\CSharp\Fundamentals\C# Fundamentals\7 Associative Arrays - Exercise\04. SoftUni Parking\
+build_property.ProjectDir = C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\20 Associative Arrays - Exercise\04. SoftUni Parking\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
