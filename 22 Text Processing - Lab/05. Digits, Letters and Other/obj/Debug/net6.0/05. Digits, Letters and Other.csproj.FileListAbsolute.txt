@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\refint\05. Digits, Letters and Other.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\ref\05. Digits, Letters and Other.dll

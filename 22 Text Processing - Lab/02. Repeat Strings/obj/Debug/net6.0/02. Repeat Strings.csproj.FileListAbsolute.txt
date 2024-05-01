@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\refint\02. Repeat Strings.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\8 Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\ref\02. Repeat Strings.dll
