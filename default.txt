@@ -2,30 +2,46 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CountCharsInString
+namespace Courses
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string str = Console.ReadLine();
+            var dict = new Dictionary<string, List<string>>();
 
-            var dict = new Dictionary<char, int>();
+            string input;
 
-            for (int i = 0; i < str.Length; i++)
+            while ((input = Console.ReadLine()) != "end")
             {
-                if (str[i] != ' ')
-                {
-                    if (!dict.ContainsKey(str[i]))
-                    {
-                        dict[str[i]] = 0;
-                    }
+                List<string> courseArgs = input
+                    .Split(" : ")
+                    .ToList();
 
-                    dict[str[i]]++;
+                string courseName = courseArgs[0];
+                string studentName = courseArgs[1];
+
+                if (!dict.ContainsKey(courseName))
+                {
+                    dict[courseName] = new List<string>();
                 }
+
+                dict[courseName].Add(studentName);
             }
 
-            Console.WriteLine(string.Join(Environment.NewLine, dict.Select(x => $"{x.Key} -> {x.Value}")));
+            foreach (var item in dict.OrderByDescending(x => x.Value.Count()))
+
+            {
+                string courseName = item.Key;
+                int studsCount = item.Value.Count();
+
+                Console.WriteLine($"{courseName}: {studsCount}");
+
+                foreach (var studs in item.Value.OrderBy(x => x))
+                {
+                    Console.WriteLine($"-- {studs}");
+                }
+            }
         }
     }
 }
