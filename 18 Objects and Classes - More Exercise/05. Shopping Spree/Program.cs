@@ -24,7 +24,7 @@ namespace ShoppingSpree
                 double peopleMoney = double.Parse(people[i + 1]);
                 string productName = products[i];
                 double productCost = double.Parse(products[i + 1]);
-                Product product = new Product(productName, ProductCost);
+                Product product = new Product(productName, productCost);
                 Person person = new Person(name, peopleMoney, product);
                 peopleList.Add(person);
             }
@@ -40,7 +40,7 @@ namespace ShoppingSpree
                 {
                     if (item.Name == name)
                     {
-                        double currentBalance = item.Balance;
+                        double currentBalance = item.Money;
                         foreach (var item1 in peopleList)
                         {
                             if (item1.BagOfProducts.Name == product)
@@ -86,7 +86,7 @@ namespace ShoppingSpree
         {
             this.Name = name;
             this.Money = money;
-            this.ProductsBought = bagOfProducts;
+            this.BagOfPeoducts = bagOfProducts;
         }
     }
     class Product
