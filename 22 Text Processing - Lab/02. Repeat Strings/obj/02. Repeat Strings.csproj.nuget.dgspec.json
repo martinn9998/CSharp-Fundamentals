@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\8 Text Processing - Lab\\02. Repeat Strings\\02. Repeat Strings.csproj": {}
+    "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\02. Repeat Strings\\02. Repeat Strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\8 Text Processing - Lab\\02. Repeat Strings\\02. Repeat Strings.csproj": {
+    "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\02. Repeat Strings\\02. Repeat Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\8 Text Processing - Lab\\02. Repeat Strings\\02. Repeat Strings.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\02. Repeat Strings\\02. Repeat Strings.csproj",
         "projectName": "02. Repeat Strings",
-        "projectPath": "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\8 Text Processing - Lab\\02. Repeat Strings\\02. Repeat Strings.csproj",
-        "packagesPath": "C:\\Users\\Тотка\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\8 Text Processing - Lab\\02. Repeat Strings\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\02. Repeat Strings\\02. Repeat Strings.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\22 Text Processing - Lab\\02. Repeat Strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Тотка\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

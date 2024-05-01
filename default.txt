@@ -1,47 +1,32 @@
 ﻿﻿using System;
-using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 
-namespace Courses
+namespace ReverseStrings
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var dict = new Dictionary<string, List<string>>();
+            string word;
 
-            string input;
+            var sb = new StringBuilder();
+            var sbTwo = new StringBuilder();
 
-            while ((input = Console.ReadLine()) != "end")
+            while ((word = Console.ReadLine()) != "end")
             {
-                List<string> courseArgs = input
-                    .Split(" : ")
-                    .ToList();
 
-                string courseName = courseArgs[0];
-                string studentName = courseArgs[1];
-
-                if (!dict.ContainsKey(courseName))
+                for (int i = word.Length - 1; i >= 0; i--)
                 {
-                    dict[courseName] = new List<string>();
+                    sbTwo.Append(word[i]);
                 }
 
-                dict[courseName].Add(studentName);
+                sb.AppendLine($"{word} = {sbTwo}");
+
+                sbTwo.Clear();
             }
 
-            foreach (var item in dict.OrderByDescending(x => x.Value.Count()))
-
-            {
-                string courseName = item.Key;
-                int studsCount = item.Value.Count();
-
-                Console.WriteLine($"{courseName}: {studsCount}");
-
-                foreach (var studs in item.Value.OrderBy(x => x))
-                {
-                    Console.WriteLine($"-- {studs}");
-                }
-            }
+            Console.WriteLine(sb.ToString());
         }
     }
 }
