@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net6.0\refint\02. A Miner Task.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net6.0\ref\02. A Miner Task.dll

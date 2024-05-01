@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\bin\Debug\net6.0\06. Student Academy.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\bin\Debug\net6.0\06. Student Academy.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\bin\Debug\net6.0\06. Student Academy.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\bin\Debug\net6.0\06. Student Academy.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\bin\Debug\net6.0\06. Student Academy.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net6.0\refint\06. Student Academy.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net6.0\ref\06. Student Academy.dll
