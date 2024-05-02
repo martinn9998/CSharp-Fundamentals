@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\02. Race\\02. Race.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\02. Race\\02. Race.csproj",
       "projectName": "02. Race",
-      "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\02. Race\\02. Race.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\02. Race\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\02. Race\\02. Race.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\02. Race\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

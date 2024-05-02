@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF793BF-B205-4948-8FA8-A7F50AF6FDEF}|02. Race\\02. Race.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\26 regular expressions - exercise\\02. race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF793BF-B205-4948-8FA8-A7F50AF6FDEF}|02. Race\\02. Race.csproj|solutionrelative:02. race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E679BB-2FD2-4CA9-B7EC-54FCD0FCBB38}|01. Furniture\\01. Furniture.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\26 regular expressions - exercise\\01. furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E679BB-2FD2-4CA9-B7EC-54FCD0FCBB38}|01. Furniture\\01. Furniture.csproj|solutionrelative:01. furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07639F8F-9849-4FEA-9209-21EE05485699}|06. Extract Emails\\06. Extract Emails.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\26 regular expressions - exercise\\06. extract emails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07639F8F-9849-4FEA-9209-21EE05485699}|06. Extract Emails\\06. Extract Emails.csproj|solutionrelative:06. extract emails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D833266A-6D7F-49B4-B358-00DFB54AA139}|04. Star Enigma\\04. Star Enigma.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\26 regular expressions - exercise\\04. star enigma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D833266A-6D7F-49B4-B358-00DFB54AA139}|04. Star Enigma\\04. Star Enigma.csproj|solutionrelative:04. star enigma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531E0917-13C7-452F-BFD1-F329A6BAF121}|03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\26 regular expressions - exercise\\03. softuni bar income\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531E0917-13C7-452F-BFD1-F329A6BAF121}|03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj|solutionrelative:03. softuni bar income\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\06. Extract Emails\\Program.cs",
+              "RelativeDocumentMoniker": "06. Extract Emails\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\06. Extract Emails\\Program.cs",
+              "RelativeToolTip": "06. Extract Emails\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:18:43.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\01. Furniture\\Program.cs",
+              "RelativeDocumentMoniker": "01. Furniture\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\01. Furniture\\Program.cs",
+              "RelativeToolTip": "01. Furniture\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:18:43.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\02. Race\\Program.cs",
+              "RelativeDocumentMoniker": "02. Race\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\02. Race\\Program.cs",
+              "RelativeToolTip": "02. Race\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:18:43.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\03. SoftUni Bar Income\\Program.cs",
+              "RelativeDocumentMoniker": "03. SoftUni Bar Income\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\03. SoftUni Bar Income\\Program.cs",
+              "RelativeToolTip": "03. SoftUni Bar Income\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:18:43.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\04. Star Enigma\\Program.cs",
+              "RelativeDocumentMoniker": "04. Star Enigma\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\04. Star Enigma\\Program.cs",
+              "RelativeToolTip": "04. Star Enigma\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:18:43.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05. Nether Realms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4aeb17dd38b59cf8e6554791f213b6032d72968")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecfe1a4c3e7cc7049513866771bec9706054b433")]
 [assembly: System.Reflection.AssemblyProductAttribute("05. Nether Realms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05. Nether Realms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

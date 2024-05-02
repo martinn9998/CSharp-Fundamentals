@@ -8,8 +8,7 @@ namespace Furniture
     {
         static void Main(string[] args)
         {
-            string regex = @">>(?<furnitureName>\w+)<<(?<furniturePrice>
-\d+(.\d+)?)!(?<furnitureQty>\d+)";
+            string regex = @">>(?<furnitureName>\w+)<<(?<furniturePrice>\d+(.\d+)?)!(?<furnitureQty>\d+)";
 
             string input;
             double totalPrice = 0;
@@ -23,10 +22,8 @@ namespace Furniture
                 if (matching.Success)
                 {
                     string furnitureName = matching.Groups["furnitureName"].Value;
-                    double furniturePrice = double.Parse(matching
-                        .Groups["furniturePrice"].Value);
-                    int furnitureQty = int.Parse(matching.Groups["furnitureQty"]
-                        .Value);
+                    double furniturePrice = double.Parse(matching.Groups["furniturePrice"].Value);
+                    int furnitureQty = int.Parse(matching.Groups["furnitureQty"].Value);
 
                     totalPrice += furniturePrice * furnitureQty;
                     furnitures.Add(furnitureName);
