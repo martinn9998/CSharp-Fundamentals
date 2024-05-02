@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string username = Console.ReadLine();
+            string command;
+            while ((command = Console.ReadLine()) != "Registration")
+            {
+                if (command = "")
+            }
         }
     }
 }
