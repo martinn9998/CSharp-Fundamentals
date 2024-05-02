@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\bin\Debug\net6.0\02. Race.exe
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\bin\Debug\net6.0\02. Race.deps.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\bin\Debug\net6.0\02. Race.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\bin\Debug\net6.0\02. Race.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\bin\Debug\net6.0\02. Race.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\obj\Debug\net6.0\02. Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\obj\Debug\net6.0\02. Race.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\obj\Debug\net6.0\02. Race.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\obj\Debug\net6.0\02. Race.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\obj\Debug\net6.0\02. Race.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\obj\Debug\net6.0\refint\02. Race.dll
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\obj\Debug\net6.0\02. Race.pdb
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\obj\Debug\net6.0\02. Race.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Fundamentals\C# Fundamentals\9 Regular Expressions - Exercise\02. Race\obj\Debug\net6.0\ref\02. Race.dll
