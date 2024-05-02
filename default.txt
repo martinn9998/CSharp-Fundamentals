@@ -1,61 +1,33 @@
 ﻿﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+using System.Text;
 
-namespace LettersChangeNumbers
+namespace HTML
 {
     class Program
     {
         static void Main(string[] args)
         {
-            List<string> str = Console
-                .ReadLine()
-                .Split(" ",StringSplitOptions.RemoveEmptyEntries)
-                .ToList();
+            string heading = Console.ReadLine();
+            string content = Console.ReadLine();
 
-            List<double> sums = new List<double>();
+            var sb = new StringBuilder();
+            sb.AppendLine("<h1>");
+            sb.AppendLine($"    {heading}");
+            sb.AppendLine("</h1>");
 
+            sb.AppendLine("<article>");
+            sb.AppendLine($"    {content}");
+            sb.AppendLine("</article>");
 
-            for (int i = 0; i < str.Count; i++)
+            string comments;
+            while ((comments = Console.ReadLine()) != "end of comments")
             {
-                double currSum = 0;
-                string currStringNumber = "";
-                int numbersCount = 1;
-
-                for (int j = 0; j < str[i].Length; j++)
-                {
-                    if (str[i][j] >= 48 && str[i][j] <= 57)
-                    {
-                        currStringNumber += str[i][j];
-                        numbersCount++;
-                    }
-                }
-
-                double currNumber = double.Parse(currStringNumber);
-                currSum = currNumber;
-
-                if (str[i][0] >= 65 && str[i][0] <= 90)
-                {
-                    currSum /= (str[i][0] - 64);
-                }
-                else
-                {
-                    currSum *= (str[i][0] - 96);
-                }
-
-                if (str[i][numbersCount] >= 65 && str[i][numbersCount] <= 90)
-                {
-                    currSum -= (str[i][numbersCount] - 64);
-                }
-                else
-                {
-                    currSum += (str[i][numbersCount] - 96);
-                }
-
-                sums.Add(currSum);
+                sb.AppendLine("<div>");
+                sb.AppendLine($"    {comments}");
+                sb.AppendLine("</div>");
             }
 
-            Console.WriteLine($"{sums.Sum():f2}");
+            Console.WriteLine(sb);
         }
     }
 }
