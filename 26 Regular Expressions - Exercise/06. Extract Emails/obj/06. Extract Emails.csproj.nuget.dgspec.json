@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\9 Regular Expressions - Exercise\\06. Extract Emails\\06. Extract Emails.csproj": {}
+    "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\06. Extract Emails\\06. Extract Emails.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\9 Regular Expressions - Exercise\\06. Extract Emails\\06. Extract Emails.csproj": {
+    "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\06. Extract Emails\\06. Extract Emails.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\9 Regular Expressions - Exercise\\06. Extract Emails\\06. Extract Emails.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\06. Extract Emails\\06. Extract Emails.csproj",
         "projectName": "06. Extract Emails",
-        "projectPath": "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\9 Regular Expressions - Exercise\\06. Extract Emails\\06. Extract Emails.csproj",
-        "packagesPath": "C:\\Users\\Тотка\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\9 Regular Expressions - Exercise\\06. Extract Emails\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\06. Extract Emails\\06. Extract Emails.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\26 Regular Expressions - Exercise\\06. Extract Emails\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Тотка\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

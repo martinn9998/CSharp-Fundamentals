@@ -1,21 +1,22 @@
-﻿﻿using System;
+﻿
+﻿using System;
 using System.Text.RegularExpressions;
 
-namespace MatchFullName
+namespace ExtractEmails
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string regex = @"\b([A-Z][a-z]+) ([A-Z][a-z]+)\b";
+            string regex = @"(^|(?<=\s))(([a-zA-Z0-9]+)([\.\-_]?)([A-Za-z0-9]+)(@)([a-zA-Z]+([\.\-_][A-Za-z]+)+))(\b|(?=\s))";
 
-            string names = Console.ReadLine();
+            string input = Console.ReadLine();
 
-            MatchCollection matchedNames = Regex.Matches(names, regex);
+            MatchCollection matching = Regex.Matches(input, regex);
 
-            foreach (Match item in matchedNames)
+            foreach (var item in matching)
             {
-                Console.Write(item.Value + " ");
+                Console.WriteLine(item);
             }
         }
     }

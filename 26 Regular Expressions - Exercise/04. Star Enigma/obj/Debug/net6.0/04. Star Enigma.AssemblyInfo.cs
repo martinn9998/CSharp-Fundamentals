@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. Star Enigma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0781621b8f0c00160e6cb360eb1bb0712eca5246")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4aeb17dd38b59cf8e6554791f213b6032d72968")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. Star Enigma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. Star Enigma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
