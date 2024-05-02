@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4. Santa\'s Secret Helper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2d1983c3c429f3c3d8edbab6ee53db10e9259f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("4. Santa\'s Secret Helper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4. Santa\'s Secret Helper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

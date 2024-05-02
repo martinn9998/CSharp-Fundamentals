@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\9 Regular Expressions - More Exercise\\2. Rage Quit\\2. Rage Quit.csproj": {}
+    "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\27 Regular Expressions - More Exercise\\2. Rage Quit\\2. Rage Quit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\9 Regular Expressions - More Exercise\\2. Rage Quit\\2. Rage Quit.csproj": {
+    "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\27 Regular Expressions - More Exercise\\2. Rage Quit\\2. Rage Quit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\9 Regular Expressions - More Exercise\\2. Rage Quit\\2. Rage Quit.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\27 Regular Expressions - More Exercise\\2. Rage Quit\\2. Rage Quit.csproj",
         "projectName": "2. Rage Quit",
-        "projectPath": "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\9 Regular Expressions - More Exercise\\2. Rage Quit\\2. Rage Quit.csproj",
-        "packagesPath": "C:\\Users\\Тотка\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Тотка\\Desktop\\CSharp\\Fundamentals\\C# Fundamentals\\9 Regular Expressions - More Exercise\\2. Rage Quit\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\27 Regular Expressions - More Exercise\\2. Rage Quit\\2. Rage Quit.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharp-Fundamentals\\27 Regular Expressions - More Exercise\\2. Rage Quit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Тотка\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
