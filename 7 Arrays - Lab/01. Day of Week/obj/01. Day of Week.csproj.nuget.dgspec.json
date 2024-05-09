@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\CSharp\\Fundamentals\\C# Fundamentals\\Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj": {}
   },
   "projects": {
-    "G:\\CSharp\\Fundamentals\\C# Fundamentals\\Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\CSharp\\Fundamentals\\C# Fundamentals\\Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj",
         "projectName": "01. Day of Week",
-        "projectPath": "G:\\CSharp\\Fundamentals\\C# Fundamentals\\Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "G:\\CSharp\\Fundamentals\\C# Fundamentals\\Arrays - Lab\\01. Day of Week\\obj\\",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\01. Day of Week\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

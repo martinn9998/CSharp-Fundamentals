@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3529C43A-0F75-44C3-8A64-2980066DE0D1}|10. LadyBugs\\10. LadyBugs.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\8 arrays - exercise\\10. ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3529C43A-0F75-44C3-8A64-2980066DE0D1}|10. LadyBugs\\10. LadyBugs.csproj|solutionrelative:10. ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42CB916-DD20-4E8C-B238-1A0A81EBA5C6}|09. Kamino Factory\\09. Kamino Factory.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\8 arrays - exercise\\09. kamino factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42CB916-DD20-4E8C-B238-1A0A81EBA5C6}|09. Kamino Factory\\09. Kamino Factory.csproj|solutionrelative:09. kamino factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484117F2-F6B0-4AF9-87B6-493346A48CBD}|08. Magic Sum\\08. Magic Sum.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\8 arrays - exercise\\08. magic sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484117F2-F6B0-4AF9-87B6-493346A48CBD}|08. Magic Sum\\08. Magic Sum.csproj|solutionrelative:08. magic sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4166CB5-3D00-4FC8-B2F3-C9D2749F9184}|Demo\\Demo.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\8 arrays - exercise\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4166CB5-3D00-4FC8-B2F3-C9D2749F9184}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35D7505-387F-43C2-89BB-751493F51F8A}|07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\8 arrays - exercise\\07. max sequence of equal elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35D7505-387F-43C2-89BB-751493F51F8A}|07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj|solutionrelative:07. max sequence of equal elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9772F7C9-FD68-4645-86BB-E9955FEE56FA}|06. Equal Sum\\06. Equal Sum.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\8 arrays - exercise\\06. equal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9772F7C9-FD68-4645-86BB-E9955FEE56FA}|06. Equal Sum\\06. Equal Sum.csproj|solutionrelative:06. equal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAA3188-D649-4F60-A972-73D548EE2977}|05. Top Integers\\05. Top Integers.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\8 arrays - exercise\\05. top integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AAA3188-D649-4F60-A972-73D548EE2977}|05. Top Integers\\05. Top Integers.csproj|solutionrelative:05. top integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BC21DD-715B-4134-B606-69E2493F7D53}|04. Array Rotation\\04. Array Rotation.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\8 arrays - exercise\\04. array rotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BC21DD-715B-4134-B606-69E2493F7D53}|04. Array Rotation\\04. Array Rotation.csproj|solutionrelative:04. array rotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5B115E-1ECA-4CE2-99BF-07F6F30A33C7}|03. Zig-Zag Arrays\\03. Zig-Zag Arrays.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\8 arrays - exercise\\03. zig-zag arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5B115E-1ECA-4CE2-99BF-07F6F30A33C7}|03. Zig-Zag Arrays\\03. Zig-Zag Arrays.csproj|solutionrelative:03. zig-zag arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F98F4BC-4B25-4951-837A-253227BCF2B5}|02. Common Elements\\02. Common Elements.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\8 arrays - exercise\\02. common elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F98F4BC-4B25-4951-837A-253227BCF2B5}|02. Common Elements\\02. Common Elements.csproj|solutionrelative:02. common elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C092649-0F99-4D49-8DFE-D809592D3CB5}|01. Train\\01. Train.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\8 arrays - exercise\\01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C092649-0F99-4D49-8DFE-D809592D3CB5}|01. Train\\01. Train.csproj|solutionrelative:01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:56:32.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\06. Equal Sum\\Program.cs",
+              "RelativeDocumentMoniker": "06. Equal Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\06. Equal Sum\\Program.cs",
+              "RelativeToolTip": "06. Equal Sum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:56:32.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\07. Max Sequence of Equal Elements\\Program.cs",
+              "RelativeDocumentMoniker": "07. Max Sequence of Equal Elements\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\07. Max Sequence of Equal Elements\\Program.cs",
+              "RelativeToolTip": "07. Max Sequence of Equal Elements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:56:32.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\08. Magic Sum\\Program.cs",
+              "RelativeDocumentMoniker": "08. Magic Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\08. Magic Sum\\Program.cs",
+              "RelativeToolTip": "08. Magic Sum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:56:32.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\09. Kamino Factory\\Program.cs",
+              "RelativeDocumentMoniker": "09. Kamino Factory\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\09. Kamino Factory\\Program.cs",
+              "RelativeToolTip": "09. Kamino Factory\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwFYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:56:32.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\10. LadyBugs\\Program.cs",
+              "RelativeDocumentMoniker": "10. LadyBugs\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\10. LadyBugs\\Program.cs",
+              "RelativeToolTip": "10. LadyBugs\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwGsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:56:32.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\05. Top Integers\\Program.cs",
+              "RelativeDocumentMoniker": "05. Top Integers\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\05. Top Integers\\Program.cs",
+              "RelativeToolTip": "05. Top Integers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:56:32.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\04. Array Rotation\\Program.cs",
+              "RelativeDocumentMoniker": "04. Array Rotation\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\04. Array Rotation\\Program.cs",
+              "RelativeToolTip": "04. Array Rotation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:56:32.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\03. Zig-Zag Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "03. Zig-Zag Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\03. Zig-Zag Arrays\\Program.cs",
+              "RelativeToolTip": "03. Zig-Zag Arrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:56:32.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\02. Common Elements\\Program.cs",
+              "RelativeDocumentMoniker": "02. Common Elements\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\02. Common Elements\\Program.cs",
+              "RelativeToolTip": "02. Common Elements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:56:32.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\01. Train\\Program.cs",
+              "RelativeDocumentMoniker": "01. Train\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\8 Arrays - Exercise\\01. Train\\Program.cs",
+              "RelativeToolTip": "01. Train\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:56:32.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17C1AD3D-B3FE-4F3C-AEBA-FD7094EEB232}|07. Equal Arrays\\07. Equal Arrays.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\7 arrays - lab\\07. equal arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C1AD3D-B3FE-4F3C-AEBA-FD7094EEB232}|07. Equal Arrays\\07. Equal Arrays.csproj|solutionrelative:07. equal arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2CF07D-E8B3-4111-AB21-EBDF16450769}|06. Even and Odd Subtraction\\06. Even and Odd Subtraction.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\7 arrays - lab\\06. even and odd subtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2CF07D-E8B3-4111-AB21-EBDF16450769}|06. Even and Odd Subtraction\\06. Even and Odd Subtraction.csproj|solutionrelative:06. even and odd subtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CFDFC9-50EE-4994-B9AD-58FDC00DF949}|05. Sum Even Numbers\\05. Sum Even Numbers.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\7 arrays - lab\\05. sum even numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CFDFC9-50EE-4994-B9AD-58FDC00DF949}|05. Sum Even Numbers\\05. Sum Even Numbers.csproj|solutionrelative:05. sum even numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107C9861-400F-49A6-B078-47212CFDD10E}|04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\7 arrays - lab\\04. reverse array of strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107C9861-400F-49A6-B078-47212CFDD10E}|04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj|solutionrelative:04. reverse array of strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F142BF-CD1A-4D07-B78D-74811B239A6F}|08. Condense Array to Number\\08. Condense Array to Number.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\7 arrays - lab\\08. condense array to number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F142BF-CD1A-4D07-B78D-74811B239A6F}|08. Condense Array to Number\\08. Condense Array to Number.csproj|solutionrelative:08. condense array to number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D841837-9CAE-4F82-B99B-E711BD4BC0A2}|Demo\\Demo.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\7 arrays - lab\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D841837-9CAE-4F82-B99B-E711BD4BC0A2}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E050D0-491C-4A9D-8CC2-756C0013EB0B}|03. Rounding Numbers\\03. Rounding Numbers.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\7 arrays - lab\\03. rounding numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E050D0-491C-4A9D-8CC2-756C0013EB0B}|03. Rounding Numbers\\03. Rounding Numbers.csproj|solutionrelative:03. rounding numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7CA7E9-B502-4AA8-94C6-324F8271B770}|02. Print Numbers in Reverse Order\\02. Print Numbers in Reverse Order.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\7 arrays - lab\\02. print numbers in reverse order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7CA7E9-B502-4AA8-94C6-324F8271B770}|02. Print Numbers in Reverse Order\\02. Print Numbers in Reverse Order.csproj|solutionrelative:02. print numbers in reverse order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA2080F-D136-40F7-9A53-CBAB50F9E64D}|01. Day of Week\\01. Day of Week.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\7 arrays - lab\\01. day of week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA2080F-D136-40F7-9A53-CBAB50F9E64D}|01. Day of Week\\01. Day of Week.csproj|solutionrelative:01. day of week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\08. Condense Array to Number\\Program.cs",
+              "RelativeDocumentMoniker": "08. Condense Array to Number\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\08. Condense Array to Number\\Program.cs",
+              "RelativeToolTip": "08. Condense Array to Number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:13:07.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\06. Even and Odd Subtraction\\Program.cs",
+              "RelativeDocumentMoniker": "06. Even and Odd Subtraction\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\06. Even and Odd Subtraction\\Program.cs",
+              "RelativeToolTip": "06. Even and Odd Subtraction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:13:07.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\04. Reverse Array of Strings\\Program.cs",
+              "RelativeDocumentMoniker": "04. Reverse Array of Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\04. Reverse Array of Strings\\Program.cs",
+              "RelativeToolTip": "04. Reverse Array of Strings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:13:07.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\05. Sum Even Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "05. Sum Even Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\05. Sum Even Numbers\\Program.cs",
+              "RelativeToolTip": "05. Sum Even Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:13:07.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\07. Equal Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "07. Equal Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\07. Equal Arrays\\Program.cs",
+              "RelativeToolTip": "07. Equal Arrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:13:07.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:13:07.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\03. Rounding Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Rounding Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\03. Rounding Numbers\\Program.cs",
+              "RelativeToolTip": "03. Rounding Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:13:07.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\02. Print Numbers in Reverse Order\\Program.cs",
+              "RelativeDocumentMoniker": "02. Print Numbers in Reverse Order\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\02. Print Numbers in Reverse Order\\Program.cs",
+              "RelativeToolTip": "02. Print Numbers in Reverse Order\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:13:07.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\01. Day of Week\\Program.cs",
+              "RelativeDocumentMoniker": "01. Day of Week\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\7 Arrays - Lab\\01. Day of Week\\Program.cs",
+              "RelativeToolTip": "01. Day of Week\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:13:07.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
