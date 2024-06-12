@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\net6.0\03. Memory Game.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\net6.0\03. Memory Game.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\net6.0\03. Memory Game.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\net6.0\03. Memory Game.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\bin\Debug\net6.0\03. Memory Game.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\refint\03. Memory Game.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\03. Memory Game.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\01. Programming Fundamentals Mid Exam Retake\03. Memory Game\obj\Debug\net6.0\ref\03. Memory Game.dll
