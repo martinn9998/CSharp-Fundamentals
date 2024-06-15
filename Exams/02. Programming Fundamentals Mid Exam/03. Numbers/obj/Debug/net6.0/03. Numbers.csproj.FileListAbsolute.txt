@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\net6.0\03. Numbers.exe
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\net6.0\03. Numbers.deps.json
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\net6.0\03. Numbers.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\net6.0\03. Numbers.dll
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\bin\Debug\net6.0\03. Numbers.pdb
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net6.0\03. Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net6.0\03. Numbers.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net6.0\03. Numbers.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net6.0\03. Numbers.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net6.0\03. Numbers.sourcelink.json
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net6.0\03. Numbers.dll
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net6.0\refint\03. Numbers.dll
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net6.0\03. Numbers.pdb
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net6.0\03. Numbers.genruntimeconfig.cache
+C:\Users\admin\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\03. Numbers\obj\Debug\net6.0\ref\03. Numbers.dll

@@ -12,12 +12,17 @@ namespace Numbers
                 .Select(int.Parse)
                 .ToList();
             double sum = 0;
+            if (sequence.Count == 1 && sequence[0] == 1)
+            {
+                Console.WriteLine("No");
+                return;
+            }
             for (int i = 0; i < sequence.Count; i++)
             {
                 double value = sequence[i];
                 sum += value;
             }
-            double average = Math.Round(sum / sequence.Count, 2); ;
+            double average = Math.Round(sum / sequence.Count, 2);
             List<int> greaterThanAverage = new List<int>();
             foreach (int value in sequence)
             {
@@ -26,9 +31,21 @@ namespace Numbers
                     greaterThanAverage.Add(value);
                 }
             }
-            greaterThanAverage = greaterThanAverage.OrderByDescending(x => x.Name).ToList();
-
-
+            greaterThanAverage = greaterThanAverage.OrderByDescending(x => x).ToList();
+            if (greaterThanAverage.Count >= 5)
+            {
+                for (int i = 0;i < 5; i++)
+                {
+                    Console.Write($"{greaterThanAverage[i]} ");
+                }
+            }
+            else
+            {
+                for (int i = 0; i < greaterThanAverage.Count ; i++)
+                {
+                    Console.Write($"{greaterThanAverage[i]} ");
+                }
+            }
         }
     }
 }
