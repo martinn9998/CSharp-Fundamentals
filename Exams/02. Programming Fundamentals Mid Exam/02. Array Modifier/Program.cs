@@ -1,10 +1,24 @@
-﻿namespace _02._Array_Modifier
+﻿namespace ArrayModifier
 {
-    internal class Program
+    class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            int[] arr = Console
+                .ReadLine()
+                .Split()
+                .Select(int.Parse)
+                .ToArray();
+            string input;
+            while ((input = Console.ReadLine()) != "end")
+            {
+                string[] inputArr = input.Split();
+                string process = inputArr[0];
+                if (process == "swap")
+                {
+
+                }
+            }
         }
     }
 }
