@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Array Modifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b66c9f276433a4b342e3e46d5b8623e129104412")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a38f13506ea3a06a5339b3adbfe9554536c246a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Array Modifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Array Modifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
