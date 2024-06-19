@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\bin\Debug\net6.0\02. Array Modifier.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\bin\Debug\net6.0\02. Array Modifier.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\bin\Debug\net6.0\02. Array Modifier.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\bin\Debug\net6.0\02. Array Modifier.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\bin\Debug\net6.0\02. Array Modifier.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net6.0\02. Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net6.0\02. Array Modifier.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net6.0\02. Array Modifier.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net6.0\02. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net6.0\02. Array Modifier.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net6.0\02. Array Modifier.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net6.0\refint\02. Array Modifier.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net6.0\02. Array Modifier.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net6.0\02. Array Modifier.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\02. Programming Fundamentals Mid Exam\02. Array Modifier\obj\Debug\net6.0\ref\02. Array Modifier.dll

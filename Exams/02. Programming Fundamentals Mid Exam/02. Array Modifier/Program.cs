@@ -23,13 +23,21 @@
                 }
                 else if (process == "multiply")
                 {
-                     
+
+                    int firstIndex = int.Parse(inputArr[1]);
+                    int secondIndex = int.Parse(inputArr[2]);
+                    var firstElement = arr[firstIndex];
+                    var secondElement = arr[secondIndex];
+                    var multiply = firstElement * secondElement;
+                    arr[firstIndex] = multiply;
                 }
-                else if (process == "decrease" &&)
+                else if (process == "decrease")
                 {
-                     
+                    for (int i = 0; i < arr.Length; i++)
+                    {
+                        arr[i]--;
+                    }
                 }
-                else if (process >= )
             }
         }
     }
