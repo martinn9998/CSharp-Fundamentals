@@ -32,20 +32,28 @@ namespace Numbers
                 }
             }
             greaterThanAverage = greaterThanAverage.OrderByDescending(x => x).ToList();
-            if (greaterThanAverage.Count >= 5)
+            if (greaterThanAverage.Count == 0)
             {
-                for (int i = 0; i < 5; i++)
-                {
-                    Console.Write($"{greaterThanAverage[i]} ");
-                }
+                Console.WriteLine("No");
             }
             else
             {
-                for (int i = 0; i < greaterThanAverage.Count; i++)
+                if (greaterThanAverage.Count >= 5)
                 {
-                    Console.Write($"{greaterThanAverage[i]} ");
+                    for (int i = 0; i < 5; i++)
+                    {
+                        Console.Write($"{greaterThanAverage[i]} ");
+                    }
+                }
+                else
+                {
+                    for (int i = 0; i < greaterThanAverage.Count; i++)
+                    {
+                        Console.Write($"{greaterThanAverage[i]} ");
+                    }
                 }
             }
+            
         }
     }
 }
