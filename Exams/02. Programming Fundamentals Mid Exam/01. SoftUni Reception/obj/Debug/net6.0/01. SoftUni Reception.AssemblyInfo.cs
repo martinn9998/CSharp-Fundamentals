@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. SoftUni Reception")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58611c045a4e6142553b0d3efe1dc90e28c17e4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+267b38e94ab5406657056a4a6a44c91c83016428")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. SoftUni Reception")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. SoftUni Reception")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
