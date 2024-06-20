@@ -10,7 +10,7 @@
                 eployeeEfficiency[i] = int.Parse(Console.ReadLine());
             }
             int studentCount = int.Parse(Console.ReadLine());
-            int h4 = 0, h4Count = 0;
+            int h4 = 0;
             int maxPersonsPerHour = eployeeEfficiency.Sum();
             int hours = 0;
             while (studentCount > 0)
@@ -20,7 +20,6 @@
                 if (h4 == 4)
                 {
                     h4 = 0;
-                    hours--;
                 }
                 else
                 {
