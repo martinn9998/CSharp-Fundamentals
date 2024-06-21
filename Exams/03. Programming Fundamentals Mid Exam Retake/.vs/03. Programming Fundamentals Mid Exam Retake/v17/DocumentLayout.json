@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\03. Programming Fundamentals Mid Exam Retake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF65A20-79D9-41C6-BD48-DC5BCBBF4C95}|01. Counter-Strike\\01. Counter-Strike.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\exams\\03. programming fundamentals mid exam retake\\01. counter-strike\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF65A20-79D9-41C6-BD48-DC5BCBBF4C95}|01. Counter-Strike\\01. Counter-Strike.csproj|solutionrelative:01. counter-strike\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86542DC-1345-44EA-B8BB-1216990116E5}|03. Moving Target\\03. Moving Target.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\exams\\03. programming fundamentals mid exam retake\\03. moving target\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86542DC-1345-44EA-B8BB-1216990116E5}|03. Moving Target\\03. Moving Target.csproj|solutionrelative:03. moving target\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D03A051-20D0-46E1-8698-C27DFEB818FE}|02. Shoot for the Win\\02. Shoot for the Win.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\exams\\03. programming fundamentals mid exam retake\\02. shoot for the win\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D03A051-20D0-46E1-8698-C27DFEB818FE}|02. Shoot for the Win\\02. Shoot for the Win.csproj|solutionrelative:02. shoot for the win\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\03. Programming Fundamentals Mid Exam Retake\\03. Moving Target\\Program.cs",
+              "RelativeDocumentMoniker": "03. Moving Target\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\03. Programming Fundamentals Mid Exam Retake\\03. Moving Target\\Program.cs",
+              "RelativeToolTip": "03. Moving Target\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:34:55.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\03. Programming Fundamentals Mid Exam Retake\\02. Shoot for the Win\\Program.cs",
+              "RelativeDocumentMoniker": "02. Shoot for the Win\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\03. Programming Fundamentals Mid Exam Retake\\02. Shoot for the Win\\Program.cs",
+              "RelativeToolTip": "02. Shoot for the Win\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:34:33.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\03. Programming Fundamentals Mid Exam Retake\\01. Counter-Strike\\Program.cs",
+              "RelativeDocumentMoniker": "01. Counter-Strike\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\03. Programming Fundamentals Mid Exam Retake\\01. Counter-Strike\\Program.cs",
+              "RelativeToolTip": "01. Counter-Strike\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:33:40.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
