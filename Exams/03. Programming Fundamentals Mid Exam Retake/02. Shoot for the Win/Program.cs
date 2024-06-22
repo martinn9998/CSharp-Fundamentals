@@ -29,11 +29,10 @@
                         {
                             arr[i] += value;
                         }
-
                     }
                 }
-
             }
+            Console.Write($"Shot targets {countShot} -> " + string.Join(" ", arr));
         }
     }
 }
