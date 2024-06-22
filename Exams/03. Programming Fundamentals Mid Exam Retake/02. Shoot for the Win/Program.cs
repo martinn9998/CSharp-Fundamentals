@@ -4,7 +4,36 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int[] arr = Console
+                .ReadLine()
+                .Split()
+                .Select(int.Parse)
+                .ToArray();
+            string input;
+            int countShot = 0;
+            while ((input = Console.ReadLine()) != "End")
+            {
+                int targetIndex = int.Parse(input);
+                if (targetIndex >= 0 && targetIndex < arr.Length && (arr[targetIndex]) != -1)
+                {
+                    int value = arr[targetIndex];
+                    arr[targetIndex] = -1;
+                    countShot++;
+                    for (int i = 0; i < arr.Length; i++)
+                    {
+                        if (arr[i] > value)
+                        {
+                            arr[i] -= value;
+                        }
+                        else
+                        {
+                            arr[i] += value;
+                        }
+
+                    }
+                }
+
+            }
         }
     }
 }

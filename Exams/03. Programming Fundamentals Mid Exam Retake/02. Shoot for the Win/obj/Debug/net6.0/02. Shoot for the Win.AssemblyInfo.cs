@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Shoot for the Win")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96f74fc10ace05b7170f1aee96f9afd4ff630f3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da1187d349f699c5c237fe6880fc98173acac74e")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Shoot for the Win")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Shoot for the Win")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
