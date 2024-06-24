@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\Programming Fundamentals Mid Exam - 23 June 2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1DFD1A-BF06-4F16-A774-2AA6181D0369}|01. The Hunting Games\\01. The Hunting Games.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\exams\\programming fundamentals mid exam - 23 june 2024\\01. the hunting games\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1DFD1A-BF06-4F16-A774-2AA6181D0369}|01. The Hunting Games\\01. The Hunting Games.csproj|solutionrelative:01. the hunting games\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A062E3-3DDE-4FE0-B118-CCA1AC029F98}|02. Friend List\\02. Friend List.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\exams\\programming fundamentals mid exam - 23 june 2024\\02. friend list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A062E3-3DDE-4FE0-B118-CCA1AC029F98}|02. Friend List\\02. Friend List.csproj|solutionrelative:02. friend list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E959427-7BA1-402C-9D83-ED0A24812402}|03. The Angry Cat\\03. The Angry Cat.csproj|c:\\users\\administrator\\documents\\github\\csharp-fundamentals\\exams\\programming fundamentals mid exam - 23 june 2024\\03. the angry cat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E959427-7BA1-402C-9D83-ED0A24812402}|03. The Angry Cat\\03. The Angry Cat.csproj|solutionrelative:03. the angry cat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\Programming Fundamentals Mid Exam - 23 June 2024\\03. The Angry Cat\\Program.cs",
+              "RelativeDocumentMoniker": "03. The Angry Cat\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\Programming Fundamentals Mid Exam - 23 June 2024\\03. The Angry Cat\\Program.cs",
+              "RelativeToolTip": "03. The Angry Cat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:04:51.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\Programming Fundamentals Mid Exam - 23 June 2024\\02. Friend List\\Program.cs",
+              "RelativeDocumentMoniker": "02. Friend List\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\Programming Fundamentals Mid Exam - 23 June 2024\\02. Friend List\\Program.cs",
+              "RelativeToolTip": "02. Friend List\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwD8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:04:20.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\Programming Fundamentals Mid Exam - 23 June 2024\\01. The Hunting Games\\Program.cs",
+              "RelativeDocumentMoniker": "01. The Hunting Games\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\CSharp-Fundamentals\\Exams\\Programming Fundamentals Mid Exam - 23 June 2024\\01. The Hunting Games\\Program.cs",
+              "RelativeToolTip": "01. The Hunting Games\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:03:31.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

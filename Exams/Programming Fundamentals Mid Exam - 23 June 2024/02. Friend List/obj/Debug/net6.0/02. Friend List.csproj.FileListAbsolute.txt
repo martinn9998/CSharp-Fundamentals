@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\bin\Debug\net6.0\02. Friend List.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\bin\Debug\net6.0\02. Friend List.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\bin\Debug\net6.0\02. Friend List.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\bin\Debug\net6.0\02. Friend List.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\bin\Debug\net6.0\02. Friend List.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\obj\Debug\net6.0\02. Friend List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\obj\Debug\net6.0\02. Friend List.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\obj\Debug\net6.0\02. Friend List.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\obj\Debug\net6.0\02. Friend List.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\obj\Debug\net6.0\02. Friend List.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\obj\Debug\net6.0\02. Friend List.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\obj\Debug\net6.0\refint\02. Friend List.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\obj\Debug\net6.0\02. Friend List.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\obj\Debug\net6.0\02. Friend List.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\02. Friend List\obj\Debug\net6.0\ref\02. Friend List.dll

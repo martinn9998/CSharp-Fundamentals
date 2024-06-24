@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\bin\Debug\net6.0\03. The Angry Cat.exe
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\bin\Debug\net6.0\03. The Angry Cat.deps.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\bin\Debug\net6.0\03. The Angry Cat.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\bin\Debug\net6.0\03. The Angry Cat.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\bin\Debug\net6.0\03. The Angry Cat.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\obj\Debug\net6.0\refint\03. The Angry Cat.dll
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.pdb
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\CSharp-Fundamentals\Exams\Programming Fundamentals Mid Exam - 23 June 2024\03. The Angry Cat\obj\Debug\net6.0\ref\03. The Angry Cat.dll
